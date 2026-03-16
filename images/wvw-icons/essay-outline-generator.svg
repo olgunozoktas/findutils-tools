@@ -5,6 +5,8 @@
       <stop offset="100%" stop-color="#818cf8"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="113" fill="url(#bg)"/>
-  <line x1="200" y1="208" x2="200" y2="208" stroke="white" stroke-width="20" stroke-linecap="round"/><line x1="232" y1="208" x2="328" y2="208" stroke="white" stroke-width="16" stroke-linecap="round"/><line x1="200" y1="256" x2="200" y2="256" stroke="white" stroke-width="20" stroke-linecap="round"/><line x1="232" y1="256" x2="328" y2="256" stroke="white" stroke-width="16" stroke-linecap="round"/><line x1="200" y1="304" x2="200" y2="304" stroke="white" stroke-width="20" stroke-linecap="round"/><line x1="232" y1="304" x2="328" y2="304" stroke="white" stroke-width="16" stroke-linecap="round"/>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <g transform="translate(115,115) scale(11.75)" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="8" x2="21" y1="6" y2="6"/><line x1="8" x2="21" y1="12" y2="12"/><line x1="8" x2="21" y1="18" y2="18"/><line x1="3" x2="3.01" y1="6" y2="6"/><line x1="3" x2="3.01" y1="12" y2="12"/><line x1="3" x2="3.01" y1="18" y2="18"/>
+  </g>
 </svg>

@@ -5,6 +5,8 @@
       <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="113" fill="url(#bg)"/>
-  <rect x="176" y="136" width="160" height="240" rx="16" fill="none" stroke="white" stroke-width="20"/><rect x="200" y="164" width="112" height="48" rx="8" fill="white" opacity="0.3"/><circle cx="216" cy="260" r="12" fill="white"/><circle cx="256" cy="260" r="12" fill="white"/><circle cx="296" cy="260" r="12" fill="white"/><circle cx="216" cy="304" r="12" fill="white"/><circle cx="256" cy="304" r="12" fill="white"/><circle cx="296" cy="304" r="12" fill="white"/><circle cx="216" cy="348" r="12" fill="white"/><circle cx="256" cy="348" r="12" fill="white"/><circle cx="296" cy="348" r="12" fill="white"/>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <g transform="translate(115,115) scale(11.75)" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="16" height="20" x="4" y="2" rx="2"/><line x1="8" x2="16" y1="6" y2="6"/><line x1="16" x2="16" y1="14" y2="18"/><path d="M16 10h.01"/><path d="M12 10h.01"/><path d="M8 10h.01"/><path d="M12 14h.01"/><path d="M8 14h.01"/><path d="M12 18h.01"/><path d="M8 18h.01"/>
+  </g>
 </svg>

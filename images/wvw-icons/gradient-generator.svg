@@ -5,6 +5,8 @@
       <stop offset="100%" stop-color="#e879f9"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="113" fill="url(#bg)"/>
-  <path d="M160 320a96 96 0 0 1 192 0" fill="none" stroke="white" stroke-width="24" stroke-linecap="round"/><path d="M192 320a64 64 0 0 1 128 0" fill="none" stroke="white" stroke-width="16" stroke-linecap="round" opacity="0.6"/>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <g transform="translate(115,115) scale(11.75)" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 17a10 10 0 0 0-20 0"/><path d="M6 17a6 6 0 0 1 12 0"/><path d="M10 17a2 2 0 0 1 4 0"/>
+  </g>
 </svg>

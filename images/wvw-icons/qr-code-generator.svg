@@ -5,6 +5,8 @@
       <stop offset="100%" stop-color="#a78bfa"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="113" fill="url(#bg)"/>
-  <rect x="168" y="168" width="72" height="72" rx="8" fill="white"/><rect x="272" y="168" width="72" height="72" rx="8" fill="white"/><rect x="168" y="272" width="72" height="72" rx="8" fill="white"/><rect x="184" y="184" width="40" height="40" rx="4" fill="white" opacity="0.3"/><rect x="288" y="184" width="40" height="40" rx="4" fill="white" opacity="0.3"/><rect x="184" y="288" width="40" height="40" rx="4" fill="white" opacity="0.3"/><rect x="272" y="288" width="32" height="32" fill="white" opacity="0.6"/><rect x="312" y="272" width="32" height="32" fill="white" opacity="0.6"/><rect x="312" y="312" width="32" height="32" fill="white" opacity="0.6"/>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <g transform="translate(115,115) scale(11.75)" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="5" height="5" x="3" y="3" rx="1"/><rect width="5" height="5" x="16" y="3" rx="1"/><rect width="5" height="5" x="3" y="16" rx="1"/><path d="M21 16h-3a2 2 0 0 0-2 2v3"/><path d="M21 21v.01"/><path d="M12 7v3a2 2 0 0 1-2 2H7"/><path d="M3 12h.01"/><path d="M12 3h.01"/><path d="M12 16v.01"/><path d="M16 12h1"/><path d="M21 12v.01"/><path d="M12 21v-1"/>
+  </g>
 </svg>

@@ -5,6 +5,8 @@
       <stop offset="100%" stop-color="#818cf8"/>
     </linearGradient>
   </defs>
-  <rect width="512" height="512" rx="113" fill="url(#bg)"/>
-  <polyline points="200,208 152,256 200,304" fill="none" stroke="white" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/><polyline points="312,208 360,256 312,304" fill="none" stroke="white" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <g transform="translate(115,115) scale(11.75)" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/>
+  </g>
 </svg>
