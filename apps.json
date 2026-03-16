@@ -48,8 +48,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/photo-editor/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/photo-editor/",
       "icon": "https://findutils.com/images/og/tools/en/photo-editor.png"
     },
     {
@@ -64,8 +64,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/photo-measurement/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/photo-measurement/",
       "icon": "https://findutils.com/images/og/tools/en/photo-measurement.png"
     },
     {
@@ -80,8 +80,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/password-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/password-generator/",
       "icon": "https://findutils.com/images/og/tools/en/password-generator.png"
     },
     {
@@ -95,10 +95,10 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/free-music-library/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/free-music-library/",
       "icon": "https://findutils.com/images/og-default.png",
-      "iconEmoji": "\ud83c\udfb5"
+      "iconEmoji": "\u2728"
     },
     {
       "id": "findutils-qr-code-generator",
@@ -111,8 +111,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/qr-code-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/qr-code-generator/",
       "icon": "https://findutils.com/images/og/tools/en/qr-code-generator.png"
     },
     {
@@ -127,8 +127,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-formatter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-formatter/",
       "icon": "https://findutils.com/images/og/tools/en/json-formatter.png"
     },
     {
@@ -143,8 +143,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-minifier/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-minifier/",
       "icon": "https://findutils.com/images/og/tools/en/json-minifier.png"
     },
     {
@@ -159,8 +159,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-escaper/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-escaper/",
       "icon": "https://findutils.com/images/og/tools/en/json-escaper.png"
     },
     {
@@ -174,8 +174,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/html-table-to-json/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/html-table-to-json/",
       "icon": "https://findutils.com/images/og/tools/en/html-table-to-json.png"
     },
     {
@@ -189,8 +189,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-markdown-table/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-markdown-table/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-markdown-table.png"
     },
     {
@@ -205,8 +205,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/url-params-to-json/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/url-params-to-json/",
       "icon": "https://findutils.com/images/og/tools/en/url-params-to-json.png"
     },
     {
@@ -221,8 +221,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-url-params/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-url-params/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-url-params.png"
     },
     {
@@ -237,8 +237,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-path-finder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-path-finder/",
       "icon": "https://findutils.com/images/og/tools/en/json-path-finder.png"
     },
     {
@@ -253,8 +253,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-html-form/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-html-form/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-html-form.png"
     },
     {
@@ -269,8 +269,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-tailwind-form/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-tailwind-form/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-tailwind-form.png"
     },
     {
@@ -285,8 +285,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-bootstrap-form/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-bootstrap-form/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-bootstrap-form.png"
     },
     {
@@ -301,8 +301,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-react-form/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-react-form/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-react-form.png"
     },
     {
@@ -317,8 +317,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/form-to-json-schema/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/form-to-json-schema/",
       "icon": "https://findutils.com/images/og/tools/en/form-to-json-schema.png"
     },
     {
@@ -333,8 +333,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-schema-form-builder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-schema-form-builder/",
       "icon": "https://findutils.com/images/og/tools/en/json-schema-form-builder.png"
     },
     {
@@ -348,8 +348,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-social-card/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-social-card/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-social-card.png"
     },
     {
@@ -363,8 +363,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-pricing-table/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-pricing-table/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-pricing-table.png"
     },
     {
@@ -378,8 +378,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-product-card/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-product-card/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-product-card.png"
     },
     {
@@ -393,8 +393,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-profile-card/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-profile-card/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-profile-card.png"
     },
     {
@@ -408,8 +408,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-testimonial-card/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-testimonial-card/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-testimonial-card.png"
     },
     {
@@ -423,8 +423,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-timeline/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-timeline/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-timeline.png"
     },
     {
@@ -438,8 +438,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-chart/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-chart/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-chart.png"
     },
     {
@@ -453,8 +453,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-org-chart/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-org-chart/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-org-chart.png"
     },
     {
@@ -468,8 +468,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-invoice/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-invoice/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-invoice.png"
     },
     {
@@ -483,8 +483,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-resume/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-resume/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-resume.png"
     },
     {
@@ -498,8 +498,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-email-template/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-email-template/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-email-template.png"
     },
     {
@@ -513,8 +513,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-readme/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-readme/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-readme.png"
     },
     {
@@ -529,8 +529,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-pdf-renderer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-pdf-renderer/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-pdf-renderer.png"
     },
     {
@@ -545,8 +545,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/visual-json/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/visual-json/",
       "icon": "https://findutils.com/images/og/tools/en/visual-json.png"
     },
     {
@@ -561,8 +561,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/html-formatter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/html-formatter/",
       "icon": "https://findutils.com/images/og/tools/en/html-formatter.png"
     },
     {
@@ -576,8 +576,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pdf-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pdf-converter/",
       "icon": "https://findutils.com/images/og/tools/en/pdf-converter.png"
     },
     {
@@ -591,8 +591,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/image-resizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/image-resizer/",
       "icon": "https://findutils.com/images/og/tools/en/image-resizer.png"
     },
     {
@@ -606,8 +606,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/color-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/color-converter/",
       "icon": "https://findutils.com/images/og/tools/en/color-converter.png"
     },
     {
@@ -621,8 +621,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/inflation-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/inflation-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/inflation-calculator.png"
     },
     {
@@ -636,8 +636,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pdf-editor/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pdf-editor/",
       "icon": "https://findutils.com/images/og/tools/en/pdf-editor.png"
     },
     {
@@ -651,8 +651,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pdf-merger/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pdf-merger/",
       "icon": "https://findutils.com/images/og/tools/en/pdf-merger.png"
     },
     {
@@ -666,8 +666,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pdf-split/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pdf-split/",
       "icon": "https://findutils.com/images/og/tools/en/pdf-split.png"
     },
     {
@@ -681,8 +681,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pdf-rotate/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pdf-rotate/",
       "icon": "https://findutils.com/images/og/tools/en/pdf-rotate.png"
     },
     {
@@ -696,8 +696,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pdf-delete-pages/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pdf-delete-pages/",
       "icon": "https://findutils.com/images/og/tools/en/pdf-delete-pages.png"
     },
     {
@@ -711,8 +711,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pdf-compress/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pdf-compress/",
       "icon": "https://findutils.com/images/og/tools/en/pdf-compress.png"
     },
     {
@@ -726,8 +726,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pdf-organize/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pdf-organize/",
       "icon": "https://findutils.com/images/og/tools/en/pdf-organize.png"
     },
     {
@@ -741,8 +741,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/image-compressor/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/image-compressor/",
       "icon": "https://findutils.com/images/og/tools/en/image-compressor.png"
     },
     {
@@ -756,8 +756,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/image-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/image-converter/",
       "icon": "https://findutils.com/images/og/tools/en/image-converter.png"
     },
     {
@@ -772,8 +772,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/unix-timestamp/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/unix-timestamp/",
       "icon": "https://findutils.com/images/og/tools/en/unix-timestamp.png"
     },
     {
@@ -788,8 +788,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/ip-address-lookup/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/ip-address-lookup/",
       "icon": "https://findutils.com/images/og/tools/en/ip-address-lookup.png"
     },
     {
@@ -803,8 +803,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/case-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/case-converter/",
       "icon": "https://findutils.com/images/og/tools/en/case-converter.png"
     },
     {
@@ -818,8 +818,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/loan-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/loan-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/loan-calculator.png"
     },
     {
@@ -833,8 +833,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/uuid-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/uuid-generator/",
       "icon": "https://findutils.com/images/og/tools/en/uuid-generator.png"
     },
     {
@@ -849,8 +849,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/base64-encoder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/base64-encoder/",
       "icon": "https://findutils.com/images/og/tools/en/base64-encoder.png"
     },
     {
@@ -865,8 +865,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/md5-hash-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/md5-hash-generator/",
       "icon": "https://findutils.com/images/og/tools/en/md5-hash-generator.png"
     },
     {
@@ -881,8 +881,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/css-minifier/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/css-minifier/",
       "icon": "https://findutils.com/images/og/tools/en/css-minifier.png"
     },
     {
@@ -897,8 +897,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/sql-formatter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/sql-formatter/",
       "icon": "https://findutils.com/images/og/tools/en/sql-formatter.png"
     },
     {
@@ -912,8 +912,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/gradient-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/gradient-generator/",
       "icon": "https://findutils.com/images/og/tools/en/gradient-generator.png"
     },
     {
@@ -927,8 +927,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/contrast-checker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/contrast-checker/",
       "icon": "https://findutils.com/images/og/tools/en/contrast-checker.png"
     },
     {
@@ -942,8 +942,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/box-shadow-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/box-shadow-generator/",
       "icon": "https://findutils.com/images/og/tools/en/box-shadow-generator.png"
     },
     {
@@ -957,8 +957,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/color-palette-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/color-palette-generator/",
       "icon": "https://findutils.com/images/og/tools/en/color-palette-generator.png"
     },
     {
@@ -972,8 +972,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/glassmorphism-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/glassmorphism-generator/",
       "icon": "https://findutils.com/images/og/tools/en/glassmorphism-generator.png"
     },
     {
@@ -987,8 +987,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/word-counter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/word-counter/",
       "icon": "https://findutils.com/images/og/tools/en/word-counter.png"
     },
     {
@@ -1003,8 +1003,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/gpa-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/gpa-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/gpa-calculator.png"
     },
     {
@@ -1019,8 +1019,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/percentage-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/percentage-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/percentage-calculator.png"
     },
     {
@@ -1034,8 +1034,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pomodoro-timer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pomodoro-timer/",
       "icon": "https://findutils.com/images/og/tools/en/pomodoro-timer.png"
     },
     {
@@ -1050,8 +1050,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/age-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/age-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/age-calculator.png"
     },
     {
@@ -1066,8 +1066,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/grade-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/grade-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/grade-calculator.png"
     },
     {
@@ -1081,8 +1081,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/unit-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/unit-converter/",
       "icon": "https://findutils.com/images/og/tools/en/unit-converter.png"
     },
     {
@@ -1096,8 +1096,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/random-picker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/random-picker/",
       "icon": "https://findutils.com/images/og/tools/en/random-picker.png"
     },
     {
@@ -1111,8 +1111,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/stopwatch/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/stopwatch/",
       "icon": "https://findutils.com/images/og/tools/en/stopwatch.png"
     },
     {
@@ -1126,8 +1126,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/citation-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/citation-generator/",
       "icon": "https://findutils.com/images/og/tools/en/citation-generator.png"
     },
     {
@@ -1141,8 +1141,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/favicon-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/favicon-generator/",
       "icon": "https://findutils.com/images/og/tools/en/favicon-generator.png"
     },
     {
@@ -1157,8 +1157,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/relationship-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/relationship-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/relationship-calculator.png"
     },
     {
@@ -1173,8 +1173,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/work-anniversary-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/work-anniversary-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/work-anniversary-calculator.png"
     },
     {
@@ -1189,8 +1189,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/career-experience-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/career-experience-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/career-experience-calculator.png"
     },
     {
@@ -1205,8 +1205,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/daily-habit-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/daily-habit-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/daily-habit-calculator.png"
     },
     {
@@ -1220,8 +1220,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/social-media-image-resizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/social-media-image-resizer/",
       "icon": "https://findutils.com/images/og/tools/en/social-media-image-resizer.png"
     },
     {
@@ -1236,8 +1236,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/scientific-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/scientific-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/scientific-calculator.png"
     },
     {
@@ -1251,8 +1251,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/flashcard-maker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/flashcard-maker/",
       "icon": "https://findutils.com/images/og/tools/en/flashcard-maker.png"
     },
     {
@@ -1266,8 +1266,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/worksheet-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/worksheet-generator/",
       "icon": "https://findutils.com/images/og/tools/en/worksheet-generator.png"
     },
     {
@@ -1281,8 +1281,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/seating-chart-maker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/seating-chart-maker/",
       "icon": "https://findutils.com/images/og/tools/en/seating-chart-maker.png"
     },
     {
@@ -1296,8 +1296,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/quiz-maker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/quiz-maker/",
       "icon": "https://findutils.com/images/og/tools/en/quiz-maker.png"
     },
     {
@@ -1311,8 +1311,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/invoice-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/invoice-generator/",
       "icon": "https://findutils.com/images/og/tools/en/invoice-generator.png"
     },
     {
@@ -1326,8 +1326,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/vat-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/vat-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/vat-calculator.png"
     },
     {
@@ -1342,8 +1342,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/date-difference-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/date-difference-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/date-difference-calculator.png"
     },
     {
@@ -1357,8 +1357,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/signature-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/signature-generator/",
       "icon": "https://findutils.com/images/og/tools/en/signature-generator.png"
     },
     {
@@ -1372,8 +1372,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/email-signature-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/email-signature-generator/",
       "icon": "https://findutils.com/images/og/tools/en/email-signature-generator.png"
     },
     {
@@ -1388,8 +1388,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/meta-tag-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/meta-tag-generator/",
       "icon": "https://findutils.com/images/og/tools/en/meta-tag-generator.png"
     },
     {
@@ -1403,8 +1403,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/tone-analyzer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/tone-analyzer/",
       "icon": "https://findutils.com/images/og/tools/en/tone-analyzer.png"
     },
     {
@@ -1418,8 +1418,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/hashtag-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/hashtag-generator/",
       "icon": "https://findutils.com/images/og/tools/en/hashtag-generator.png"
     },
     {
@@ -1434,8 +1434,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/macro-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/macro-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/macro-calculator.png"
     },
     {
@@ -1449,8 +1449,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/debt-payoff-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/debt-payoff-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/debt-payoff-calculator.png"
     },
     {
@@ -1465,8 +1465,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/jwt-decoder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/jwt-decoder/",
       "icon": "https://findutils.com/images/og/tools/en/jwt-decoder.png"
     },
     {
@@ -1481,8 +1481,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/cron-expression-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/cron-expression-generator/",
       "icon": "https://findutils.com/images/og/tools/en/cron-expression-generator.png"
     },
     {
@@ -1497,8 +1497,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/regex-tester/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/regex-tester/",
       "icon": "https://findutils.com/images/og/tools/en/regex-tester.png"
     },
     {
@@ -1513,8 +1513,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/markdown-previewer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/markdown-previewer/",
       "icon": "https://findutils.com/images/og/tools/en/markdown-previewer.png"
     },
     {
@@ -1529,8 +1529,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/internet-speed-test/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/internet-speed-test/",
       "icon": "https://findutils.com/images/og/tools/en/internet-speed-test.png"
     },
     {
@@ -1544,8 +1544,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/image-caption-maker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/image-caption-maker/",
       "icon": "https://findutils.com/images/og/tools/en/image-caption-maker.png"
     },
     {
@@ -1560,8 +1560,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/dns-lookup/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/dns-lookup/",
       "icon": "https://findutils.com/images/og/tools/en/dns-lookup.png"
     },
     {
@@ -1575,8 +1575,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/typing-speed-test/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/typing-speed-test/",
       "icon": "https://findutils.com/images/og/tools/en/typing-speed-test.png"
     },
     {
@@ -1591,8 +1591,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/bmi-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/bmi-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/bmi-calculator.png"
     },
     {
@@ -1606,8 +1606,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/tip-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/tip-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/tip-calculator.png"
     },
     {
@@ -1621,8 +1621,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/compound-interest-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/compound-interest-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/compound-interest-calculator.png"
     },
     {
@@ -1636,8 +1636,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/countdown-timer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/countdown-timer/",
       "icon": "https://findutils.com/images/og/tools/en/countdown-timer.png"
     },
     {
@@ -1651,8 +1651,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/lorem-ipsum-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/lorem-ipsum-generator/",
       "icon": "https://findutils.com/images/og/tools/en/lorem-ipsum-generator.png"
     },
     {
@@ -1667,8 +1667,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/url-encoder-decoder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/url-encoder-decoder/",
       "icon": "https://findutils.com/images/og/tools/en/url-encoder-decoder.png"
     },
     {
@@ -1683,8 +1683,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/sha256-hash-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/sha256-hash-generator/",
       "icon": "https://findutils.com/images/og/tools/en/sha256-hash-generator.png"
     },
     {
@@ -1699,8 +1699,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/password-strength-checker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/password-strength-checker/",
       "icon": "https://findutils.com/images/og/tools/en/password-strength-checker.png"
     },
     {
@@ -1715,8 +1715,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/text-encryption/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/text-encryption/",
       "icon": "https://findutils.com/images/og/tools/en/text-encryption.png"
     },
     {
@@ -1731,8 +1731,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/hmac-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/hmac-generator/",
       "icon": "https://findutils.com/images/og/tools/en/hmac-generator.png"
     },
     {
@@ -1747,8 +1747,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/random-key-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/random-key-generator/",
       "icon": "https://findutils.com/images/og/tools/en/random-key-generator.png"
     },
     {
@@ -1763,8 +1763,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/file-hash-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/file-hash-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/file-hash-calculator.png"
     },
     {
@@ -1778,8 +1778,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/mortgage-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/mortgage-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/mortgage-calculator.png"
     },
     {
@@ -1794,8 +1794,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/aspect-ratio-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/aspect-ratio-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/aspect-ratio-calculator.png"
     },
     {
@@ -1809,8 +1809,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/number-base-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/number-base-converter/",
       "icon": "https://findutils.com/images/og/tools/en/number-base-converter.png"
     },
     {
@@ -1824,8 +1824,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/character-counter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/character-counter/",
       "icon": "https://findutils.com/images/og/tools/en/character-counter.png"
     },
     {
@@ -1839,8 +1839,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/reading-time-estimator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/reading-time-estimator/",
       "icon": "https://findutils.com/images/og/tools/en/reading-time-estimator.png"
     },
     {
@@ -1855,8 +1855,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/email-validator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/email-validator/",
       "icon": "https://findutils.com/images/og/tools/en/email-validator.png"
     },
     {
@@ -1871,8 +1871,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/screen-resolution-detector/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/screen-resolution-detector/",
       "icon": "https://findutils.com/images/og/tools/en/screen-resolution-detector.png"
     },
     {
@@ -1886,8 +1886,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/html-to-markdown/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/html-to-markdown/",
       "icon": "https://findutils.com/images/og/tools/en/html-to-markdown.png"
     },
     {
@@ -1901,8 +1901,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/csv-to-json/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/csv-to-json/",
       "icon": "https://findutils.com/images/og/tools/en/csv-to-json.png"
     },
     {
@@ -1916,8 +1916,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-csv/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-csv/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-csv.png"
     },
     {
@@ -1931,8 +1931,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/image-to-base64/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/image-to-base64/",
       "icon": "https://findutils.com/images/og/tools/en/image-to-base64.png"
     },
     {
@@ -1946,8 +1946,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/barcode-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/barcode-generator/",
       "icon": "https://findutils.com/images/og/tools/en/barcode-generator.png"
     },
     {
@@ -1961,8 +1961,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/placeholder-image-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/placeholder-image-generator/",
       "icon": "https://findutils.com/images/og/tools/en/placeholder-image-generator.png"
     },
     {
@@ -1976,8 +1976,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/timezone-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/timezone-converter/",
       "icon": "https://findutils.com/images/og/tools/en/timezone-converter.png"
     },
     {
@@ -1991,8 +1991,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/random-name-picker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/random-name-picker/",
       "icon": "https://findutils.com/images/og/tools/en/random-name-picker.png"
     },
     {
@@ -2006,8 +2006,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/rubric-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/rubric-generator/",
       "icon": "https://findutils.com/images/og/tools/en/rubric-generator.png"
     },
     {
@@ -2021,8 +2021,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/attendance-sheet-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/attendance-sheet-generator/",
       "icon": "https://findutils.com/images/og/tools/en/attendance-sheet-generator.png"
     },
     {
@@ -2036,8 +2036,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/report-card-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/report-card-generator/",
       "icon": "https://findutils.com/images/og/tools/en/report-card-generator.png"
     },
     {
@@ -2051,8 +2051,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/lesson-plan-template/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/lesson-plan-template/",
       "icon": "https://findutils.com/images/og/tools/en/lesson-plan-template.png"
     },
     {
@@ -2066,8 +2066,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/education-suite/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/education-suite/",
       "icon": "https://findutils.com/images/og/tools/en/education-suite.png"
     },
     {
@@ -2081,8 +2081,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/screenshot-tool/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/screenshot-tool/",
       "icon": "https://findutils.com/images/og/tools/en/screenshot-tool.png"
     },
     {
@@ -2096,8 +2096,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/auto-loan-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/auto-loan-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/auto-loan-calculator.png"
     },
     {
@@ -2111,8 +2111,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/savings-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/savings-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/savings-calculator.png"
     },
     {
@@ -2126,8 +2126,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/roi-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/roi-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/roi-calculator.png"
     },
     {
@@ -2141,8 +2141,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/retirement-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/retirement-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/retirement-calculator.png"
     },
     {
@@ -2156,8 +2156,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/credit-card-payoff-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/credit-card-payoff-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/credit-card-payoff-calculator.png"
     },
     {
@@ -2171,8 +2171,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/salary-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/salary-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/salary-calculator.png"
     },
     {
@@ -2186,8 +2186,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/investment-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/investment-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/investment-calculator.png"
     },
     {
@@ -2201,8 +2201,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/amortization-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/amortization-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/amortization-calculator.png"
     },
     {
@@ -2216,8 +2216,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/net-worth-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/net-worth-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/net-worth-calculator.png"
     },
     {
@@ -2231,8 +2231,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/down-payment-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/down-payment-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/down-payment-calculator.png"
     },
     {
@@ -2246,8 +2246,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/excel-to-csv/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/excel-to-csv/",
       "icon": "https://findutils.com/images/og/tools/en/excel-to-csv.png"
     },
     {
@@ -2261,8 +2261,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/csv-to-excel/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/csv-to-excel/",
       "icon": "https://findutils.com/images/og/tools/en/csv-to-excel.png"
     },
     {
@@ -2276,8 +2276,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/csv-viewer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/csv-viewer/",
       "icon": "https://findutils.com/images/og/tools/en/csv-viewer.png"
     },
     {
@@ -2291,8 +2291,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/csv-merger/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/csv-merger/",
       "icon": "https://findutils.com/images/og/tools/en/csv-merger.png"
     },
     {
@@ -2306,8 +2306,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/csv-column-extractor/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/csv-column-extractor/",
       "icon": "https://findutils.com/images/og/tools/en/csv-column-extractor.png"
     },
     {
@@ -2321,8 +2321,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/video-trimmer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/video-trimmer/",
       "icon": "https://findutils.com/images/og/tools/en/video-trimmer.png"
     },
     {
@@ -2336,8 +2336,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/video-to-gif/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/video-to-gif/",
       "icon": "https://findutils.com/images/og/tools/en/video-to-gif.png"
     },
     {
@@ -2351,8 +2351,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/video-compressor/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/video-compressor/",
       "icon": "https://findutils.com/images/og/tools/en/video-compressor.png"
     },
     {
@@ -2366,8 +2366,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/video-format-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/video-format-converter/",
       "icon": "https://findutils.com/images/og/tools/en/video-format-converter.png"
     },
     {
@@ -2381,23 +2381,23 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/video-resizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/video-resizer/",
       "icon": "https://findutils.com/images/og/tools/en/video-resizer.png"
     },
     {
       "id": "findutils-video-rotator",
       "name": "Video Rotator",
-      "subtitle": "Rotate and flip videos by 90, 180, or 270.",
-      "description": "Rotate and flip videos by 90, 180, or 270. Fix sideways videos or create mirror effects.",
+      "subtitle": "Rotate and flip videos by 90\u00b0, 180\u00b0, or 270\u00b0.",
+      "description": "Rotate and flip videos by 90\u00b0, 180\u00b0, or 270\u00b0. Fix sideways videos or create mirror effects.",
       "category": [
         "utilities",
         "web"
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/video-rotator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/video-rotator/",
       "icon": "https://findutils.com/images/og/tools/en/video-rotator.png"
     },
     {
@@ -2412,8 +2412,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/video-metadata-extractor/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/video-metadata-extractor/",
       "icon": "https://findutils.com/images/og/tools/en/video-metadata-extractor.png"
     },
     {
@@ -2427,8 +2427,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/video-to-audio/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/video-to-audio/",
       "icon": "https://findutils.com/images/og/tools/en/video-to-audio.png"
     },
     {
@@ -2442,8 +2442,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/audio-trimmer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/audio-trimmer/",
       "icon": "https://findutils.com/images/og/tools/en/audio-trimmer.png"
     },
     {
@@ -2457,8 +2457,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/audio-format-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/audio-format-converter/",
       "icon": "https://findutils.com/images/og/tools/en/audio-format-converter.png"
     },
     {
@@ -2472,8 +2472,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/audio-resampler/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/audio-resampler/",
       "icon": "https://findutils.com/images/og/tools/en/audio-resampler.png"
     },
     {
@@ -2488,8 +2488,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/audio-metadata-extractor/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/audio-metadata-extractor/",
       "icon": "https://findutils.com/images/og/tools/en/audio-metadata-extractor.png"
     },
     {
@@ -2503,8 +2503,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/voice-recorder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/voice-recorder/",
       "icon": "https://findutils.com/images/og/tools/en/voice-recorder.png"
     },
     {
@@ -2518,8 +2518,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/video-thumbnail-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/video-thumbnail-generator/",
       "icon": "https://findutils.com/images/og/tools/en/video-thumbnail-generator.png"
     },
     {
@@ -2533,8 +2533,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/subtitle-extractor/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/subtitle-extractor/",
       "icon": "https://findutils.com/images/og/tools/en/subtitle-extractor.png"
     },
     {
@@ -2549,8 +2549,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/media-info-viewer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/media-info-viewer/",
       "icon": "https://findutils.com/images/og/tools/en/media-info-viewer.png"
     },
     {
@@ -2564,8 +2564,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/dev-request-prioritizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/dev-request-prioritizer/",
       "icon": "https://findutils.com/images/og/tools/en/dev-request-prioritizer.png"
     },
     {
@@ -2579,8 +2579,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/sprint-capacity-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/sprint-capacity-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/sprint-capacity-calculator.png"
     },
     {
@@ -2594,8 +2594,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/scope-creep-tracker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/scope-creep-tracker/",
       "icon": "https://findutils.com/images/og/tools/en/scope-creep-tracker.png"
     },
     {
@@ -2609,8 +2609,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/tech-debt-register/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/tech-debt-register/",
       "icon": "https://findutils.com/images/og/tools/en/tech-debt-register.png"
     },
     {
@@ -2624,8 +2624,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/client-status-report-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/client-status-report-generator/",
       "icon": "https://findutils.com/images/og/tools/en/client-status-report-generator.png"
     },
     {
@@ -2639,8 +2639,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/story-point-poker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/story-point-poker/",
       "icon": "https://findutils.com/images/og/tools/en/story-point-poker.png"
     },
     {
@@ -2654,8 +2654,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/retro-meeting/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/retro-meeting/",
       "icon": "https://findutils.com/images/og/tools/en/retro-meeting.png"
     },
     {
@@ -2670,8 +2670,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/exif-remover/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/exif-remover/",
       "icon": "https://findutils.com/images/og/tools/en/exif-remover.png"
     },
     {
@@ -2685,8 +2685,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/readability-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/readability-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/readability-calculator.png"
     },
     {
@@ -2700,8 +2700,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/dividend-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/dividend-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/dividend-calculator.png"
     },
     {
@@ -2716,8 +2716,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/travel-budget-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/travel-budget-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/travel-budget-calculator.png"
     },
     {
@@ -2731,8 +2731,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/profit-margin-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/profit-margin-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/profit-margin-calculator.png"
     },
     {
@@ -2746,8 +2746,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/timesheet-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/timesheet-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/timesheet-calculator.png"
     },
     {
@@ -2761,8 +2761,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/business-loan-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/business-loan-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/business-loan-calculator.png"
     },
     {
@@ -2776,8 +2776,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/self-employment-tax-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/self-employment-tax-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/self-employment-tax-calculator.png"
     },
     {
@@ -2791,8 +2791,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/purchase-order-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/purchase-order-generator/",
       "icon": "https://findutils.com/images/og/tools/en/purchase-order-generator.png"
     },
     {
@@ -2807,8 +2807,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-yaml-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-yaml-converter/",
       "icon": "https://findutils.com/images/og/tools/en/json-yaml-converter.png"
     },
     {
@@ -2823,8 +2823,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/yaml-validator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/yaml-validator/",
       "icon": "https://findutils.com/images/og/tools/en/yaml-validator.png"
     },
     {
@@ -2838,8 +2838,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/markdown-table-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/markdown-table-generator/",
       "icon": "https://findutils.com/images/og/tools/en/markdown-table-generator.png"
     },
     {
@@ -2853,8 +2853,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/text-line-sorter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/text-line-sorter/",
       "icon": "https://findutils.com/images/og/tools/en/text-line-sorter.png"
     },
     {
@@ -2869,8 +2869,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-typescript/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-typescript/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-typescript.png"
     },
     {
@@ -2885,8 +2885,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/phone-number-validator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/phone-number-validator/",
       "icon": "https://findutils.com/images/og/tools/en/phone-number-validator.png"
     },
     {
@@ -2900,8 +2900,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/image-color-extractor/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/image-color-extractor/",
       "icon": "https://findutils.com/images/og/tools/en/image-color-extractor.png"
     },
     {
@@ -2915,8 +2915,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/svg-path-visualizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/svg-path-visualizer/",
       "icon": "https://findutils.com/images/og/tools/en/svg-path-visualizer.png"
     },
     {
@@ -2931,8 +2931,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/xml-formatter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/xml-formatter/",
       "icon": "https://findutils.com/images/og/tools/en/xml-formatter.png"
     },
     {
@@ -2947,8 +2947,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/robots-txt-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/robots-txt-generator/",
       "icon": "https://findutils.com/images/og/tools/en/robots-txt-generator.png"
     },
     {
@@ -2963,8 +2963,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/water-intake-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/water-intake-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/water-intake-calculator.png"
     },
     {
@@ -2979,8 +2979,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/body-fat-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/body-fat-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/body-fat-calculator.png"
     },
     {
@@ -2994,8 +2994,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/refinance-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/refinance-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/refinance-calculator.png"
     },
     {
@@ -3009,8 +3009,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/home-affordability-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/home-affordability-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/home-affordability-calculator.png"
     },
     {
@@ -3024,8 +3024,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/fire-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/fire-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/fire-calculator.png"
     },
     {
@@ -3039,8 +3039,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/stock-average-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/stock-average-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/stock-average-calculator.png"
     },
     {
@@ -3054,8 +3054,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/thesis-statement-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/thesis-statement-generator/",
       "icon": "https://findutils.com/images/og/tools/en/thesis-statement-generator.png"
     },
     {
@@ -3069,8 +3069,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/essay-outline-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/essay-outline-generator/",
       "icon": "https://findutils.com/images/og/tools/en/essay-outline-generator.png"
     },
     {
@@ -3084,8 +3084,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/research-title-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/research-title-generator/",
       "icon": "https://findutils.com/images/og/tools/en/research-title-generator.png"
     },
     {
@@ -3099,8 +3099,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/text-summarizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/text-summarizer/",
       "icon": "https://findutils.com/images/og/tools/en/text-summarizer.png"
     },
     {
@@ -3115,8 +3115,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/twitter-post-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/twitter-post-generator/",
       "icon": "https://findutils.com/images/og/tools/en/twitter-post-generator.png"
     },
     {
@@ -3131,8 +3131,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/instagram-post-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/instagram-post-generator/",
       "icon": "https://findutils.com/images/og/tools/en/instagram-post-generator.png"
     },
     {
@@ -3147,8 +3147,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/chatgpt-screenshot-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/chatgpt-screenshot-generator/",
       "icon": "https://findutils.com/images/og/tools/en/chatgpt-screenshot-generator.png"
     },
     {
@@ -3163,8 +3163,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/whatsapp-chat-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/whatsapp-chat-generator/",
       "icon": "https://findutils.com/images/og/tools/en/whatsapp-chat-generator.png"
     },
     {
@@ -3179,8 +3179,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/imessage-chat-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/imessage-chat-generator/",
       "icon": "https://findutils.com/images/og/tools/en/imessage-chat-generator.png"
     },
     {
@@ -3194,8 +3194,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/diff-checker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/diff-checker/",
       "icon": "https://findutils.com/images/og/tools/en/diff-checker.png"
     },
     {
@@ -3209,8 +3209,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/privacy-policy-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/privacy-policy-generator/",
       "icon": "https://findutils.com/images/og/tools/en/privacy-policy-generator.png"
     },
     {
@@ -3225,8 +3225,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/carbon-footprint-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/carbon-footprint-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/carbon-footprint-calculator.png"
     },
     {
@@ -3241,8 +3241,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/code-screenshot-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/code-screenshot-generator/",
       "icon": "https://findutils.com/images/og/tools/en/code-screenshot-generator.png"
     },
     {
@@ -3257,8 +3257,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/password-breach-checker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/password-breach-checker/",
       "icon": "https://findutils.com/images/og/tools/en/password-breach-checker.png"
     },
     {
@@ -3273,8 +3273,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/ssl-certificate-checker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/ssl-certificate-checker/",
       "icon": "https://findutils.com/images/og/tools/en/ssl-certificate-checker.png"
     },
     {
@@ -3289,8 +3289,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/url-safety-checker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/url-safety-checker/",
       "icon": "https://findutils.com/images/og/tools/en/url-safety-checker.png"
     },
     {
@@ -3305,8 +3305,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/security-headers-analyzer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/security-headers-analyzer/",
       "icon": "https://findutils.com/images/og/tools/en/security-headers-analyzer.png"
     },
     {
@@ -3321,8 +3321,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/secure-note-sharing/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/secure-note-sharing/",
       "icon": "https://findutils.com/images/og/tools/en/secure-note-sharing.png"
     },
     {
@@ -3337,8 +3337,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/dns-security-scanner/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/dns-security-scanner/",
       "icon": "https://findutils.com/images/og/tools/en/dns-security-scanner.png"
     },
     {
@@ -3353,8 +3353,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/email-security-checker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/email-security-checker/",
       "icon": "https://findutils.com/images/og/tools/en/email-security-checker.png"
     },
     {
@@ -3369,8 +3369,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pgp-encryption-tool/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pgp-encryption-tool/",
       "icon": "https://findutils.com/images/og/tools/en/pgp-encryption-tool.png"
     },
     {
@@ -3385,9 +3385,9 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/two-fa-code-tester/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
-      "icon": "https://findutils.com/images/og/tools/en/2fa-code-tester.png"
+      "homepage": "https://findutils.com/en/tools/two-fa-code-tester/",
+      "icon": "https://findutils.com/images/og/tools/en/two-fa-code-tester.png"
     },
     {
       "id": "findutils-jwt-security-validator",
@@ -3401,8 +3401,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/jwt-security-validator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/jwt-security-validator/",
       "icon": "https://findutils.com/images/og/tools/en/jwt-security-validator.png"
     },
     {
@@ -3417,8 +3417,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/data-sanitizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/data-sanitizer/",
       "icon": "https://findutils.com/images/og/tools/en/data-sanitizer.png"
     },
     {
@@ -3433,8 +3433,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/cookie-analyzer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/cookie-analyzer/",
       "icon": "https://findutils.com/images/og/tools/en/cookie-analyzer.png"
     },
     {
@@ -3449,8 +3449,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/hash-comparison-tool/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/hash-comparison-tool/",
       "icon": "https://findutils.com/images/og/tools/en/hash-comparison-tool.png"
     },
     {
@@ -3465,8 +3465,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/password-pattern-validator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/password-pattern-validator/",
       "icon": "https://findutils.com/images/og/tools/en/password-pattern-validator.png"
     },
     {
@@ -3481,8 +3481,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/privacy-policy-checker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/privacy-policy-checker/",
       "icon": "https://findutils.com/images/og/tools/en/privacy-policy-checker.png"
     },
     {
@@ -3497,8 +3497,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-zod-schema/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-zod-schema/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-zod-schema.png"
     },
     {
@@ -3513,8 +3513,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-go-struct/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-go-struct/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-go-struct.png"
     },
     {
@@ -3529,8 +3529,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-java-class/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-java-class/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-java-class.png"
     },
     {
@@ -3545,8 +3545,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-python-class/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-python-class/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-python-class.png"
     },
     {
@@ -3561,8 +3561,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-schema-validator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-schema-validator/",
       "icon": "https://findutils.com/images/og/tools/en/json-schema-validator.png"
     },
     {
@@ -3577,8 +3577,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-schema-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-schema-generator/",
       "icon": "https://findutils.com/images/og/tools/en/json-schema-generator.png"
     },
     {
@@ -3593,8 +3593,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/mock-json-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/mock-json-generator/",
       "icon": "https://findutils.com/images/og/tools/en/mock-json-generator.png"
     },
     {
@@ -3609,8 +3609,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/jwt-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/jwt-generator/",
       "icon": "https://findutils.com/images/og/tools/en/jwt-generator.png"
     },
     {
@@ -3625,8 +3625,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-diff/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-diff/",
       "icon": "https://findutils.com/images/og/tools/en/json-diff.png"
     },
     {
@@ -3641,8 +3641,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-comparer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-comparer/",
       "icon": "https://findutils.com/images/og/tools/en/json-comparer.png"
     },
     {
@@ -3657,8 +3657,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/curl-to-code/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/curl-to-code/",
       "icon": "https://findutils.com/images/og/tools/en/curl-to-code.png"
     },
     {
@@ -3673,8 +3673,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-faker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-faker/",
       "icon": "https://findutils.com/images/og/tools/en/json-faker.png"
     },
     {
@@ -3689,8 +3689,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-visualizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-visualizer/",
       "icon": "https://findutils.com/images/og/tools/en/json-visualizer.png"
     },
     {
@@ -3705,8 +3705,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/jq-playground/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/jq-playground/",
       "icon": "https://findutils.com/images/og/tools/en/jq-playground.png"
     },
     {
@@ -3721,8 +3721,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-ld-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-ld-generator/",
       "icon": "https://findutils.com/images/og/tools/en/json-ld-generator.png"
     },
     {
@@ -3736,8 +3736,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/xml-to-json/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/xml-to-json/",
       "icon": "https://findutils.com/images/og/tools/en/xml-to-json.png"
     },
     {
@@ -3751,8 +3751,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/json-to-xml/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/json-to-xml/",
       "icon": "https://findutils.com/images/og/tools/en/json-to-xml.png"
     },
     {
@@ -3767,8 +3767,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/openapi-validator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/openapi-validator/",
       "icon": "https://findutils.com/images/og/tools/en/openapi-validator.png"
     },
     {
@@ -3783,8 +3783,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/postman-to-curl/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/postman-to-curl/",
       "icon": "https://findutils.com/images/og/tools/en/postman-to-curl.png"
     },
     {
@@ -3799,8 +3799,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/har-to-curl/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/har-to-curl/",
       "icon": "https://findutils.com/images/og/tools/en/har-to-curl.png"
     },
     {
@@ -3815,8 +3815,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/schema-org-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/schema-org-generator/",
       "icon": "https://findutils.com/images/og/tools/en/schema-org-generator.png"
     },
     {
@@ -3831,8 +3831,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/swagger-to-openapi/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/swagger-to-openapi/",
       "icon": "https://findutils.com/images/og/tools/en/swagger-to-openapi.png"
     },
     {
@@ -3847,8 +3847,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/graphql-schema-validator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/graphql-schema-validator/",
       "icon": "https://findutils.com/images/og/tools/en/graphql-schema-validator.png"
     },
     {
@@ -3863,8 +3863,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/graphql-to-typescript/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/graphql-to-typescript/",
       "icon": "https://findutils.com/images/og/tools/en/graphql-to-typescript.png"
     },
     {
@@ -3879,8 +3879,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/api-docs-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/api-docs-generator/",
       "icon": "https://findutils.com/images/og/tools/en/api-docs-generator.png"
     },
     {
@@ -3895,8 +3895,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/tdee-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/tdee-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/tdee-calculator.png"
     },
     {
@@ -3911,8 +3911,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/sleep-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/sleep-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/sleep-calculator.png"
     },
     {
@@ -3927,8 +3927,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/one-rep-max-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/one-rep-max-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/one-rep-max-calculator.png"
     },
     {
@@ -3942,8 +3942,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/break-even-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/break-even-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/break-even-calculator.png"
     },
     {
@@ -3957,8 +3957,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/youtube-description-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/youtube-description-generator/",
       "icon": "https://findutils.com/images/og/tools/en/youtube-description-generator.png"
     },
     {
@@ -3972,8 +3972,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/linkedin-post-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/linkedin-post-generator/",
       "icon": "https://findutils.com/images/og/tools/en/linkedin-post-generator.png"
     },
     {
@@ -3987,8 +3987,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/social-media-bio-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/social-media-bio-generator/",
       "icon": "https://findutils.com/images/og/tools/en/social-media-bio-generator.png"
     },
     {
@@ -4002,8 +4002,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/caption-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/caption-generator/",
       "icon": "https://findutils.com/images/og/tools/en/caption-generator.png"
     },
     {
@@ -4017,8 +4017,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/thread-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/thread-generator/",
       "icon": "https://findutils.com/images/og/tools/en/thread-generator.png"
     },
     {
@@ -4032,8 +4032,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/social-media-calendar-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/social-media-calendar-generator/",
       "icon": "https://findutils.com/images/og/tools/en/social-media-calendar-generator.png"
     },
     {
@@ -4047,8 +4047,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/spreadsheet-editor/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/spreadsheet-editor/",
       "icon": "https://findutils.com/images/og/tools/en/spreadsheet-editor.png"
     },
     {
@@ -4062,8 +4062,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/slide-deck-builder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/slide-deck-builder/",
       "icon": "https://findutils.com/images/og/tools/en/slide-deck-builder.png"
     },
     {
@@ -4077,8 +4077,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pptx-to-pdf-converter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pptx-to-pdf-converter/",
       "icon": "https://findutils.com/images/og/tools/en/pptx-to-pdf-converter.png"
     },
     {
@@ -4092,8 +4092,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pptx-viewer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pptx-viewer/",
       "icon": "https://findutils.com/images/og/tools/en/pptx-viewer.png"
     },
     {
@@ -4107,8 +4107,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/word-to-pdf/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/word-to-pdf/",
       "icon": "https://findutils.com/images/og/tools/en/word-to-pdf.png"
     },
     {
@@ -4122,8 +4122,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/site-to-markdown/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/site-to-markdown/",
       "icon": "https://findutils.com/images/og/tools/en/site-to-markdown.png"
     },
     {
@@ -4137,8 +4137,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/math-expression-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/math-expression-generator/",
       "icon": "https://findutils.com/images/og/tools/en/math-expression-generator.png"
     },
     {
@@ -4152,8 +4152,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/course-quiz-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/course-quiz-generator/",
       "icon": "https://findutils.com/images/og/tools/en/course-quiz-generator.png"
     },
     {
@@ -4168,8 +4168,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/e164-validator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/e164-validator/",
       "icon": "https://findutils.com/images/og/tools/en/e164-validator.png"
     },
     {
@@ -4184,8 +4184,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/chmod-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/chmod-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/chmod-calculator.png"
     },
     {
@@ -4200,8 +4200,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/glob-pattern-tester/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/glob-pattern-tester/",
       "icon": "https://findutils.com/images/og/tools/en/glob-pattern-tester.png"
     },
     {
@@ -4215,8 +4215,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/text-find-replace/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/text-find-replace/",
       "icon": "https://findutils.com/images/og/tools/en/text-find-replace.png"
     },
     {
@@ -4230,8 +4230,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/duplicate-line-remover/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/duplicate-line-remover/",
       "icon": "https://findutils.com/images/og/tools/en/duplicate-line-remover.png"
     },
     {
@@ -4245,8 +4245,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/emoji-finder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/emoji-finder/",
       "icon": "https://findutils.com/images/og/tools/en/emoji-finder.png"
     },
     {
@@ -4260,8 +4260,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/country-lookup/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/country-lookup/",
       "icon": "https://findutils.com/images/og/tools/en/country-lookup.png"
     },
     {
@@ -4275,8 +4275,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/markdown-to-word/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/markdown-to-word/",
       "icon": "https://findutils.com/images/og/tools/en/markdown-to-word.png"
     },
     {
@@ -4290,8 +4290,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/markdown-to-pdf/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/markdown-to-pdf/",
       "icon": "https://findutils.com/images/og/tools/en/markdown-to-pdf.png"
     },
     {
@@ -4306,8 +4306,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/html-entity-finder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/html-entity-finder/",
       "icon": "https://findutils.com/images/og/tools/en/html-entity-finder.png"
     },
     {
@@ -4321,8 +4321,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/keyboard-shortcut-finder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/keyboard-shortcut-finder/",
       "icon": "https://findutils.com/images/og/tools/en/keyboard-shortcut-finder.png"
     },
     {
@@ -4336,8 +4336,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/vision-board/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/vision-board/",
       "icon": "https://findutils.com/images/og/tools/en/vision-board.png"
     },
     {
@@ -4351,8 +4351,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/color-name-finder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/color-name-finder/",
       "icon": "https://findutils.com/images/og/tools/en/color-name-finder.png"
     },
     {
@@ -4366,8 +4366,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/font-icon-search/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/font-icon-search/",
       "icon": "https://findutils.com/images/og/tools/en/font-icon-search.png"
     },
     {
@@ -4382,8 +4382,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/http-status-code-lookup/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/http-status-code-lookup/",
       "icon": "https://findutils.com/images/og/tools/en/http-status-code-lookup.png"
     },
     {
@@ -4398,8 +4398,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/mime-type-finder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/mime-type-finder/",
       "icon": "https://findutils.com/images/og/tools/en/mime-type-finder.png"
     },
     {
@@ -4414,8 +4414,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/3d-geometry-visualizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/3d-geometry-visualizer/",
       "icon": "https://findutils.com/images/og/tools/en/3d-geometry-visualizer.png"
     },
     {
@@ -4430,8 +4430,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/3d-vector-visualizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/3d-vector-visualizer/",
       "icon": "https://findutils.com/images/og/tools/en/3d-vector-visualizer.png"
     },
     {
@@ -4446,8 +4446,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/3d-rotation-visualizer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/3d-rotation-visualizer/",
       "icon": "https://findutils.com/images/og/tools/en/3d-rotation-visualizer.png"
     },
     {
@@ -4461,8 +4461,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/3d-model-viewer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/3d-model-viewer/",
       "icon": "https://findutils.com/images/og/tools/en/3d-model-viewer.png"
     },
     {
@@ -4476,8 +4476,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/pbr-material-previewer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/pbr-material-previewer/",
       "icon": "https://findutils.com/images/og/tools/en/pbr-material-previewer.png"
     },
     {
@@ -4492,8 +4492,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/3d-function-plotter/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/3d-function-plotter/",
       "icon": "https://findutils.com/images/og/tools/en/3d-function-plotter.png"
     },
     {
@@ -4508,8 +4508,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/loadbalancer-design/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/loadbalancer-design/",
       "icon": "https://findutils.com/images/og/tools/en/loadbalancer-design.png"
     },
     {
@@ -4524,8 +4524,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/subnet-calculator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/subnet-calculator/",
       "icon": "https://findutils.com/images/og/tools/en/subnet-calculator.png"
     },
     {
@@ -4540,8 +4540,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/whois-lookup/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/whois-lookup/",
       "icon": "https://findutils.com/images/og/tools/en/whois-lookup.png"
     },
     {
@@ -4556,8 +4556,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/port-reference-guide/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/port-reference-guide/",
       "icon": "https://findutils.com/images/og/tools/en/port-reference-guide.png"
     },
     {
@@ -4571,8 +4571,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/mind-map-maker/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/mind-map-maker/",
       "icon": "https://findutils.com/images/og/tools/en/mind-map-maker.png"
     },
     {
@@ -4586,8 +4586,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/decision-tree-builder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/decision-tree-builder/",
       "icon": "https://findutils.com/images/og/tools/en/decision-tree-builder.png"
     },
     {
@@ -4602,8 +4602,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/er-diagram-designer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/er-diagram-designer/",
       "icon": "https://findutils.com/images/og/tools/en/er-diagram-designer.png"
     },
     {
@@ -4618,8 +4618,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/state-machine-designer/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/state-machine-designer/",
       "icon": "https://findutils.com/images/og/tools/en/state-machine-designer.png"
     },
     {
@@ -4634,8 +4634,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/architecture-diagram/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/architecture-diagram/",
       "icon": "https://findutils.com/images/og/tools/en/architecture-diagram.png"
     },
     {
@@ -4649,8 +4649,8 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/workflow-builder/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/workflow-builder/",
       "icon": "https://findutils.com/images/og/tools/en/workflow-builder.png"
     },
     {
@@ -4664,10 +4664,10 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/kktc-exchange-rates/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/kktc-exchange-rates/",
       "icon": "https://findutils.com/images/og-default.png",
-      "iconEmoji": "\ud83d\udcb1"
+      "iconEmoji": "\ud83d\udcb0"
     },
     {
       "id": "findutils-wvw-apps-json-generator",
@@ -4681,10 +4681,10 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/wvw-apps-json-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/wvw-apps-json-generator/",
       "icon": "https://findutils.com/images/og-default.png",
-      "iconEmoji": "\ud83d\udce6"
+      "iconEmoji": "\ud83d\udee0\ufe0f"
     },
     {
       "id": "findutils-windows-update-settings-generator",
@@ -4698,10 +4698,10 @@
       ],
       "platform": "Web",
       "price": "Free",
-      "homepage": "https://findutils.com/en/tools/windows-update-settings-generator/",
       "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/windows-update-settings-generator/",
       "icon": "https://findutils.com/images/og-default.png",
-      "iconEmoji": "\ud83e\ude9f"
+      "iconEmoji": "\ud83d\udd12"
     }
   ]
 }
