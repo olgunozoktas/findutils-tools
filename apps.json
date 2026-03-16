@@ -51,7 +51,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/photo-editor/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/photo-editor.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddbc\ufe0f",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-photo-measurement",
@@ -68,7 +74,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/photo-measurement/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/photo-measurement.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udccf",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-password-generator",
@@ -85,7 +97,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/password-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/password-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd11",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-free-music-library",
@@ -101,8 +119,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/free-music-library/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og-default.png",
-      "iconEmoji": "\u2728"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfb6",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-qr-code-generator",
@@ -118,7 +141,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/qr-code-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/qr-code-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcf2",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-formatter",
@@ -135,7 +164,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-formatter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-formatter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udccb",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-minifier",
@@ -152,7 +187,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-minifier/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-minifier.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-escaper",
@@ -169,7 +210,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-escaper/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-escaper.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udccb",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-html-table-to-json",
@@ -185,7 +232,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/html-table-to-json/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/html-table-to-json.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddc2\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-markdown-table",
@@ -201,7 +254,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-markdown-table/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-markdown-table.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddc2\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-url-params-to-json",
@@ -218,7 +277,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/url-params-to-json/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/url-params-to-json.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd17",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-url-params",
@@ -235,7 +300,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-url-params/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-url-params.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd17",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-path-finder",
@@ -252,7 +323,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-path-finder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-path-finder.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0d",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-html-form",
@@ -269,7 +346,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-html-form/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-html-form.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-tailwind-form",
@@ -286,7 +369,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-tailwind-form/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-tailwind-form.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udca8",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-bootstrap-form",
@@ -303,7 +392,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-bootstrap-form/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-bootstrap-form.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd0",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-react-form",
@@ -320,7 +415,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-react-form/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-react-form.png"
+      "icon": null,
+      "iconEmoji": "\u269b\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-form-to-json-schema",
@@ -337,7 +438,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/form-to-json-schema/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/form-to-json-schema.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd1",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-schema-form-builder",
@@ -354,7 +461,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-schema-form-builder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-schema-form-builder.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd1",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-social-card",
@@ -370,7 +483,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-social-card/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-social-card.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcf1",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-pricing-table",
@@ -386,7 +505,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-pricing-table/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-pricing-table.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcb2",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-product-card",
@@ -402,7 +527,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-product-card/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-product-card.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udecd\ufe0f",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-profile-card",
@@ -418,7 +549,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-profile-card/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-profile-card.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udc64",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-testimonial-card",
@@ -434,7 +571,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-testimonial-card/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-testimonial-card.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcac",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-timeline",
@@ -450,7 +593,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-timeline/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-timeline.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc5",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-chart",
@@ -466,7 +615,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-chart/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-chart.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcca",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-org-chart",
@@ -482,7 +637,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-org-chart/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-org-chart.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfe2",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-invoice",
@@ -498,7 +659,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-invoice/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-invoice.png"
+      "icon": null,
+      "iconEmoji": "\ud83e\uddfe",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-resume",
@@ -514,7 +681,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-resume/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-resume.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-email-template",
@@ -530,7 +703,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-email-template/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-email-template.png"
+      "icon": null,
+      "iconEmoji": "\u2709\ufe0f",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-readme",
@@ -546,7 +725,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-readme/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-readme.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd6",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-pdf-renderer",
@@ -563,7 +748,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-pdf-renderer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-pdf-renderer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-visual-json",
@@ -580,7 +771,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/visual-json/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/visual-json.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf33",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-html-formatter",
@@ -597,7 +794,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/html-formatter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/html-formatter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbb",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pdf-converter",
@@ -613,7 +816,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pdf-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pdf-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd04",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-image-resizer",
@@ -629,7 +838,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/image-resizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/image-resizer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddbc\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-color-converter",
@@ -645,7 +860,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/color-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/color-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfa8",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-inflation-calculator",
@@ -661,7 +882,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/inflation-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/inflation-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc8",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pdf-editor",
@@ -677,7 +904,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pdf-editor/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pdf-editor.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pdf-merger",
@@ -693,7 +926,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pdf-merger/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pdf-merger.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcda",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pdf-split",
@@ -709,7 +948,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pdf-split/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pdf-split.png"
+      "icon": null,
+      "iconEmoji": "\u2702\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pdf-rotate",
@@ -725,7 +970,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pdf-rotate/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pdf-rotate.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd04",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pdf-delete-pages",
@@ -741,7 +992,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pdf-delete-pages/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pdf-delete-pages.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddd1\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pdf-compress",
@@ -757,7 +1014,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pdf-compress/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pdf-compress.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pdf-organize",
@@ -773,7 +1036,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pdf-organize/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pdf-organize.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddc2\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-image-compressor",
@@ -789,7 +1058,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/image-compressor/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/image-compressor.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udce5",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-image-converter",
@@ -805,7 +1080,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/image-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/image-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddbc\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-unix-timestamp",
@@ -822,7 +1103,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/unix-timestamp/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/unix-timestamp.png"
+      "icon": null,
+      "iconEmoji": "\u23f0",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-ip-address-lookup",
@@ -839,7 +1126,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/ip-address-lookup/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/ip-address-lookup.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udce1",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-case-converter",
@@ -855,7 +1148,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/case-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/case-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd20",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-loan-calculator",
@@ -871,7 +1170,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/loan-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/loan-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfe6",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-uuid-generator",
@@ -887,7 +1192,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/uuid-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/uuid-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfb2",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-base64-encoder",
@@ -904,7 +1215,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/base64-encoder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/base64-encoder.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd10",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-md5-hash-generator",
@@ -921,7 +1238,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/md5-hash-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/md5-hash-generator.png"
+      "icon": null,
+      "iconEmoji": "#\ufe0f\u20e3",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-css-minifier",
@@ -938,7 +1261,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/css-minifier/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/css-minifier.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbb",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-sql-formatter",
@@ -955,7 +1284,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/sql-formatter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/sql-formatter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddc4\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-gradient-generator",
@@ -971,7 +1306,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/gradient-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/gradient-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf08",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-contrast-checker",
@@ -987,7 +1328,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/contrast-checker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/contrast-checker.png"
+      "icon": null,
+      "iconEmoji": "\u25d1",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-box-shadow-generator",
@@ -1003,7 +1350,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/box-shadow-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/box-shadow-generator.png"
+      "icon": null,
+      "iconEmoji": "\u2b1c",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-color-palette-generator",
@@ -1019,7 +1372,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/color-palette-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/color-palette-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfa8",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-glassmorphism-generator",
@@ -1035,7 +1394,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/glassmorphism-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/glassmorphism-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udc8e",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-word-counter",
@@ -1051,7 +1416,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/word-counter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/word-counter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-gpa-calculator",
@@ -1068,7 +1439,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/gpa-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/gpa-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf93",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-percentage-calculator",
@@ -1085,7 +1462,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/percentage-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/percentage-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcaf",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pomodoro-timer",
@@ -1101,7 +1484,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pomodoro-timer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pomodoro-timer.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf45",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-age-calculator",
@@ -1118,7 +1507,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/age-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/age-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf82",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-grade-calculator",
@@ -1135,7 +1530,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/grade-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/grade-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf93",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-unit-converter",
@@ -1151,7 +1552,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/unit-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/unit-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd04",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-random-picker",
@@ -1167,7 +1574,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/random-picker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/random-picker.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfb0",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-stopwatch",
@@ -1183,7 +1596,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/stopwatch/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/stopwatch.png"
+      "icon": null,
+      "iconEmoji": "\u23f1\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-citation-generator",
@@ -1199,7 +1618,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/citation-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/citation-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd6",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-favicon-generator",
@@ -1215,7 +1640,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/favicon-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/favicon-generator.png"
+      "icon": null,
+      "iconEmoji": "\u2b50",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-relationship-calculator",
@@ -1232,7 +1663,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/relationship-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/relationship-calculator.png"
+      "icon": null,
+      "iconEmoji": "\u2764\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-work-anniversary-calculator",
@@ -1249,7 +1686,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/work-anniversary-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/work-anniversary-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbc",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-career-experience-calculator",
@@ -1266,7 +1709,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/career-experience-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/career-experience-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbc",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-daily-habit-calculator",
@@ -1283,7 +1732,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/daily-habit-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/daily-habit-calculator.png"
+      "icon": null,
+      "iconEmoji": "\u2705",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-social-media-image-resizer",
@@ -1299,7 +1754,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/social-media-image-resizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/social-media-image-resizer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcf0",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-scientific-calculator",
@@ -1316,7 +1777,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/scientific-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/scientific-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83e\uddee",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-flashcard-maker",
@@ -1332,7 +1799,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/flashcard-maker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/flashcard-maker.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfb4",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-worksheet-generator",
@@ -1348,7 +1821,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/worksheet-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/worksheet-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd1",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-seating-chart-maker",
@@ -1364,7 +1843,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/seating-chart-maker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/seating-chart-maker.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcba",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-quiz-maker",
@@ -1380,7 +1865,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/quiz-maker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/quiz-maker.png"
+      "icon": null,
+      "iconEmoji": "\u2753",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-invoice-generator",
@@ -1396,7 +1887,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/invoice-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/invoice-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83e\uddfe",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-vat-calculator",
@@ -1412,7 +1909,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/vat-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/vat-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcb0",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-date-difference-calculator",
@@ -1429,7 +1932,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/date-difference-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/date-difference-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc5",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-signature-generator",
@@ -1445,7 +1954,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/signature-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/signature-generator.png"
+      "icon": null,
+      "iconEmoji": "\u270d\ufe0f",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-email-signature-generator",
@@ -1461,7 +1976,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/email-signature-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/email-signature-generator.png"
+      "icon": null,
+      "iconEmoji": "\u2709\ufe0f",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-meta-tag-generator",
@@ -1478,7 +1999,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/meta-tag-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/meta-tag-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udff7\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-tone-analyzer",
@@ -1494,7 +2021,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/tone-analyzer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/tone-analyzer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0a",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-hashtag-generator",
@@ -1510,7 +2043,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/hashtag-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/hashtag-generator.png"
+      "icon": null,
+      "iconEmoji": "#\ufe0f\u20e3",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-macro-calculator",
@@ -1527,7 +2066,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/macro-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/macro-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf55",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-debt-payoff-calculator",
@@ -1543,7 +2088,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/debt-payoff-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/debt-payoff-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcb3",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-jwt-decoder",
@@ -1560,7 +2111,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/jwt-decoder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/jwt-decoder.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd11",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-cron-expression-generator",
@@ -1577,7 +2134,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/cron-expression-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/cron-expression-generator.png"
+      "icon": null,
+      "iconEmoji": "\u23f0",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-regex-tester",
@@ -1594,7 +2157,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/regex-tester/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/regex-tester.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0d",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-markdown-previewer",
@@ -1611,7 +2180,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/markdown-previewer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/markdown-previewer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcdd",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-internet-speed-test",
@@ -1628,7 +2203,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/internet-speed-test/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/internet-speed-test.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\ude80",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-image-caption-maker",
@@ -1644,7 +2225,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/image-caption-maker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/image-caption-maker.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcf7",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-dns-lookup",
@@ -1661,7 +2248,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/dns-lookup/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/dns-lookup.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf10",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-typing-speed-test",
@@ -1677,7 +2270,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/typing-speed-test/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/typing-speed-test.png"
+      "icon": null,
+      "iconEmoji": "\u2328\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-bmi-calculator",
@@ -1694,7 +2293,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/bmi-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/bmi-calculator.png"
+      "icon": null,
+      "iconEmoji": "\u2696\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-tip-calculator",
@@ -1710,7 +2315,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/tip-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/tip-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83e\uddfe",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-compound-interest-calculator",
@@ -1726,7 +2337,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/compound-interest-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/compound-interest-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc8",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-countdown-timer",
@@ -1742,7 +2359,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/countdown-timer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/countdown-timer.png"
+      "icon": null,
+      "iconEmoji": "\u23f3",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-lorem-ipsum-generator",
@@ -1758,7 +2381,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/lorem-ipsum-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/lorem-ipsum-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc3",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-url-encoder-decoder",
@@ -1775,7 +2404,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/url-encoder-decoder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/url-encoder-decoder.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd17",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-sha256-hash-generator",
@@ -1792,7 +2427,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/sha256-hash-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/sha256-hash-generator.png"
+      "icon": null,
+      "iconEmoji": "#\ufe0f\u20e3",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-password-strength-checker",
@@ -1809,7 +2450,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/password-strength-checker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/password-strength-checker.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udee1\ufe0f",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-text-encryption",
@@ -1826,7 +2473,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/text-encryption/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/text-encryption.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd10",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-hmac-generator",
@@ -1843,7 +2496,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/hmac-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/hmac-generator.png"
+      "icon": null,
+      "iconEmoji": "#\ufe0f\u20e3",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-random-key-generator",
@@ -1860,7 +2519,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/random-key-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/random-key-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd11",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-file-hash-calculator",
@@ -1877,7 +2542,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/file-hash-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/file-hash-calculator.png"
+      "icon": null,
+      "iconEmoji": "#\ufe0f\u20e3",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-mortgage-calculator",
@@ -1893,7 +2564,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/mortgage-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/mortgage-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfe0",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-aspect-ratio-calculator",
@@ -1910,7 +2587,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/aspect-ratio-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/aspect-ratio-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd0",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-number-base-converter",
@@ -1926,7 +2609,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/number-base-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/number-base-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd22",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-character-counter",
@@ -1942,7 +2631,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/character-counter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/character-counter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd22",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-reading-time-estimator",
@@ -1958,7 +2653,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/reading-time-estimator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/reading-time-estimator.png"
+      "icon": null,
+      "iconEmoji": "\u23f1\ufe0f",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-email-validator",
@@ -1975,7 +2676,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/email-validator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/email-validator.png"
+      "icon": null,
+      "iconEmoji": "\u2709\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-screen-resolution-detector",
@@ -1992,7 +2699,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/screen-resolution-detector/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/screen-resolution-detector.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbb",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-html-to-markdown",
@@ -2008,7 +2721,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/html-to-markdown/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/html-to-markdown.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcdd",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-csv-to-json",
@@ -2024,7 +2743,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/csv-to-json/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/csv-to-json.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcca",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-csv",
@@ -2040,7 +2765,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-csv/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-csv.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcca",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-image-to-base64",
@@ -2056,7 +2787,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/image-to-base64/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/image-to-base64.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddbc\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-barcode-generator",
@@ -2072,7 +2809,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/barcode-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/barcode-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-placeholder-image-generator",
@@ -2088,7 +2831,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/placeholder-image-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/placeholder-image-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddbc\ufe0f",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-timezone-converter",
@@ -2104,7 +2853,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/timezone-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/timezone-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf0d",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-random-name-picker",
@@ -2120,7 +2875,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/random-name-picker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/random-name-picker.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfb2",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-rubric-generator",
@@ -2136,7 +2897,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/rubric-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/rubric-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udccb",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-attendance-sheet-generator",
@@ -2152,7 +2919,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/attendance-sheet-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/attendance-sheet-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc6",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-report-card-generator",
@@ -2168,7 +2941,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/report-card-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/report-card-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc3",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-lesson-plan-template",
@@ -2184,7 +2963,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/lesson-plan-template/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/lesson-plan-template.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd6",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-education-suite",
@@ -2200,7 +2985,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/education-suite/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/education-suite.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf93",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-screenshot-tool",
@@ -2216,7 +3007,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/screenshot-tool/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/screenshot-tool.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcf8",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-auto-loan-calculator",
@@ -2232,7 +3029,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/auto-loan-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/auto-loan-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\ude97",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-savings-calculator",
@@ -2248,7 +3051,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/savings-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/savings-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udc16",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-roi-calculator",
@@ -2264,7 +3073,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/roi-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/roi-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc8",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-retirement-calculator",
@@ -2280,7 +3095,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/retirement-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/retirement-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfd6\ufe0f",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-credit-card-payoff-calculator",
@@ -2296,7 +3117,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/credit-card-payoff-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/credit-card-payoff-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcb3",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-salary-calculator",
@@ -2312,7 +3139,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/salary-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/salary-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcb5",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-investment-calculator",
@@ -2328,7 +3161,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/investment-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/investment-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc8",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-amortization-calculator",
@@ -2344,7 +3183,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/amortization-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/amortization-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcca",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-net-worth-calculator",
@@ -2360,7 +3205,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/net-worth-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/net-worth-calculator.png"
+      "icon": null,
+      "iconEmoji": "\u2696\ufe0f",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-down-payment-calculator",
@@ -2376,7 +3227,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/down-payment-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/down-payment-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfe0",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-excel-to-csv",
@@ -2392,7 +3249,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/excel-to-csv/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/excel-to-csv.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcca",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-csv-to-excel",
@@ -2408,7 +3271,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/csv-to-excel/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/csv-to-excel.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcca",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-csv-viewer",
@@ -2424,7 +3293,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/csv-viewer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/csv-viewer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcca",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-csv-merger",
@@ -2440,7 +3315,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/csv-merger/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/csv-merger.png"
+      "icon": null,
+      "iconEmoji": "\ud83e\udd1d",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-csv-column-extractor",
@@ -2456,7 +3337,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/csv-column-extractor/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/csv-column-extractor.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddc3\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-video-trimmer",
@@ -2472,7 +3359,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/video-trimmer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/video-trimmer.png"
+      "icon": null,
+      "iconEmoji": "\u2702\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-video-to-gif",
@@ -2488,7 +3381,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/video-to-gif/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/video-to-gif.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfac",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-video-compressor",
@@ -2504,7 +3403,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/video-compressor/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/video-compressor.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udce5",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-video-format-converter",
@@ -2520,7 +3425,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/video-format-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/video-format-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfac",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-video-resizer",
@@ -2536,7 +3447,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/video-resizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/video-resizer.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfac",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-video-rotator",
@@ -2552,7 +3469,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/video-rotator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/video-rotator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd04",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-video-metadata-extractor",
@@ -2569,7 +3492,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/video-metadata-extractor/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/video-metadata-extractor.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfac",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-video-to-audio",
@@ -2585,7 +3514,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/video-to-audio/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/video-to-audio.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfb5",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-audio-trimmer",
@@ -2601,7 +3536,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/audio-trimmer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/audio-trimmer.png"
+      "icon": null,
+      "iconEmoji": "\u2702\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-audio-format-converter",
@@ -2617,7 +3558,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/audio-format-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/audio-format-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfb5",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-audio-resampler",
@@ -2633,7 +3580,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/audio-resampler/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/audio-resampler.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfb6",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-audio-metadata-extractor",
@@ -2650,7 +3603,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/audio-metadata-extractor/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/audio-metadata-extractor.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfb5",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-voice-recorder",
@@ -2666,7 +3625,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/voice-recorder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/voice-recorder.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfa4",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-video-thumbnail-generator",
@@ -2682,7 +3647,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/video-thumbnail-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/video-thumbnail-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfac",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-subtitle-extractor",
@@ -2698,7 +3669,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/subtitle-extractor/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/subtitle-extractor.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcdc",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-media-info-viewer",
@@ -2715,7 +3692,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/media-info-viewer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/media-info-viewer.png"
+      "icon": null,
+      "iconEmoji": "\u2139\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-dev-request-prioritizer",
@@ -2731,7 +3714,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/dev-request-prioritizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/dev-request-prioritizer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udccb",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-sprint-capacity-calculator",
@@ -2747,7 +3736,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/sprint-capacity-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/sprint-capacity-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfc3",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-scope-creep-tracker",
@@ -2763,7 +3758,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/scope-creep-tracker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/scope-creep-tracker.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc8",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-tech-debt-register",
@@ -2779,7 +3780,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/tech-debt-register/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/tech-debt-register.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcda",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-client-status-report-generator",
@@ -2795,7 +3802,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/client-status-report-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/client-status-report-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udccb",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-story-point-poker",
@@ -2811,7 +3824,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/story-point-poker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/story-point-poker.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udccf",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-retro-meeting",
@@ -2827,7 +3846,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/retro-meeting/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/retro-meeting.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcac",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-exif-remover",
@@ -2844,7 +3869,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/exif-remover/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/exif-remover.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udee1\ufe0f",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-readability-calculator",
@@ -2860,7 +3891,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/readability-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/readability-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd6",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-dividend-calculator",
@@ -2876,7 +3913,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/dividend-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/dividend-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc8",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-travel-budget-calculator",
@@ -2893,7 +3936,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/travel-budget-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/travel-budget-calculator.png"
+      "icon": null,
+      "iconEmoji": "\u2708\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-profit-margin-calculator",
@@ -2909,7 +3958,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/profit-margin-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/profit-margin-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc8",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-timesheet-calculator",
@@ -2925,7 +3980,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/timesheet-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/timesheet-calculator.png"
+      "icon": null,
+      "iconEmoji": "\u23f0",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-business-loan-calculator",
@@ -2941,7 +4002,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/business-loan-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/business-loan-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbc",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-self-employment-tax-calculator",
@@ -2957,7 +4024,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/self-employment-tax-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/self-employment-tax-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83e\uddfe",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-purchase-order-generator",
@@ -2973,7 +4046,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/purchase-order-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/purchase-order-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udccb",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-yaml-converter",
@@ -2990,7 +4069,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-yaml-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-yaml-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd04",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-yaml-validator",
@@ -3007,7 +4092,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/yaml-validator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/yaml-validator.png"
+      "icon": null,
+      "iconEmoji": "\u2705",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-markdown-table-generator",
@@ -3023,7 +4114,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/markdown-table-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/markdown-table-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddc2\ufe0f",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-text-line-sorter",
@@ -3039,7 +4136,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/text-line-sorter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/text-line-sorter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcca",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-typescript",
@@ -3056,7 +4159,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-typescript/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-typescript.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-phone-number-validator",
@@ -3073,7 +4182,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/phone-number-validator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/phone-number-validator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcde",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-image-color-extractor",
@@ -3089,7 +4204,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/image-color-extractor/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/image-color-extractor.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udca7",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-svg-path-visualizer",
@@ -3105,7 +4226,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/svg-path-visualizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/svg-path-visualizer.png"
+      "icon": null,
+      "iconEmoji": "\u2712\ufe0f",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-xml-formatter",
@@ -3122,7 +4249,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/xml-formatter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/xml-formatter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-robots-txt-generator",
@@ -3139,7 +4272,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/robots-txt-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/robots-txt-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83e\udd16",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-water-intake-calculator",
@@ -3156,7 +4295,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/water-intake-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/water-intake-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udca7",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-body-fat-calculator",
@@ -3173,7 +4318,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/body-fat-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/body-fat-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcaa",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-refinance-calculator",
@@ -3189,7 +4340,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/refinance-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/refinance-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd04",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-home-affordability-calculator",
@@ -3205,7 +4362,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/home-affordability-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/home-affordability-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfe0",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-fire-calculator",
@@ -3221,7 +4384,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/fire-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/fire-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd25",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-stock-average-calculator",
@@ -3237,7 +4406,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/stock-average-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/stock-average-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc8",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-thesis-statement-generator",
@@ -3253,7 +4428,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/thesis-statement-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/thesis-statement-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf93",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-essay-outline-generator",
@@ -3269,7 +4450,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/essay-outline-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/essay-outline-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcdd",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-research-title-generator",
@@ -3285,7 +4472,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/research-title-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/research-title-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0d",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-text-summarizer",
@@ -3301,7 +4494,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/text-summarizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/text-summarizer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udccb",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-twitter-post-generator",
@@ -3318,7 +4517,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/twitter-post-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/twitter-post-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udc26",
+      "iconStyle": {
+        "bgColor": "#6366f1",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-instagram-post-generator",
@@ -3335,7 +4540,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/instagram-post-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/instagram-post-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcf7",
+      "iconStyle": {
+        "bgColor": "#6366f1",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-chatgpt-screenshot-generator",
@@ -3352,7 +4563,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/chatgpt-screenshot-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/chatgpt-screenshot-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83e\udd16",
+      "iconStyle": {
+        "bgColor": "#6366f1",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-whatsapp-chat-generator",
@@ -3369,7 +4586,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/whatsapp-chat-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/whatsapp-chat-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcac",
+      "iconStyle": {
+        "bgColor": "#6366f1",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-imessage-chat-generator",
@@ -3386,7 +4609,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/imessage-chat-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/imessage-chat-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcf1",
+      "iconStyle": {
+        "bgColor": "#6366f1",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-diff-checker",
@@ -3402,7 +4631,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/diff-checker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/diff-checker.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0e",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-privacy-policy-generator",
@@ -3418,7 +4653,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/privacy-policy-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/privacy-policy-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udee1\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-carbon-footprint-calculator",
@@ -3435,7 +4676,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/carbon-footprint-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/carbon-footprint-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf3f",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-code-screenshot-generator",
@@ -3452,7 +4699,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/code-screenshot-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/code-screenshot-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcf8",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-password-breach-checker",
@@ -3469,7 +4722,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/password-breach-checker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/password-breach-checker.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udee1\ufe0f",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-ssl-certificate-checker",
@@ -3486,7 +4745,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/ssl-certificate-checker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/ssl-certificate-checker.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd12",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-url-safety-checker",
@@ -3503,7 +4768,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/url-safety-checker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/url-safety-checker.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd17",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-security-headers-analyzer",
@@ -3520,7 +4791,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/security-headers-analyzer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/security-headers-analyzer.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf10",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-secure-note-sharing",
@@ -3537,7 +4814,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/secure-note-sharing/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/secure-note-sharing.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udce8",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-dns-security-scanner",
@@ -3554,7 +4837,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/dns-security-scanner/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/dns-security-scanner.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf10",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-email-security-checker",
@@ -3571,7 +4860,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/email-security-checker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/email-security-checker.png"
+      "icon": null,
+      "iconEmoji": "\u2709\ufe0f",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pgp-encryption-tool",
@@ -3588,7 +4883,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pgp-encryption-tool/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pgp-encryption-tool.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd10",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-two-fa-code-tester",
@@ -3605,7 +4906,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/two-fa-code-tester/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/two-fa-code-tester.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcf1",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-jwt-security-validator",
@@ -3622,7 +4929,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/jwt-security-validator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/jwt-security-validator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd11",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-data-sanitizer",
@@ -3639,7 +4952,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/data-sanitizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/data-sanitizer.png"
+      "icon": null,
+      "iconEmoji": "\ud83e\uddf9",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-cookie-analyzer",
@@ -3656,7 +4975,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/cookie-analyzer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/cookie-analyzer.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf6a",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-hash-comparison-tool",
@@ -3673,7 +4998,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/hash-comparison-tool/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/hash-comparison-tool.png"
+      "icon": null,
+      "iconEmoji": "#\ufe0f\u20e3",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-password-pattern-validator",
@@ -3690,7 +5021,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/password-pattern-validator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/password-pattern-validator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd11",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-privacy-policy-checker",
@@ -3707,7 +5044,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/privacy-policy-checker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/privacy-policy-checker.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0d",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-zod-schema",
@@ -3724,7 +5067,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-zod-schema/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-zod-schema.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udee1\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-go-struct",
@@ -3741,7 +5090,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-go-struct/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-go-struct.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-java-class",
@@ -3758,7 +5113,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-java-class/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-java-class.png"
+      "icon": null,
+      "iconEmoji": "\u2615",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-python-class",
@@ -3775,7 +5136,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-python-class/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-python-class.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udc0d",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-schema-validator",
@@ -3792,7 +5159,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-schema-validator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-schema-validator.png"
+      "icon": null,
+      "iconEmoji": "\u2705",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-schema-generator",
@@ -3809,7 +5182,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-schema-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-schema-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd1",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-mock-json-generator",
@@ -3826,7 +5205,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/mock-json-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/mock-json-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-jwt-generator",
@@ -3843,7 +5228,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/jwt-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/jwt-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd11",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-diff",
@@ -3860,7 +5251,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-diff/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-diff.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0e",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-comparer",
@@ -3877,7 +5274,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-comparer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-comparer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0e",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-curl-to-code",
@@ -3894,7 +5297,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/curl-to-code/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/curl-to-code.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbb",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-faker",
@@ -3911,7 +5320,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-faker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-faker.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfad",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-visualizer",
@@ -3928,7 +5343,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-visualizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-visualizer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udc41\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-jq-playground",
@@ -3945,7 +5366,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/jq-playground/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/jq-playground.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbb",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-ld-generator",
@@ -3962,7 +5389,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-ld-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-ld-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf10",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-xml-to-json",
@@ -3978,7 +5411,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/xml-to-json/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/xml-to-json.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd04",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-json-to-xml",
@@ -3994,7 +5433,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/json-to-xml/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/json-to-xml.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd04",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-openapi-validator",
@@ -4011,7 +5456,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/openapi-validator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/openapi-validator.png"
+      "icon": null,
+      "iconEmoji": "\u2705",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-postman-to-curl",
@@ -4028,7 +5479,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/postman-to-curl/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/postman-to-curl.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbb",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-har-to-curl",
@@ -4045,7 +5502,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/har-to-curl/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/har-to-curl.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbb",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-schema-org-generator",
@@ -4062,7 +5525,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/schema-org-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/schema-org-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf10",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-swagger-to-openapi",
@@ -4079,7 +5548,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/swagger-to-openapi/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/swagger-to-openapi.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd04",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-graphql-schema-validator",
@@ -4096,7 +5571,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/graphql-schema-validator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/graphql-schema-validator.png"
+      "icon": null,
+      "iconEmoji": "\u2705",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-graphql-to-typescript",
@@ -4113,7 +5594,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/graphql-to-typescript/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/graphql-to-typescript.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-api-docs-generator",
@@ -4130,7 +5617,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/api-docs-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/api-docs-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcda",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-tdee-calculator",
@@ -4147,7 +5640,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/tdee-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/tdee-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd25",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-sleep-calculator",
@@ -4164,7 +5663,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/sleep-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/sleep-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf19",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-one-rep-max-calculator",
@@ -4181,7 +5686,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/one-rep-max-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/one-rep-max-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfcb\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-break-even-calculator",
@@ -4197,7 +5708,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/break-even-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/break-even-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc8",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-youtube-description-generator",
@@ -4213,7 +5730,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/youtube-description-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/youtube-description-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfac",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-linkedin-post-generator",
@@ -4229,7 +5752,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/linkedin-post-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/linkedin-post-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbc",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-social-media-bio-generator",
@@ -4245,7 +5774,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/social-media-bio-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/social-media-bio-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udc64",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-caption-generator",
@@ -4261,7 +5796,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/caption-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/caption-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcac",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-thread-generator",
@@ -4277,7 +5818,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/thread-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/thread-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83e\uddf5",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-social-media-calendar-generator",
@@ -4293,7 +5840,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/social-media-calendar-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/social-media-calendar-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc5",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-spreadsheet-editor",
@@ -4309,7 +5862,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/spreadsheet-editor/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/spreadsheet-editor.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcca",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-slide-deck-builder",
@@ -4325,7 +5884,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/slide-deck-builder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/slide-deck-builder.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcfd\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pptx-to-pdf-converter",
@@ -4341,7 +5906,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pptx-to-pdf-converter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pptx-to-pdf-converter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcfd\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pptx-viewer",
@@ -4357,7 +5928,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pptx-viewer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pptx-viewer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcfd\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-word-to-pdf",
@@ -4373,7 +5950,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/word-to-pdf/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/word-to-pdf.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-site-to-markdown",
@@ -4389,7 +5972,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/site-to-markdown/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/site-to-markdown.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf10",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-math-expression-generator",
@@ -4405,7 +5994,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/math-expression-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/math-expression-generator.png"
+      "icon": null,
+      "iconEmoji": "\u2211",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-course-quiz-generator",
@@ -4421,7 +6016,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/course-quiz-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/course-quiz-generator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcdd",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-e164-validator",
@@ -4438,7 +6039,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/e164-validator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/e164-validator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcde",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-chmod-calculator",
@@ -4455,7 +6062,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/chmod-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/chmod-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udee1\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-glob-pattern-tester",
@@ -4472,7 +6085,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/glob-pattern-tester/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/glob-pattern-tester.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc2",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-text-find-replace",
@@ -4488,7 +6107,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/text-find-replace/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/text-find-replace.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0d",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-duplicate-line-remover",
@@ -4504,7 +6129,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/duplicate-line-remover/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/duplicate-line-remover.png"
+      "icon": null,
+      "iconEmoji": "\u2702\ufe0f",
+      "iconStyle": {
+        "bgColor": "#4f46e5",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-emoji-finder",
@@ -4520,7 +6151,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/emoji-finder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/emoji-finder.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\ude00",
+      "iconStyle": {
+        "bgColor": "#7c3aed",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-country-lookup",
@@ -4536,7 +6173,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/country-lookup/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/country-lookup.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf0d",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-markdown-to-word",
@@ -4552,7 +6195,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/markdown-to-word/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/markdown-to-word.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-markdown-to-pdf",
@@ -4568,7 +6217,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/markdown-to-pdf/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/markdown-to-pdf.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc4",
+      "iconStyle": {
+        "bgColor": "#0f766e",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-html-entity-finder",
@@ -4585,7 +6240,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/html-entity-finder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/html-entity-finder.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbb",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-keyboard-shortcut-finder",
@@ -4601,7 +6262,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/keyboard-shortcut-finder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/keyboard-shortcut-finder.png"
+      "icon": null,
+      "iconEmoji": "\u2328\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-vision-board",
@@ -4617,7 +6284,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/vision-board/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/vision-board.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udc41\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-color-name-finder",
@@ -4633,7 +6306,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/color-name-finder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/color-name-finder.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfa8",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-font-icon-search",
@@ -4649,7 +6328,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/font-icon-search/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/font-icon-search.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0e",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-http-status-code-lookup",
@@ -4666,7 +6351,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/http-status-code-lookup/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/http-status-code-lookup.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf10",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-mime-type-finder",
@@ -4683,7 +6374,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/mime-type-finder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/mime-type-finder.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc1",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-3d-geometry-visualizer",
@@ -4700,7 +6397,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/3d-geometry-visualizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/3d-geometry-visualizer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcd0",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-3d-vector-visualizer",
@@ -4717,7 +6420,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/3d-vector-visualizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/3d-vector-visualizer.png"
+      "icon": null,
+      "iconEmoji": "\u2197\ufe0f",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-3d-rotation-visualizer",
@@ -4734,7 +6443,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/3d-rotation-visualizer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/3d-rotation-visualizer.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf00",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-3d-model-viewer",
@@ -4750,7 +6465,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/3d-model-viewer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/3d-model-viewer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-pbr-material-previewer",
@@ -4766,7 +6487,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/pbr-material-previewer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/pbr-material-previewer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udc41\ufe0f",
+      "iconStyle": {
+        "bgColor": "#c026d3",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-3d-function-plotter",
@@ -4783,7 +6510,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/3d-function-plotter/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/3d-function-plotter.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcc8",
+      "iconStyle": {
+        "bgColor": "#0284c7",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-loadbalancer-design",
@@ -4800,7 +6533,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/loadbalancer-design/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/loadbalancer-design.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf10",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-subnet-calculator",
@@ -4817,7 +6556,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/subnet-calculator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/subnet-calculator.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf10",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-whois-lookup",
@@ -4834,7 +6579,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/whois-lookup/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/whois-lookup.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd0d",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-port-reference-guide",
@@ -4851,7 +6602,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/port-reference-guide/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/port-reference-guide.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcbb",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-mind-map-maker",
@@ -4867,7 +6624,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/mind-map-maker/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/mind-map-maker.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\udd78\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-decision-tree-builder",
@@ -4883,7 +6646,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/decision-tree-builder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/decision-tree-builder.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udf33",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-er-diagram-designer",
@@ -4900,7 +6669,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/er-diagram-designer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/er-diagram-designer.png"
+      "icon": null,
+      "iconEmoji": "\ud83d\uddc4\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-state-machine-designer",
@@ -4917,7 +6692,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/state-machine-designer/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/state-machine-designer.png"
+      "icon": null,
+      "iconEmoji": "\u2699\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-architecture-diagram",
@@ -4934,7 +6715,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/architecture-diagram/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/architecture-diagram.png"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfd7\ufe0f",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-workflow-builder",
@@ -4950,7 +6737,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/workflow-builder/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og/tools/en/workflow-builder.png"
+      "icon": null,
+      "iconEmoji": "\u2699\ufe0f",
+      "iconStyle": {
+        "bgColor": "#2563eb",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-kktc-exchange-rates",
@@ -4966,8 +6759,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/kktc-exchange-rates/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og-default.png",
-      "iconEmoji": "\ud83d\udcb0"
+      "icon": null,
+      "iconEmoji": "\ud83d\udcb1",
+      "iconStyle": {
+        "bgColor": "#059669",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-wvw-apps-json-generator",
@@ -4984,8 +6782,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/wvw-apps-json-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og-default.png",
-      "iconEmoji": "\ud83d\udee0\ufe0f"
+      "icon": null,
+      "iconEmoji": "\ud83c\udfea",
+      "iconStyle": {
+        "bgColor": "#1e293b",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     },
     {
       "id": "findutils-windows-update-settings-generator",
@@ -5002,8 +6805,13 @@
       "github": "https://github.com/olgunozoktas/findutils-tools",
       "homepage": "https://findutils.com/en/tools/windows-update-settings-generator/",
       "language": "TypeScript",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/og-default.png",
-      "iconEmoji": "\ud83d\udd12"
+      "icon": null,
+      "iconEmoji": "\u2699\ufe0f",
+      "iconStyle": {
+        "bgColor": "#dc2626",
+        "borderRadius": "22%",
+        "padding": "18%"
+      }
     }
   ]
 }
