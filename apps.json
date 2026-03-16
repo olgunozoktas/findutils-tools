@@ -2,7 +2,7 @@
   "$schema": "https://wvw.dev/apps.schema.json",
   "store": {
     "name": "FindUtils",
-    "developer": "Olgun Ozoktas",
+    "developer": "CodewithOlgun",
     "tagline": "Free online tools for everyday tasks - calculators, converters, generators, and developer utilities.",
     "url": "https://x.com/codewitholgun",
     "github": "https://github.com/olgunozoktas"
