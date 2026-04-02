@@ -6,7 +6,7 @@
 
 ### MCP Server
 
-Connect 22 tools directly to Claude, Cursor, Windsurf, ChatGPT, and any MCP-compatible client.
+Connect 52 tools directly to Claude, Cursor, Windsurf, ChatGPT, and any MCP-compatible client.
 
 **Claude Desktop / Claude Code:**
 
@@ -28,11 +28,11 @@ Add to your MCP config (`~/.claude/claude_desktop_config.json` or `~/.claude.jso
 MCP Server URL: https://findutils-mcp.codewitholgun.workers.dev/
 ```
 
-**Available MCP Tools:** Base64, URL Encode/Decode, UUID Generator, Hash Generator, HMAC Generator, JSON Formatter, JSON Validator, Percentage Calculator, Unit Converter, Color Converter, Unix Timestamp, Number Base Converter, Case Converter, Word Counter, Lorem Ipsum Generator, JWT Decoder, Regex Tester, Date Difference, CSV to JSON, JSON to CSV.
+**52 MCP Tools:** Base64, URL Encode/Decode, UUID, Hash (MD5/SHA), HMAC, JSON Format/Validate/Flatten/Unflatten/Query, Percentage, Unit Convert, Color Convert, Unix Timestamp, Number Base, Case Convert, Word Count, Lorem Ipsum, JWT Decode, Regex Test, Date Diff, CSV to JSON, JSON to CSV, XML to JSON, YAML to JSON, Markdown to HTML, HTML Strip, Slug Generate, IP Validate, Email Validate, Credit Card Validate, Password Generate, Random Number/String, Text Reverse/Truncate/Repeat, String Escape, Whitespace Clean, Line Sort/Dedupe, Cron Describe, Chmod Calculate, CIDR Calculate, Morse Code, Roman Numeral, BMI Calculate, Tip Calculate, Aspect Ratio, QR Text.
 
 ### REST API
 
-20 tools available as HTTP endpoints. No authentication required.
+50 tools available as HTTP endpoints. No authentication required.
 
 **Base URL:** `https://findutils-tool-api.codewitholgun.workers.dev`
 
@@ -68,9 +68,20 @@ curl -X POST https://findutils-tool-api.codewitholgun.workers.dev/api/tools/hash
 
 Full API documentation: [findutils.com/en/api](https://findutils.com/en/api/)
 
+### Claude Code Skill
+
+This repo includes a Claude Code skill at `.claude/skills/findutils-api/SKILL.md`. When cloned, Claude Code automatically picks it up and can help you:
+- Call any of the 50 API tools from your code
+- Set up the MCP server connection
+- Generate API client code in TypeScript, Python, Go, or curl
+- Test endpoints interactively
+
 ### llms.txt
 
-Machine-readable site overview for AI crawlers: [findutils.com/llms.txt](https://findutils.com/llms.txt)
+Machine-readable content for AI systems:
+- Site overview (316+ tools): [findutils.com/llms.txt](https://findutils.com/llms.txt)
+- API reference (50 tools): [findutils.com/api/llms.txt](https://findutils.com/api/llms.txt)
+- OpenAPI 3.1 spec: [findutils.com/api/openapi.json](https://findutils.com/api/openapi.json)
 
 ## WVW (World Vibe Web)
 
