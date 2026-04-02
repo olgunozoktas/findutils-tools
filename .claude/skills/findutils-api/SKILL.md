@@ -554,21 +554,3 @@ escape: `escape`, `unescape`
 
 `alpha` (default), `numeric`, `length`
 
----
-
-## GitHub Repos
-
-- MCP Server source: `https://github.com/olgunozoktas/findutils-mcp`
-- Tool mirror / apps.json: `https://github.com/olgunozoktas/findutils-tools`
-- Live site: `https://findutils.com`
-
-## Self-Hosting the MCP Server
-
-```bash
-git clone https://github.com/olgunozoktas/findutils-mcp.git
-cd findutils-mcp
-npm install
-npx wrangler deploy
-```
-
-Requires a Cloudflare account with Workers enabled.
