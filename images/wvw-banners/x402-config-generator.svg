@@ -26,22 +26,22 @@
 
   <!-- Decorative -->
   <g>
-    <circle cx="1144" cy="339" r="57" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <circle cx="980" cy="293" r="87" fill="none" stroke="white" stroke-width="2" opacity="0.07"/>
-    <circle cx="797" cy="159" r="108" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <rect x="889" y="246" width="76" height="72" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.06" transform="rotate(14, 927, 282)"/>
-    <rect x="792" y="129" width="105" height="48" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.03" transform="rotate(29, 844, 153)"/>
-    <circle cx="234" cy="189" r="3" fill="white" opacity="0.05"/>
-    <circle cx="175" cy="208" r="3" fill="white" opacity="0.05"/>
-    <circle cx="695" cy="398" r="3" fill="white" opacity="0.05"/>
-    <circle cx="422" cy="177" r="5" fill="white" opacity="0.05"/>
-    <circle cx="437" cy="88" r="5" fill="white" opacity="0.05"/>
-    <circle cx="1072" cy="310" r="4" fill="white" opacity="0.05"/>
-    <circle cx="1060" cy="475" r="4" fill="white" opacity="0.05"/>
-    <circle cx="886" cy="341" r="5" fill="white" opacity="0.05"/>
-    <line x1="892" y1="59" x2="1165" y2="332" stroke="white" stroke-width="1" opacity="0.07"/>
-    <line x1="728" y1="87" x2="976" y2="335" stroke="white" stroke-width="1" opacity="0.04"/>
-    <path d="M854 166 Q954 86 1054 186 Q1154 286 1004 346" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
+    <circle cx="950" cy="321" r="94" fill="none" stroke="white" stroke-width="2" opacity="0.06"/>
+    <circle cx="717" cy="422" r="80" fill="none" stroke="white" stroke-width="2" opacity="0.05"/>
+    <circle cx="1054" cy="149" r="59" fill="none" stroke="white" stroke-width="2" opacity="0.05"/>
+    <rect x="875" y="306" width="107" height="44" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.05" transform="rotate(34, 928, 328)"/>
+    <rect x="618" y="96" width="98" height="94" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.05" transform="rotate(37, 667, 143)"/>
+    <circle cx="905" cy="204" r="2" fill="white" opacity="0.05"/>
+    <circle cx="512" cy="473" r="3" fill="white" opacity="0.05"/>
+    <circle cx="893" cy="374" r="2" fill="white" opacity="0.05"/>
+    <circle cx="187" cy="285" r="3" fill="white" opacity="0.05"/>
+    <circle cx="882" cy="442" r="4" fill="white" opacity="0.05"/>
+    <circle cx="142" cy="275" r="2" fill="white" opacity="0.05"/>
+    <circle cx="905" cy="117" r="3" fill="white" opacity="0.05"/>
+    <circle cx="679" cy="313" r="2" fill="white" opacity="0.05"/>
+    <line x1="708" y1="230" x2="889" y2="411" stroke="white" stroke-width="1" opacity="0.07"/>
+    <line x1="893" y1="164" x2="1032" y2="303" stroke="white" stroke-width="1" opacity="0.05"/>
+    <path d="M948 319 Q1048 239 1148 339 Q1248 439 1098 499" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
   </g>
 
   <!-- Bottom fade -->
@@ -58,11 +58,11 @@
 
   <!-- Title -->
   <text x="60" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="white" letter-spacing="-1">
-    Travel Budget Calculator
+    x402 Config Generator
   </text>
 
   <!-- Subtitle -->
   <text x="60" y="570" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="white" opacity="0.8">
-    Plan your perfect trip with our free travel budget calculator.
+    Generate ready-to-use x402 payment middleware code for Express, Hono, Next.
   </text>
 </svg>

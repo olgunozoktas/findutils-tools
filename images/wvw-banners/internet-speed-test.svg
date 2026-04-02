@@ -26,22 +26,22 @@
 
   <!-- Decorative -->
   <g>
-    <circle cx="1144" cy="339" r="57" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <circle cx="980" cy="293" r="87" fill="none" stroke="white" stroke-width="2" opacity="0.07"/>
-    <circle cx="797" cy="159" r="108" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <rect x="889" y="246" width="76" height="72" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.06" transform="rotate(14, 927, 282)"/>
-    <rect x="792" y="129" width="105" height="48" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.03" transform="rotate(29, 844, 153)"/>
-    <circle cx="234" cy="189" r="3" fill="white" opacity="0.05"/>
-    <circle cx="175" cy="208" r="3" fill="white" opacity="0.05"/>
-    <circle cx="695" cy="398" r="3" fill="white" opacity="0.05"/>
-    <circle cx="422" cy="177" r="5" fill="white" opacity="0.05"/>
-    <circle cx="437" cy="88" r="5" fill="white" opacity="0.05"/>
-    <circle cx="1072" cy="310" r="4" fill="white" opacity="0.05"/>
-    <circle cx="1060" cy="475" r="4" fill="white" opacity="0.05"/>
-    <circle cx="886" cy="341" r="5" fill="white" opacity="0.05"/>
-    <line x1="892" y1="59" x2="1165" y2="332" stroke="white" stroke-width="1" opacity="0.07"/>
-    <line x1="728" y1="87" x2="976" y2="335" stroke="white" stroke-width="1" opacity="0.04"/>
-    <path d="M854 166 Q954 86 1054 186 Q1154 286 1004 346" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
+    <circle cx="949" cy="126" r="64" fill="none" stroke="white" stroke-width="2" opacity="0.04"/>
+    <circle cx="769" cy="352" r="109" fill="none" stroke="white" stroke-width="2" opacity="0.09"/>
+    <circle cx="769" cy="111" r="67" fill="none" stroke="white" stroke-width="2" opacity="0.09"/>
+    <rect x="601" y="108" width="95" height="81" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.04" transform="rotate(16, 648, 148)"/>
+    <rect x="881" y="90" width="110" height="114" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.04" transform="rotate(7, 936, 147)"/>
+    <circle cx="531" cy="103" r="3" fill="white" opacity="0.05"/>
+    <circle cx="895" cy="469" r="2" fill="white" opacity="0.05"/>
+    <circle cx="635" cy="432" r="5" fill="white" opacity="0.05"/>
+    <circle cx="825" cy="245" r="3" fill="white" opacity="0.05"/>
+    <circle cx="620" cy="431" r="5" fill="white" opacity="0.05"/>
+    <circle cx="1000" cy="473" r="3" fill="white" opacity="0.05"/>
+    <circle cx="493" cy="287" r="2" fill="white" opacity="0.05"/>
+    <circle cx="993" cy="190" r="5" fill="white" opacity="0.05"/>
+    <line x1="687" y1="136" x2="830" y2="279" stroke="white" stroke-width="1" opacity="0.05"/>
+    <line x1="804" y1="54" x2="1074" y2="324" stroke="white" stroke-width="1" opacity="0.04"/>
+    <path d="M684 390 Q784 310 884 410 Q984 510 834 570" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
   </g>
 
   <!-- Bottom fade -->
@@ -58,11 +58,11 @@
 
   <!-- Title -->
   <text x="60" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="white" letter-spacing="-1">
-    Travel Budget Calculator
+    Internet Speed Test
   </text>
 
   <!-- Subtitle -->
   <text x="60" y="570" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="white" opacity="0.8">
-    Plan your perfect trip with our free travel budget calculator.
+    Test your internet download and upload speeds instantly in your browser.
   </text>
 </svg>

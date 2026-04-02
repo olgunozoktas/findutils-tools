@@ -26,22 +26,22 @@
 
   <!-- Decorative -->
   <g>
-    <circle cx="1144" cy="339" r="57" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <circle cx="980" cy="293" r="87" fill="none" stroke="white" stroke-width="2" opacity="0.07"/>
-    <circle cx="797" cy="159" r="108" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <rect x="889" y="246" width="76" height="72" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.06" transform="rotate(14, 927, 282)"/>
-    <rect x="792" y="129" width="105" height="48" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.03" transform="rotate(29, 844, 153)"/>
-    <circle cx="234" cy="189" r="3" fill="white" opacity="0.05"/>
-    <circle cx="175" cy="208" r="3" fill="white" opacity="0.05"/>
-    <circle cx="695" cy="398" r="3" fill="white" opacity="0.05"/>
-    <circle cx="422" cy="177" r="5" fill="white" opacity="0.05"/>
-    <circle cx="437" cy="88" r="5" fill="white" opacity="0.05"/>
-    <circle cx="1072" cy="310" r="4" fill="white" opacity="0.05"/>
-    <circle cx="1060" cy="475" r="4" fill="white" opacity="0.05"/>
-    <circle cx="886" cy="341" r="5" fill="white" opacity="0.05"/>
-    <line x1="892" y1="59" x2="1165" y2="332" stroke="white" stroke-width="1" opacity="0.07"/>
-    <line x1="728" y1="87" x2="976" y2="335" stroke="white" stroke-width="1" opacity="0.04"/>
-    <path d="M854 166 Q954 86 1054 186 Q1154 286 1004 346" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
+    <circle cx="780" cy="158" r="94" fill="none" stroke="white" stroke-width="2" opacity="0.04"/>
+    <circle cx="863" cy="325" r="59" fill="none" stroke="white" stroke-width="2" opacity="0.09"/>
+    <circle cx="942" cy="376" r="55" fill="none" stroke="white" stroke-width="2" opacity="0.05"/>
+    <rect x="850" y="295" width="82" height="56" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.08" transform="rotate(4, 891, 323)"/>
+    <rect x="1069" y="148" width="49" height="47" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.04" transform="rotate(18, 1093, 171)"/>
+    <circle cx="348" cy="475" r="3" fill="white" opacity="0.05"/>
+    <circle cx="629" cy="107" r="2" fill="white" opacity="0.05"/>
+    <circle cx="904" cy="335" r="3" fill="white" opacity="0.05"/>
+    <circle cx="508" cy="386" r="4" fill="white" opacity="0.05"/>
+    <circle cx="344" cy="397" r="4" fill="white" opacity="0.05"/>
+    <circle cx="314" cy="155" r="5" fill="white" opacity="0.05"/>
+    <circle cx="1033" cy="176" r="4" fill="white" opacity="0.05"/>
+    <circle cx="517" cy="340" r="3" fill="white" opacity="0.05"/>
+    <line x1="616" y1="217" x2="757" y2="358" stroke="white" stroke-width="1" opacity="0.04"/>
+    <line x1="886" y1="156" x2="1173" y2="443" stroke="white" stroke-width="1" opacity="0.07"/>
+    <path d="M847 232 Q947 152 1047 252 Q1147 352 997 412" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
   </g>
 
   <!-- Bottom fade -->
@@ -58,11 +58,11 @@
 
   <!-- Title -->
   <text x="60" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="white" letter-spacing="-1">
-    Travel Budget Calculator
+    WhatsApp Chat Generator
   </text>
 
   <!-- Subtitle -->
   <text x="60" y="570" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="white" opacity="0.8">
-    Plan your perfect trip with our free travel budget calculator.
+    Create realistic mock WhatsApp conversations for presentations, tutorials, an...
   </text>
 </svg>

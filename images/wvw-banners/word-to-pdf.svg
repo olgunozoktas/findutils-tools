@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3f0f40"/>
-      <stop offset="50%" stop-color="#831843"/>
-      <stop offset="100%" stop-color="#be185d"/>
+      <stop offset="0%" stop-color="#2d1b69"/>
+      <stop offset="50%" stop-color="#5b21b6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
     </linearGradient>
     <radialGradient id="glow" cx="30%" cy="40%" r="70%">
       <stop offset="0%" stop-color="white" stop-opacity="0.08"/>
       <stop offset="100%" stop-color="white" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="bottom-fade" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#3f0f40" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#3f0f40" stop-opacity="0.7"/>
+      <stop offset="0%" stop-color="#2d1b69" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#2d1b69" stop-opacity="0.7"/>
     </linearGradient>
   </defs>
 
@@ -26,22 +26,22 @@
 
   <!-- Decorative -->
   <g>
-    <circle cx="1144" cy="339" r="57" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <circle cx="980" cy="293" r="87" fill="none" stroke="white" stroke-width="2" opacity="0.07"/>
-    <circle cx="797" cy="159" r="108" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <rect x="889" y="246" width="76" height="72" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.06" transform="rotate(14, 927, 282)"/>
-    <rect x="792" y="129" width="105" height="48" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.03" transform="rotate(29, 844, 153)"/>
-    <circle cx="234" cy="189" r="3" fill="white" opacity="0.05"/>
-    <circle cx="175" cy="208" r="3" fill="white" opacity="0.05"/>
-    <circle cx="695" cy="398" r="3" fill="white" opacity="0.05"/>
-    <circle cx="422" cy="177" r="5" fill="white" opacity="0.05"/>
-    <circle cx="437" cy="88" r="5" fill="white" opacity="0.05"/>
-    <circle cx="1072" cy="310" r="4" fill="white" opacity="0.05"/>
-    <circle cx="1060" cy="475" r="4" fill="white" opacity="0.05"/>
-    <circle cx="886" cy="341" r="5" fill="white" opacity="0.05"/>
-    <line x1="892" y1="59" x2="1165" y2="332" stroke="white" stroke-width="1" opacity="0.07"/>
-    <line x1="728" y1="87" x2="976" y2="335" stroke="white" stroke-width="1" opacity="0.04"/>
-    <path d="M854 166 Q954 86 1054 186 Q1154 286 1004 346" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
+    <circle cx="993" cy="148" r="49" fill="none" stroke="white" stroke-width="2" opacity="0.07"/>
+    <circle cx="1009" cy="266" r="56" fill="none" stroke="white" stroke-width="2" opacity="0.09"/>
+    <circle cx="913" cy="309" r="55" fill="none" stroke="white" stroke-width="2" opacity="0.05"/>
+    <rect x="1028" y="273" width="60" height="102" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.08" transform="rotate(16, 1058, 324)"/>
+    <rect x="864" y="246" width="67" height="114" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.05" transform="rotate(21, 897, 303)"/>
+    <circle cx="731" cy="80" r="3" fill="white" opacity="0.05"/>
+    <circle cx="963" cy="376" r="2" fill="white" opacity="0.05"/>
+    <circle cx="649" cy="162" r="4" fill="white" opacity="0.05"/>
+    <circle cx="622" cy="396" r="4" fill="white" opacity="0.05"/>
+    <circle cx="1004" cy="219" r="5" fill="white" opacity="0.05"/>
+    <circle cx="1078" cy="397" r="5" fill="white" opacity="0.05"/>
+    <circle cx="473" cy="339" r="3" fill="white" opacity="0.05"/>
+    <circle cx="553" cy="228" r="3" fill="white" opacity="0.05"/>
+    <line x1="837" y1="76" x2="1048" y2="287" stroke="white" stroke-width="1" opacity="0.04"/>
+    <line x1="567" y1="95" x2="719" y2="247" stroke="white" stroke-width="1" opacity="0.05"/>
+    <path d="M906 199 Q1006 119 1106 219 Q1206 319 1056 379" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
   </g>
 
   <!-- Bottom fade -->
@@ -54,15 +54,15 @@
   </g>
 
   <!-- Accent line -->
-  <rect x="60" y="485" width="80" height="4" rx="2" fill="#f9a8d4" opacity="0.7"/>
+  <rect x="60" y="485" width="80" height="4" rx="2" fill="#c4b5fd" opacity="0.7"/>
 
   <!-- Title -->
   <text x="60" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="white" letter-spacing="-1">
-    Travel Budget Calculator
+    Word to PDF Converter
   </text>
 
   <!-- Subtitle -->
   <text x="60" y="570" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="white" opacity="0.8">
-    Plan your perfect trip with our free travel budget calculator.
+    Convert Word documents (.
   </text>
 </svg>

@@ -26,22 +26,22 @@
 
   <!-- Decorative -->
   <g>
-    <circle cx="1144" cy="339" r="57" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <circle cx="980" cy="293" r="87" fill="none" stroke="white" stroke-width="2" opacity="0.07"/>
-    <circle cx="797" cy="159" r="108" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <rect x="889" y="246" width="76" height="72" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.06" transform="rotate(14, 927, 282)"/>
-    <rect x="792" y="129" width="105" height="48" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.03" transform="rotate(29, 844, 153)"/>
-    <circle cx="234" cy="189" r="3" fill="white" opacity="0.05"/>
-    <circle cx="175" cy="208" r="3" fill="white" opacity="0.05"/>
-    <circle cx="695" cy="398" r="3" fill="white" opacity="0.05"/>
-    <circle cx="422" cy="177" r="5" fill="white" opacity="0.05"/>
-    <circle cx="437" cy="88" r="5" fill="white" opacity="0.05"/>
-    <circle cx="1072" cy="310" r="4" fill="white" opacity="0.05"/>
-    <circle cx="1060" cy="475" r="4" fill="white" opacity="0.05"/>
-    <circle cx="886" cy="341" r="5" fill="white" opacity="0.05"/>
-    <line x1="892" y1="59" x2="1165" y2="332" stroke="white" stroke-width="1" opacity="0.07"/>
-    <line x1="728" y1="87" x2="976" y2="335" stroke="white" stroke-width="1" opacity="0.04"/>
-    <path d="M854 166 Q954 86 1054 186 Q1154 286 1004 346" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
+    <circle cx="816" cy="261" r="38" fill="none" stroke="white" stroke-width="2" opacity="0.09"/>
+    <circle cx="726" cy="274" r="41" fill="none" stroke="white" stroke-width="2" opacity="0.06"/>
+    <circle cx="1126" cy="226" r="95" fill="none" stroke="white" stroke-width="2" opacity="0.05"/>
+    <rect x="919" y="302" width="84" height="44" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.04" transform="rotate(4, 961, 324)"/>
+    <rect x="962" y="194" width="78" height="88" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.06" transform="rotate(9, 1001, 238)"/>
+    <circle cx="740" cy="440" r="4" fill="white" opacity="0.05"/>
+    <circle cx="547" cy="163" r="2" fill="white" opacity="0.05"/>
+    <circle cx="160" cy="251" r="2" fill="white" opacity="0.05"/>
+    <circle cx="1090" cy="377" r="5" fill="white" opacity="0.05"/>
+    <circle cx="823" cy="208" r="2" fill="white" opacity="0.05"/>
+    <circle cx="758" cy="211" r="5" fill="white" opacity="0.05"/>
+    <circle cx="496" cy="90" r="4" fill="white" opacity="0.05"/>
+    <circle cx="859" cy="111" r="5" fill="white" opacity="0.05"/>
+    <line x1="844" y1="180" x2="1014" y2="350" stroke="white" stroke-width="1" opacity="0.03"/>
+    <line x1="616" y1="177" x2="908" y2="469" stroke="white" stroke-width="1" opacity="0.07"/>
+    <path d="M682 181 Q782 101 882 201 Q982 301 832 361" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
   </g>
 
   <!-- Bottom fade -->
@@ -58,11 +58,11 @@
 
   <!-- Title -->
   <text x="60" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="white" letter-spacing="-1">
-    Travel Budget Calculator
+    Sleep Calculator
   </text>
 
   <!-- Subtitle -->
   <text x="60" y="570" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="white" opacity="0.8">
-    Plan your perfect trip with our free travel budget calculator.
+    Calculate the best times to sleep and wake up based on sleep cycles.
   </text>
 </svg>

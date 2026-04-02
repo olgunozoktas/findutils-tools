@@ -26,22 +26,22 @@
 
   <!-- Decorative -->
   <g>
-    <circle cx="1144" cy="339" r="57" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <circle cx="980" cy="293" r="87" fill="none" stroke="white" stroke-width="2" opacity="0.07"/>
-    <circle cx="797" cy="159" r="108" fill="none" stroke="white" stroke-width="2" opacity="0.10"/>
-    <rect x="889" y="246" width="76" height="72" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.06" transform="rotate(14, 927, 282)"/>
-    <rect x="792" y="129" width="105" height="48" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.03" transform="rotate(29, 844, 153)"/>
-    <circle cx="234" cy="189" r="3" fill="white" opacity="0.05"/>
-    <circle cx="175" cy="208" r="3" fill="white" opacity="0.05"/>
-    <circle cx="695" cy="398" r="3" fill="white" opacity="0.05"/>
-    <circle cx="422" cy="177" r="5" fill="white" opacity="0.05"/>
-    <circle cx="437" cy="88" r="5" fill="white" opacity="0.05"/>
-    <circle cx="1072" cy="310" r="4" fill="white" opacity="0.05"/>
-    <circle cx="1060" cy="475" r="4" fill="white" opacity="0.05"/>
-    <circle cx="886" cy="341" r="5" fill="white" opacity="0.05"/>
-    <line x1="892" y1="59" x2="1165" y2="332" stroke="white" stroke-width="1" opacity="0.07"/>
-    <line x1="728" y1="87" x2="976" y2="335" stroke="white" stroke-width="1" opacity="0.04"/>
-    <path d="M854 166 Q954 86 1054 186 Q1154 286 1004 346" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
+    <circle cx="809" cy="427" r="74" fill="none" stroke="white" stroke-width="2" opacity="0.04"/>
+    <circle cx="1003" cy="417" r="95" fill="none" stroke="white" stroke-width="2" opacity="0.07"/>
+    <circle cx="1053" cy="183" r="49" fill="none" stroke="white" stroke-width="2" opacity="0.11"/>
+    <rect x="653" y="243" width="54" height="93" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.08" transform="rotate(4, 680, 289)"/>
+    <rect x="901" y="84" width="68" height="117" rx="4" fill="none" stroke="white" stroke-width="1.5" opacity="0.08" transform="rotate(6, 935, 142)"/>
+    <circle cx="1038" cy="377" r="3" fill="white" opacity="0.05"/>
+    <circle cx="105" cy="326" r="3" fill="white" opacity="0.05"/>
+    <circle cx="887" cy="405" r="4" fill="white" opacity="0.05"/>
+    <circle cx="323" cy="475" r="5" fill="white" opacity="0.05"/>
+    <circle cx="910" cy="377" r="3" fill="white" opacity="0.05"/>
+    <circle cx="969" cy="258" r="2" fill="white" opacity="0.05"/>
+    <circle cx="846" cy="157" r="5" fill="white" opacity="0.05"/>
+    <circle cx="165" cy="179" r="2" fill="white" opacity="0.05"/>
+    <line x1="522" y1="124" x2="710" y2="312" stroke="white" stroke-width="1" opacity="0.05"/>
+    <line x1="996" y1="131" x2="1133" y2="268" stroke="white" stroke-width="1" opacity="0.06"/>
+    <path d="M803 131 Q903 51 1003 151 Q1103 251 953 311" fill="none" stroke="white" stroke-width="1.5" opacity="0.04"/>
   </g>
 
   <!-- Bottom fade -->
@@ -58,11 +58,11 @@
 
   <!-- Title -->
   <text x="60" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="white" letter-spacing="-1">
-    Travel Budget Calculator
+    JWT Token Generator
   </text>
 
   <!-- Subtitle -->
   <text x="60" y="570" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="white" opacity="0.8">
-    Plan your perfect trip with our free travel budget calculator.
+    Generate JSON Web Tokens (JWT) with custom claims and expiration.
   </text>
 </svg>
