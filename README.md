@@ -16,7 +16,7 @@ Add to your MCP config (`~/.claude/claude_desktop_config.json` or `~/.claude.jso
 {
   "mcpServers": {
     "findutils": {
-      "url": "https://findutils-mcp.codewitholgun.workers.dev/"
+      "url": "https://mcp.findutils.com/"
     }
   }
 }
@@ -25,7 +25,7 @@ Add to your MCP config (`~/.claude/claude_desktop_config.json` or `~/.claude.jso
 **Any MCP Client (Streamable HTTP):**
 
 ```
-MCP Server URL: https://findutils-mcp.codewitholgun.workers.dev/
+MCP Server URL: https://mcp.findutils.com/
 ```
 
 **52 MCP Tools:** Base64, URL Encode/Decode, UUID, Hash (MD5/SHA), HMAC, JSON Format/Validate/Flatten/Unflatten/Query, Percentage, Unit Convert, Color Convert, Unix Timestamp, Number Base, Case Convert, Word Count, Lorem Ipsum, JWT Decode, Regex Test, Date Diff, CSV to JSON, JSON to CSV, XML to JSON, YAML to JSON, Markdown to HTML, HTML Strip, Slug Generate, IP Validate, Email Validate, Credit Card Validate, Password Generate, Random Number/String, Text Reverse/Truncate/Repeat, String Escape, Whitespace Clean, Line Sort/Dedupe, Cron Describe, Chmod Calculate, CIDR Calculate, Morse Code, Roman Numeral, BMI Calculate, Tip Calculate, Aspect Ratio, QR Text.
@@ -34,22 +34,22 @@ MCP Server URL: https://findutils-mcp.codewitholgun.workers.dev/
 
 50 tools available as HTTP endpoints. No authentication required.
 
-**Base URL:** `https://findutils-tool-api.codewitholgun.workers.dev`
+**Base URL:** `https://api.findutils.com`
 
 **Example:**
 
 ```bash
 # Encode text to Base64
-curl -X POST https://findutils-tool-api.codewitholgun.workers.dev/api/tools/base64/execute \
+curl -X POST https://api.findutils.com/api/tools/base64/execute \
   -H "Content-Type: application/json" \
   -d '{"text": "Hello, World!", "action": "encode"}'
 
 # Generate a UUID
-curl -X POST https://findutils-tool-api.codewitholgun.workers.dev/api/tools/uuid/execute \
+curl -X POST https://api.findutils.com/api/tools/uuid/execute \
   -H "Content-Type: application/json" -d '{}'
 
 # SHA-256 hash
-curl -X POST https://findutils-tool-api.codewitholgun.workers.dev/api/tools/hash/execute \
+curl -X POST https://api.findutils.com/api/tools/hash/execute \
   -H "Content-Type: application/json" \
   -d '{"text": "hello world", "algorithm": "sha-256"}'
 ```
