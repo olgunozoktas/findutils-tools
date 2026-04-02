@@ -65,6 +65,181 @@
   ],
   "apps": [
     {
+      "id": "findutils-x402-config-generator",
+      "name": "x402 Config Generator",
+      "subtitle": "Generate ready-to-use x402 payment middleware code for Express, Hono, Next.",
+      "description": "Generate ready-to-use x402 payment middleware code for Express, Hono, Next.js, Fastify, Gin, FastAPI, and Flask. Configure routes, pricing, networks, and get copy-paste code for servers and clients.",
+      "category": [
+        "developer-tools",
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/x402-config-generator/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "x402 is an open-source payment protocol by Coinbase that activates the HTTP 402 Payment Required status code for programmatic, on-chain payments. It supports stablecoins like USDC across multiple blockchains including Base, Polygon, Solana, Aptos, and Stellar. x402 has official SDKs for TypeScript (Express, Hono, Next.js, Fastify), Go (Gin, net/http), and Python (FastAPI, Flask). Client SDKs are available for fetch, axios, Go net/http, and Python httpx/requests. A facilitator is a service tha...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udee0\ufe0f"
+    },
+    {
+      "id": "findutils-ascii-diagram-generator",
+      "name": "ASCII Diagram Generator",
+      "subtitle": "Describe diagrams in plain English and get publication-ready ASCII/Unicode bo...",
+      "description": "Describe diagrams in plain English and get publication-ready ASCII/Unicode box-drawing diagrams instantly. Supports flowcharts, sequence diagrams, ER diagrams, architecture diagrams, and more.",
+      "category": [
+        "developer-tools",
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/ascii-diagram-generator/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Flowcharts, sequence diagrams, ER diagrams, class diagrams, architecture diagrams, network topologies, org charts, mind maps, state machines, file trees, CI/CD pipelines, truth tables, and more. The AI auto-detects the best type from your description. Yes. Click anywhere on the canvas to place your cursor and type or edit characters directly. Use Cmd+Z to undo edits. You can also ask the AI to make specific modifications via the chat. Copy to clipboard, download as .txt, .svg (vector), .png (...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udee0\ufe0f"
+    },
+    {
+      "id": "findutils-ai-model-picker",
+      "name": "AI Model Picker",
+      "subtitle": "Find the best AI coding model for your workflow.",
+      "description": "Find the best AI coding model for your workflow. Interactive tradeoff advisor that recommends Claude, GPT, Gemini, and more based on your language, task, and priorities.",
+      "category": [
+        "developer-tools",
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/ai-model-picker/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "icon": null,
+      "iconEmoji": "\ud83d\udee0\ufe0f"
+    },
+    {
+      "id": "findutils-dnpm-configurator",
+      "name": "dnpm Configurator",
+      "subtitle": "Generate a hardened Docker-based npm wrapper that sandboxes every install, bu...",
+      "description": "Generate a hardened Docker-based npm wrapper that sandboxes every install, build, and dev command. Blocks postinstall attacks, drops all capabilities, runs as non-root, builds with zero network acc...",
+      "category": [
+        "developer-tools",
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/dnpm-configurator/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "No. dnpm wraps npm inside a secure Docker container. Every npm command you know still works - dnpm just adds isolation and security layers around it. Yes. Scripts defined in package.json (dev, build, test, etc.) work normally. Lifecycle scripts like postinstall are disabled by default but run in the offline rebuild phase when you use dnpm setup or dnpm ci. The generated setup is npm-focused, but you can modify the Dockerfile and compose file to use yarn or pnpm instead. The security model (re...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udee0\ufe0f"
+    },
+    {
+      "id": "findutils-yolobox-configurator",
+      "name": "Yolobox Configurator",
+      "subtitle": "Generate .",
+      "description": "Generate .yolobox.toml configuration files and CLI commands for yolobox, the container sandbox that lets AI coding agents run with full permissions while keeping your home directory safe.",
+      "category": [
+        "developer-tools",
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/yolobox-configurator/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Yolobox is an open-source CLI tool that runs AI coding agents inside isolated containers. It gives the AI full sudo access and auto-approval mode while protecting your home directory and system files from accidental damage. Yolobox supports Claude Code (with --dangerously-skip-permissions), OpenAI Codex, Google Gemini CLI, GitHub Copilot, and OpenCode. You can also run any custom command inside the container. Yolobox provides container-level isolation that protects against accidental filesyst...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udee0\ufe0f"
+    },
+    {
+      "id": "findutils-photo-calendar",
+      "name": "Photo Calendar",
+      "subtitle": "Create a beautiful visual monthly journal by adding photos to calendar dates.",
+      "description": "Create a beautiful visual monthly journal by adding photos to calendar dates. Export as PNG or PDF for printing. Works offline with no uploads.",
+      "category": [
+        "graphics-design",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/photo-calendar/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Photos are stored locally in your browser using IndexedDB. They never leave your device and are not uploaded to any server. Click or tap on any date in the calendar to open the file picker. On mobile, you can also take a photo with your camera. You can drag and drop photos onto dates from your desktop. Yes! Use the Download PDF button to get a print-ready A4 PDF of your calendar. The Download PNG button creates a high-resolution image.",
+      "icon": null,
+      "iconEmoji": "\ud83c\udfa8"
+    },
+    {
+      "id": "findutils-sticker-maker",
+      "name": "Sticker Maker",
+      "subtitle": "Turn any photo into a custom sticker with decorative borders, stamp edges, sh...",
+      "description": "Turn any photo into a custom sticker with decorative borders, stamp edges, shapes, and transparent backgrounds. Download as PNG for WhatsApp, Telegram, iMessage, or print.",
+      "category": [
+        "graphics-design",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/sticker-maker/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "You can upload JPEG, PNG, WebP, GIF, and SVG images. The tool works best with square or nearly-square images. Yes! Download your sticker as a transparent PNG and import it into WhatsApp or Telegram sticker packs using their respective sticker maker apps. The stamp border creates a perforated edge effect like a postage stamp. It adds small semicircular cutouts along the border of your sticker.",
+      "icon": null,
+      "iconEmoji": "\ud83c\udfa8"
+    },
+    {
+      "id": "findutils-image-to-puzzle",
+      "name": "Image to Puzzle",
+      "subtitle": "Upload any image and turn it into a playable jigsaw puzzle with realistic int...",
+      "description": "Upload any image and turn it into a playable jigsaw puzzle with realistic interlocking pieces. Choose grid size, difficulty, and solve it with drag-and-drop.",
+      "category": [
+        "graphics-design",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/image-to-puzzle/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Drag puzzle pieces from the tray to the grid. Pieces snap into place when dropped near their correct position. In Hard mode, double-tap pieces to rotate them. Yes! Your puzzle is automatically saved. If you close the browser and come back, you can resume where you left off. Easy shows grid outlines and piece numbers. Medium shows only grid outlines. Hard has no outlines and pieces are randomly rotated.",
+      "icon": null,
+      "iconEmoji": "\ud83c\udfa8"
+    },
+    {
+      "id": "findutils-lottie-editor",
+      "name": "Lottie Editor",
+      "subtitle": "Edit Lottie animations in your browser with GPU-accelerated Skia rendering.",
+      "description": "Edit Lottie animations in your browser with GPU-accelerated Skia rendering. Preview, modify colors, text, and opacity, then export modified JSON. No signup required.",
+      "category": [
+        "graphics-design",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/lottie-editor/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "A Lottie animation is a JSON-based animation format created by Airbnb. Designers create animations in Adobe After Effects and export them using the Bodymovin plugin. The resulting JSON file can be rendered on web, iOS, and Android with small file sizes and perfect scalability. Skia is Google's 2D graphics library used in Chrome, Android, and Flutter. The CanvasKit WASM module includes Skottie, Google's native Lottie renderer. This gives you the same rendering quality as native mobile apps, wi...",
+      "icon": null,
+      "iconEmoji": "\ud83c\udfa8"
+    },
+    {
       "id": "findutils-photo-editor",
       "name": "Photo Editor",
       "subtitle": "Create stunning images, memes, and social media graphics with our free online...",
@@ -105,7 +280,7 @@
       "id": "findutils-password-generator",
       "name": "Secure Password Generator",
       "subtitle": "Secure Client-Side Password Tools",
-      "description": "Create strong, complex passwords instantly to keep your accounts safe. Customize length and character types below.",
+      "description": "Generate strong, random passwords instantly in your browser. No tracking, no server storage. Customize length, characters, and check strength free online.",
       "category": [
         "utilities",
         "developer-tools",
@@ -141,8 +316,8 @@
     {
       "id": "findutils-qr-code-generator",
       "name": "QR Code Generator",
-      "subtitle": "Create free, custom QR codes for your links, text, Wi-Fi, or contact info ins...",
-      "description": "Create free, custom QR codes for your links, text, Wi-Fi, or contact info instantly. Customize colors, add margins, and download in high quality.",
+      "subtitle": "Generate free QR codes online instantly.",
+      "description": "Generate free QR codes online instantly. No signup, no watermark. Customize colors, encode URLs, Wi-Fi, vCards, and text. Download PNG or SVG.",
       "category": [
         "utilities",
         "web"
@@ -181,8 +356,8 @@
     {
       "id": "findutils-json-minifier",
       "name": "JSON Minifier",
-      "subtitle": "Compress and minify your JSON data by removing whitespace and formatting.",
-      "description": "Compress and minify your JSON data by removing whitespace and formatting. Reduce file size while keeping valid JSON structure. Perfect for optimizing API responses and reducing bandwidth.",
+      "subtitle": "Minify JSON online for free.",
+      "description": "Minify JSON online for free. Remove whitespace, reduce file size by 20-40%, and keep valid structure. Client-side processing, no upload required.",
       "category": [
         "developer-tools",
         "utilities",
@@ -194,7 +369,7 @@
       "homepage": "https://findutils.com/en/tools/json-minifier/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "JSON minification is the process of removing all unnecessary characters from JSON data without changing its functionality. This includes whitespace, newlines, and indentation that are only used for human readability. No, minification only removes formatting characters. The actual data, structure, and values in your JSON remain exactly the same. The minified JSON is functionally identical to the original. The reduction depends on the original formatting. Well-formatted JSON with 2-4 space inde...",
+      "longDescription": "JSON minification is the process of removing all unnecessary characters from JSON data without changing its functionality. This includes whitespace, newlines, and indentation that are only used for human readability. The resulting output is a single compact line that is functionally identical to the original. No, minification only removes formatting characters. The actual data, structure, and values in your JSON remain exactly the same. The minified JSON is functionally identical to the origi...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-minifier.svg"
     },
     {
@@ -213,7 +388,7 @@
       "homepage": "https://findutils.com/en/tools/json-escaper/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "In JSON strings, you must escape: double quotes (\\\"), backslashes (\\\\), newlines (\\n), carriage returns (\\r), tabs (\\t), form feeds (\\f), and backspaces (\\b). You need to escape strings when embedding user input or multi-line text into JSON, when constructing JSON strings programmatically, or when storing text that contains special characters in JSON format. Escape converts readable characters into their JSON-safe escaped form (e.g., newline becomes \\n). Unescape does the reverse, converting ...",
+      "longDescription": "In JSON strings, you must escape: double quotes (\\\"), backslashes (\\\\), newlines (\\n), carriage returns (\\r), tabs (\\t), form feeds (\\f), and backspaces (\\b). Any control character below U+0020 must also be escaped using a \\uXXXX sequence. You need to escape strings when embedding user input or multi-line text into JSON, when constructing JSON strings programmatically, or when storing text that contains special characters in JSON format. It is also necessary when building nested JSON where a ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-escaper.svg"
     },
     {
@@ -287,7 +462,7 @@
       "homepage": "https://findutils.com/en/tools/json-to-url-params/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "The tool supports JSON objects with primitive values (strings, numbers, booleans), arrays, and nested objects. Nested objects are serialized as JSON strings in the output. Arrays can be output in two formats: with bracket notation (key[]=value) or flattened (key=value repeated). Use the 'Flatten arrays' option to switch between them. URL encoding converts special characters like spaces, &, =, and non-ASCII characters to percent-encoded format (e.g., space becomes %20). This ensures the parame...",
+      "longDescription": "The tool supports JSON objects with primitive values (strings, numbers, booleans), arrays, and nested objects. Nested objects are serialized as JSON strings in the output. Arrays can be output in two formats: with bracket notation (key[]=value) or flattened (key=value repeated for each element). Use the Flatten arrays option to switch between them. Bracket notation is widely supported by PHP and Rails backends. URL encoding converts special characters like spaces, &, =, and non-ASCII characte...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-to-url-params.svg"
     },
     {
@@ -331,8 +506,8 @@
     {
       "id": "findutils-json-to-tailwind-form",
       "name": "JSON to Tailwind Form",
-      "subtitle": "Generate beautiful Tailwind CSS forms from JSON schema definitions.",
-      "description": "Generate beautiful Tailwind CSS forms from JSON schema definitions. Define your form structure in JSON and get production-ready React/JSX code with proper Tailwind styling.",
+      "subtitle": "Generate Tailwind CSS forms from JSON schemas.",
+      "description": "Generate Tailwind CSS forms from JSON schemas. Define your form structure in JSON and get production-ready React JSX code with Tailwind styling.",
       "category": [
         "developer-tools",
         "utilities",
@@ -363,7 +538,7 @@
       "homepage": "https://findutils.com/en/tools/json-to-bootstrap-form/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "The generated code uses Bootstrap 5 classes. Make sure you have Bootstrap 5 CSS included in your project for proper styling. Add a 'helpText' property to any field in your JSON schema. It will be rendered as a form-text element below the input. Yes! Set 'layout': 'floating' in your schema. Note that floating labels work best with text, email, password, and textarea inputs.",
+      "longDescription": "The generated code uses Bootstrap 5 classes exclusively. Make sure your project includes the Bootstrap 5 CSS file (via CDN or npm) for the form styles to render correctly. Add a 'helpText' property to any field in your JSON schema. The generator renders it as a Bootstrap form-text element directly below the input, styled with the muted text class. Floating labels work best with text, email, password, number, and textarea inputs. Select elements have limited floating label support in Bootstrap...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-to-bootstrap-form.svg"
     },
     {
@@ -420,7 +595,7 @@
       "homepage": "https://findutils.com/en/tools/json-schema-form-builder/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "The builder supports text, email, password, number, phone, URL, date, textarea, select, checkbox, and radio fields. Currently fields are added in order. Future updates will include drag-and-drop reordering functionality. Click the settings icon on a select or radio field to expand its options. Then use 'Add Option' to add value/label pairs.",
+      "longDescription": "The builder supports text, email, password, number, phone, URL, date, textarea, select, checkbox, and radio fields. Each type maps to the appropriate JSON Schema type and format keywords. Yes, you can drag and drop fields to rearrange them. The generated schema updates the property order automatically to match your layout. Click the settings icon on a select or radio field to expand its options panel. Then use the Add Option button to create value and label pairs for each choice.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-schema-form-builder.svg"
     },
     {
@@ -438,7 +613,7 @@
       "homepage": "https://findutils.com/en/tools/json-to-social-card/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Required field is 'title'. Optional fields include: 'description', 'author', 'avatar' (image URL), 'date', 'siteName', 'logo' (URL), 'background' (hex color), 'textColor' (hex color), and 'tag' (category label). Six templates: OG Classic (dark navy style), Blog Post (clean white layout), Dark Modern (dark gradient), Gradient Hero (purple-blue gradient), Minimal (clean white border), and Brand Bold (strong solid color). You can download cards as PNG images, or copy the code as Tailwind CSS HTM...",
+      "longDescription": "The only required field is 'title'. Optional fields include 'description', 'author', 'avatar' (image URL), 'date', 'siteName', 'logo' (URL), 'background' (hex color), 'textColor' (hex color), and 'tag' (category label). All optional fields gracefully degrade if omitted. Six templates: OG Classic (dark navy style), Blog Post (clean white layout), Dark Modern (dark gradient), Gradient Hero (purple-blue gradient), Minimal (clean white border), and Brand Bold (strong solid color). Each template i...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-to-social-card.svg"
     },
     {
@@ -582,7 +757,7 @@
       "homepage": "https://findutils.com/en/tools/json-to-invoice/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Include: invoiceNumber, date, dueDate, from (name, address, email, phone), to (name, address, email), items array, currency, taxRate, and notes. The tool automatically multiplies quantity by unit price for each item, sums up the subtotal, and applies the tax rate if specified. Yes! Add a 'currency' property with your symbol (e.g., '\u20ac', '\u00a3', '\u00a5'). It defaults to '$' if not specified.",
+      "longDescription": "Include invoiceNumber, date, dueDate, from (name, address, email, phone), to (name, address, email), items array (each with description, quantity, unitPrice), currency, taxRate, discount, and notes. All fields except invoiceNumber and items are optional. The tool multiplies quantity by unit price for each line item, sums up the subtotal, applies any discount, then calculates tax on the discounted amount. The final total reflects all adjustments automatically. Yes. Add a currency property with...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-to-invoice.svg"
     },
     {
@@ -618,7 +793,7 @@
       "homepage": "https://findutils.com/en/tools/json-to-email-template/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Include: subject, preheader, logo URL, headerColor, title, greeting, body (array of paragraphs), button (text, url, color), footer, companyName, companyAddress, and unsubscribe URL. Yes! The generated HTML uses table-based layout and inline styles for maximum compatibility with email clients including Gmail, Outlook, Apple Mail, and others. Add a 'button' object with 'text', 'url', and optional 'color' properties. The button will be centered and styled with your chosen color.",
+      "longDescription": "Include: subject, preheader, logo URL, headerColor, title, greeting, body (array of paragraphs), button (text, url, color), footer, companyName, companyAddress, and unsubscribe URL. All fields are optional except title and body. Yes! The generated HTML uses table-based layout and inline styles for maximum compatibility with email clients including Gmail, Outlook, Apple Mail, Yahoo Mail, and Thunderbird. This approach follows email development best practices. Add a 'button' object with 'text',...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-to-email-template.svg"
     },
     {
@@ -699,8 +874,8 @@
     {
       "id": "findutils-pdf-converter",
       "name": "PDF to Image Converter",
-      "subtitle": "Convert PDF documents to high-quality images instantly.",
-      "description": "Convert PDF documents to high-quality images instantly. Process files locally in your browser for maximum privacy and security.",
+      "subtitle": "Convert PDF pages to high-quality JPG or PNG images free online.",
+      "description": "Convert PDF pages to high-quality JPG or PNG images free online. No upload, no signup. Process files in your browser with adjustable DPI and batch download.",
       "category": [
         "utilities",
         "web"
@@ -783,13 +958,14 @@
       "homepage": "https://findutils.com/en/tools/pdf-editor/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
+      "longDescription": "Yes. The FindUtils PDF Editor is 100% free with no trial period, no signup, and no daily limits. You can edit as many PDFs as you like. No. All processing happens locally in your browser using JavaScript. Your PDF files never leave your device, which makes this one of the most private PDF editors available online. You can add text, highlights, underlines, strikethroughs, sticky notes, callouts, checkboxes, stamps (Approved, Rejected, Draft, Confidential), freehand drawings, arrows, lines, rec...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/pdf-editor.svg"
     },
     {
       "id": "findutils-pdf-merger",
       "name": "PDF Merger",
-      "subtitle": "Combine multiple PDF files into a single document.",
-      "description": "Combine multiple PDF files into a single document. Drag and drop to reorder pages, all processed securely in your browser.",
+      "subtitle": "Merge PDF files online for free.",
+      "description": "Merge PDF files online for free. Combine multiple PDFs into one document, reorder pages with drag and drop. No upload, no signup, 100% browser-based.",
       "category": [
         "productivity",
         "web"
@@ -824,8 +1000,8 @@
     {
       "id": "findutils-pdf-rotate",
       "name": "PDF Rotate",
-      "subtitle": "Rotate PDF pages by 90, 180, or 270 degrees.",
-      "description": "Rotate PDF pages by 90, 180, or 270 degrees. Rotate all pages or select specific ones. 100% free, no upload required.",
+      "subtitle": "Rotate PDF pages by 90, 180, or 270 degrees online for free.",
+      "description": "Rotate PDF pages by 90, 180, or 270 degrees online for free. Rotate all or selected pages. Browser-based processing - no upload to any server.",
       "category": [
         "productivity",
         "web"
@@ -878,8 +1054,8 @@
     {
       "id": "findutils-pdf-organize",
       "name": "PDF Organize",
-      "subtitle": "Drag and drop to reorder PDF pages.",
-      "description": "Drag and drop to reorder PDF pages. Rotate or remove pages as needed. 100% free, no upload required.",
+      "subtitle": "Drag and drop to reorder PDF pages online.",
+      "description": "Drag and drop to reorder PDF pages online. Rotate, remove, or rearrange pages with visual thumbnails. 100% free, no upload to any server.",
       "category": [
         "productivity",
         "web"
@@ -896,8 +1072,8 @@
     {
       "id": "findutils-image-compressor",
       "name": "Image Compressor",
-      "subtitle": "Reduce image file size without losing quality.",
-      "description": "Reduce image file size without losing quality. Compress multiple images at once, all processed locally in your browser.",
+      "subtitle": "Compress images online for free without losing quality.",
+      "description": "Compress images online for free without losing quality. Reduce JPEG, PNG, and WebP file sizes instantly in your browser. No upload, no signup, unlimited use.",
       "category": [
         "utilities",
         "web"
@@ -933,7 +1109,7 @@
       "id": "findutils-unix-timestamp",
       "name": "Unix Timestamp Converter",
       "subtitle": "Convert Unix timestamps to human-readable dates and vice versa.",
-      "description": "Convert Unix timestamps to human-readable dates and vice versa. Essential for developers working with APIs and databases.",
+      "description": "Convert Unix timestamps to human-readable dates and vice versa. Supports seconds and milliseconds. Free online epoch converter for developers.",
       "category": [
         "developer-tools",
         "utilities",
@@ -945,14 +1121,14 @@
       "homepage": "https://findutils.com/en/tools/unix-timestamp/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "A Unix timestamp is the number of seconds that have elapsed since January 1, 1970 (UTC), known as the Unix Epoch. It's a universal way to represent time in computing systems. Simply paste your Unix timestamp into the converter field. The tool will instantly display the corresponding date and time in your local timezone and UTC. Standard Unix timestamps are in seconds (10 digits). JavaScript and some APIs use milliseconds (13 digits). Our tool automatically detects and handles both formats.",
+      "longDescription": "A Unix timestamp is the number of seconds that have elapsed since January 1, 1970, at 00:00:00 UTC. This reference point is called the Unix Epoch. The format is used universally in software, databases, and APIs because it is timezone-independent and easy to compare mathematically. Paste the timestamp into the converter input field. The tool instantly displays the corresponding date and time in UTC, your local timezone, and ISO 8601 format. It works with both 10-digit second values and 13-digi...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/unix-timestamp.svg"
     },
     {
       "id": "findutils-ip-address-lookup",
       "name": "IP Address Lookup",
-      "subtitle": "Find geolocation, ISP, and other details for any IP address.",
-      "description": "Find geolocation, ISP, and other details for any IP address. Check your own IP or look up any IPv4 or IPv6 address.",
+      "subtitle": "Look up any IP address to find its geolocation, ISP, timezone, and network de...",
+      "description": "Look up any IP address to find its geolocation, ISP, timezone, and network details. Check your own public IP or search any IPv4/IPv6 address instantly.",
       "category": [
         "developer-tools",
         "utilities",
@@ -964,7 +1140,7 @@
       "homepage": "https://findutils.com/en/tools/ip-address-lookup/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Our tool provides geographic location (country, city, region), ISP information, timezone, and whether the IP is associated with a VPN, proxy, or hosting provider. IP geolocation is typically accurate at the country level (99%) and city level (80-90%). Accuracy varies based on ISP data and whether the user is using VPN or proxy services. Yes! By default, the tool shows your current public IP address and its associated information. This is the IP that websites and servers see when you connect.",
+      "longDescription": "Our tool provides geographic location (country, city, region), ISP information, timezone, and whether the IP is associated with a VPN, proxy, or hosting provider. IP geolocation is typically accurate at the country level (99%) and city level (80-90%). Accuracy varies based on ISP data and whether the user is using VPN or proxy services. Yes! Click the \"What's my IP?\" button to instantly detect and display your current public IP address along with its geolocation and ISP details. This is the I...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/ip-address-lookup.svg"
     },
     {
@@ -982,7 +1158,7 @@
       "homepage": "https://findutils.com/en/tools/case-converter/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "We support UPPERCASE, lowercase, Title Case, Sentence case, camelCase, PascalCase, snake_case, kebab-case, and CONSTANT_CASE. Perfect for developers and writers. camelCase starts with lowercase and capitalizes subsequent words (myVariableName). PascalCase capitalizes all words including the first (MyClassName). Both are commonly used in programming. Simply paste your text and click the snake_case button. The tool converts spaces and mixed case text to lowercase words separated by underscores ...",
+      "longDescription": "We support UPPERCASE, lowercase, Title Case, Sentence case, camelCase, PascalCase, snake_case, kebab-case, CONSTANT_CASE, and dot.case. That covers the most common programming naming conventions and writing styles. camelCase starts with lowercase and capitalizes subsequent words (myVariableName). PascalCase capitalizes all words including the first (MyClassName). Both are commonly used in programming. Simply paste your text and click the snake_case button. The tool converts spaces and mixed c...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/case-converter.svg"
     },
     {
@@ -1000,14 +1176,14 @@
       "homepage": "https://findutils.com/en/tools/loan-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Monthly payment is calculated using the standard amortization formula, which factors in principal amount, annual interest rate, and loan term. This ensures equal payments throughout the loan duration. Total interest is the sum of all interest payments over the loan term. It represents the total cost of borrowing, calculated as total payments minus the original principal amount. Longer loan terms result in lower monthly payments but higher total interest paid. Shorter terms mean higher monthly...",
+      "longDescription": "The calculator uses the standard amortization formula: M = P[r(1+r)^n] / [(1+r)^n - 1], where P is the principal, r is the monthly interest rate, and n is the total number of payments. This produces fixed equal payments for the entire loan term. Total interest is the sum of every interest charge across all payments. It equals your total amount paid minus the original principal. This number represents the true cost of borrowing beyond the amount you received. Longer terms lower your monthly pa...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/loan-calculator.svg"
     },
     {
       "id": "findutils-uuid-generator",
       "name": "UUID Generator",
-      "subtitle": "Generate universally unique identifiers (UUIDs) instantly.",
-      "description": "Generate universally unique identifiers (UUIDs) instantly. Create v1, v4, or nil UUIDs for databases, APIs, and applications.",
+      "subtitle": "Generate UUIDs instantly in your browser.",
+      "description": "Generate UUIDs instantly in your browser. Create v1, v4, or nil UUIDs in bulk for databases, APIs, and distributed systems. Free, no signup required.",
       "category": [
         "utilities",
         "web"
@@ -1018,14 +1194,14 @@
       "homepage": "https://findutils.com/en/tools/uuid-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "UUID (Universally Unique Identifier) is a 128-bit identifier that's practically guaranteed to be unique. It's commonly used in databases, distributed systems, and software development to identify objects. UUID v1 uses timestamp and MAC address, v4 is random (most common), v5 uses namespace and SHA-1 hashing. Each version has different use cases and uniqueness guarantees. UUIDv4 has 122 random bits, making collisions astronomically unlikely (1 in 5.3\u00d710^36). For practical purposes, you can gen...",
+      "longDescription": "UUID (Universally Unique Identifier) is a 128-bit identifier that's practically guaranteed to be unique. It's commonly used in databases, distributed systems, and software development to identify objects. UUID v1 uses timestamp and MAC address, v4 is random (most common), v5 uses namespace and SHA-1 hashing. Each version has different use cases and uniqueness guarantees. UUIDv4 has 122 random bits, making collisions astronomically unlikely (1 in 5.3x10^36). For practical purposes, you can gen...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/uuid-generator.svg"
     },
     {
       "id": "findutils-base64-encoder",
       "name": "Base64 Encoder & Decoder",
-      "subtitle": "Encode text to Base64 or decode Base64 to text instantly.",
-      "description": "Encode text to Base64 or decode Base64 to text instantly. Supports UTF-8 characters and URL-safe encoding.",
+      "subtitle": "Encode and decode Base64 online for free.",
+      "description": "Encode and decode Base64 online for free. Supports UTF-8, URL-safe mode, and file uploads. Instant results - no data sent to any server.",
       "category": [
         "developer-tools",
         "utilities",
@@ -1037,14 +1213,14 @@
       "homepage": "https://findutils.com/en/tools/base64-encoder/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Base64 is a binary-to-text encoding scheme that converts binary data into ASCII characters. It's commonly used to embed images in HTML/CSS, send data in URLs, or store binary data in text-only systems. Base64 is useful when you need to safely transmit binary data through text-based protocols like email or JSON, embed images directly in HTML, or store binary data in databases that only support text. Yes, Base64 encoding increases data size by approximately 33%. This is because it converts 3 by...",
+      "longDescription": "Base64 is a binary-to-text encoding scheme that converts binary data into ASCII characters. It uses a 64-character alphabet (A-Z, a-z, 0-9, +, /) plus = for padding. It is defined in RFC 4648 and is one of the most widely used encoding formats on the web. Base64 is useful when you need to safely transmit binary data through text-based protocols like email or JSON, embed images directly in HTML, or store binary data in databases that only support text. Yes, Base64 encoding increases data size ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/base64-encoder.svg"
     },
     {
       "id": "findutils-md5-hash-generator",
       "name": "MD5 & SHA Hash Generator",
-      "subtitle": "Generate MD5, SHA-1, SHA-256, and SHA-512 hashes instantly.",
-      "description": "Generate MD5, SHA-1, SHA-256, and SHA-512 hashes instantly. Hash any text for checksums, verification, and more.",
+      "subtitle": "Generate MD5, SHA-1, SHA-256, and SHA-512 hashes instantly in your browser.",
+      "description": "Generate MD5, SHA-1, SHA-256, and SHA-512 hashes instantly in your browser. Free online hash generator for checksums, verification, and data integrity.",
       "category": [
         "utilities",
         "developer-tools",
@@ -1062,8 +1238,8 @@
     {
       "id": "findutils-css-minifier",
       "name": "CSS Minifier & Beautifier",
-      "subtitle": "Minify CSS for production or beautify compressed CSS for readability.",
-      "description": "Minify CSS for production or beautify compressed CSS for readability. Reduce file size and improve load times.",
+      "subtitle": "Minify CSS for production or beautify compressed code for readability.",
+      "description": "Minify CSS for production or beautify compressed code for readability. Reduce file size by 20-50% and improve page load times. Free online.",
       "category": [
         "developer-tools",
         "utilities",
@@ -1081,8 +1257,8 @@
     {
       "id": "findutils-sql-formatter",
       "name": "SQL Formatter & Beautifier",
-      "subtitle": "Format and beautify SQL queries for better readability.",
-      "description": "Format and beautify SQL queries for better readability. Supports MySQL, PostgreSQL, SQLite, and standard SQL.",
+      "subtitle": "Format and beautify SQL queries online for free.",
+      "description": "Format and beautify SQL queries online for free. Supports MySQL, PostgreSQL, SQLite, and T-SQL. Minify or indent with one click - no signup.",
       "category": [
         "developer-tools",
         "utilities",
@@ -1100,8 +1276,8 @@
     {
       "id": "findutils-gradient-generator",
       "name": "CSS Gradient Generator",
-      "subtitle": "Create beautiful CSS gradients visually.",
-      "description": "Create beautiful CSS gradients visually. Generate linear, radial, and conic gradients with multiple color stops.",
+      "subtitle": "Create CSS gradients visually - generate linear, radial, and conic gradients ...",
+      "description": "Create CSS gradients visually - generate linear, radial, and conic gradients with multiple color stops. Copy production-ready code instantly.",
       "category": [
         "graphics-design",
         "web"
@@ -1118,8 +1294,8 @@
     {
       "id": "findutils-contrast-checker",
       "name": "Color Contrast Checker",
-      "subtitle": "Check color contrast ratios for WCAG accessibility compliance.",
-      "description": "Check color contrast ratios for WCAG accessibility compliance. Ensure your text is readable for all users.",
+      "subtitle": "Check color contrast ratios for WCAG AA and AAA compliance.",
+      "description": "Check color contrast ratios for WCAG AA and AAA compliance. Test foreground and background colors to ensure accessible, readable text.",
       "category": [
         "graphics-design",
         "web"
@@ -1136,8 +1312,8 @@
     {
       "id": "findutils-box-shadow-generator",
       "name": "CSS Box Shadow Generator",
-      "subtitle": "Create beautiful CSS box shadows visually.",
-      "description": "Create beautiful CSS box shadows visually. Adjust offset, blur, spread, and color with live preview.",
+      "subtitle": "Generate CSS box shadows visually with live preview.",
+      "description": "Generate CSS box shadows visually with live preview. Adjust offset, blur, spread, color, and layers. Copy production-ready CSS instantly.",
       "category": [
         "graphics-design",
         "web"
@@ -1172,8 +1348,8 @@
     {
       "id": "findutils-glassmorphism-generator",
       "name": "Glassmorphism CSS Generator",
-      "subtitle": "Create trendy glass-effect UI components with customizable blur, transparency...",
-      "description": "Create trendy glass-effect UI components with customizable blur, transparency, and border effects.",
+      "subtitle": "Create stunning glass-effect UI components with customizable blur, transparen...",
+      "description": "Create stunning glass-effect UI components with customizable blur, transparency, and borders. Free online glassmorphism CSS generator with live preview.",
       "category": [
         "graphics-design",
         "web"
@@ -1184,14 +1360,14 @@
       "homepage": "https://findutils.com/en/tools/glassmorphism-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Glassmorphism is a modern UI design trend that creates a frosted glass effect using transparency, blur, and subtle borders. It's popular in Apple's iOS, Windows 11, and many modern web applications. The glass effect combines: semi-transparent background (rgba), backdrop-filter: blur(), subtle border, and often a light shadow. Our tool generates all required CSS with browser prefixes. Backdrop-filter is supported in Chrome, Safari, Edge, and Firefox (90+). For older browsers, consider a fallba...",
+      "longDescription": "Glassmorphism is a modern UI design trend that creates a frosted glass effect using transparency, blur, and subtle borders. It's popular in Apple's iOS, Windows 11, and many modern web applications. The glass effect combines: semi-transparent background (rgba), backdrop-filter: blur(), subtle border, and often a light shadow. Our tool generates all required CSS with browser prefixes. Backdrop-filter is supported in Chrome 76+, Safari 9+, Edge 79+, and Firefox 103+. For older browsers, add a f...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/glassmorphism-generator.svg"
     },
     {
       "id": "findutils-word-counter",
       "name": "Word Counter",
-      "subtitle": "Count words, characters, sentences, and paragraphs.",
-      "description": "Count words, characters, sentences, and paragraphs. Get reading time estimates.",
+      "subtitle": "Free online word counter tool.",
+      "description": "Free online word counter tool. Count words, characters, sentences, and paragraphs instantly. Get reading time estimates and readability scores.",
       "category": [
         "utilities",
         "web"
@@ -1208,8 +1384,8 @@
     {
       "id": "findutils-gpa-calculator",
       "name": "GPA Calculator",
-      "subtitle": "Calculate your cumulative GPA easily.",
-      "description": "Calculate your cumulative GPA easily.",
+      "subtitle": "Calculate your cumulative and semester GPA online for free.",
+      "description": "Calculate your cumulative and semester GPA online for free. Enter course grades and credits to instantly see your grade point average.",
       "category": [
         "utilities",
         "education",
@@ -1221,14 +1397,14 @@
       "homepage": "https://findutils.com/en/tools/gpa-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "GPA is calculated by multiplying each course grade by its credit hours, summing these values, then dividing by total credit hours. This gives a weighted average that accounts for course difficulty. For example, if you have a 3-credit course with an A (4.0) and a 4-credit course with a B (3.0), your GPA would be ((3\u00d74.0) + (4\u00d73.0)) / 7 = 3.43. The more credits a course carries, the more it influences your overall GPA. Unweighted GPA uses a standard 4.0 scale for all classes, regardless of diff...",
+      "longDescription": "GPA is calculated by multiplying each course grade by its credit hours, summing these values, then dividing by total credit hours. This gives a weighted average that accounts for course difficulty. For example, if you have a 3-credit course with an A (4.0) and a 4-credit course with a B (3.0), your GPA would be ((3x4.0) + (4x3.0)) / 7 = 3.43. The more credits a course carries, the more it influences your overall GPA. Unweighted GPA uses a standard 4.0 scale for all classes, regardless of diff...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/gpa-calculator.svg"
     },
     {
       "id": "findutils-percentage-calculator",
       "name": "Percentage Calculator",
-      "subtitle": "Calculate percentages, change, increase, and decrease.",
-      "description": "Calculate percentages, change, increase, and decrease.",
+      "subtitle": "Calculate percentages, percentage change, increase, and decrease online for f...",
+      "description": "Calculate percentages, percentage change, increase, and decrease online for free. Solve any percent problem instantly with step-by-step results.",
       "category": [
         "utilities",
         "education",
@@ -1240,14 +1416,14 @@
       "homepage": "https://findutils.com/en/tools/percentage-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "To find X% of a number, multiply the number by X and divide by 100. For example, 20% of 150 is: 150 \u00d7 20 \u00f7 100 = 30. Our calculator does this automatically. Percentage increase = ((New Value - Original Value) \u00f7 Original Value) \u00d7 100. For example, if price went from $50 to $60: ((60-50) \u00f7 50) \u00d7 100 = 20% increase. Percentage decrease = ((Original Value - New Value) \u00f7 Original Value) \u00d7 100. For example, if price dropped from $100 to $75: ((100-75) \u00f7 100) \u00d7 100 = 25% decrease.",
+      "longDescription": "To find X% of a number, multiply the number by X and divide by 100. For example, 20% of 150 is: 150 \u00d7 20 / 100 = 30. Our calculator does this automatically. Percentage increase = ((New Value - Original Value) / Original Value) x 100. For example, if price went from $50 to $60: ((60-50) / 50) x 100 = 20% increase. Percentage decrease = ((Original Value - New Value) / Original Value) x 100. For example, if price dropped from $100 to $75: ((100-75) / 100) x 100 = 25% decrease.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/percentage-calculator.svg"
     },
     {
       "id": "findutils-pomodoro-timer",
       "name": "Pomodoro Timer",
-      "subtitle": "Boost productivity with focused work sessions.",
-      "description": "Boost productivity with focused work sessions.",
+      "subtitle": "Free online Pomodoro timer to boost focus and productivity.",
+      "description": "Free online Pomodoro timer to boost focus and productivity. Customizable work and break intervals, session tracking, and audio alerts. No signup required.",
       "category": [
         "productivity",
         "web"
@@ -1283,8 +1459,8 @@
     {
       "id": "findutils-grade-calculator",
       "name": "Grade Calculator",
-      "subtitle": "Calculate your weighted grades and see what you need to achieve your target g...",
-      "description": "Calculate your weighted grades and see what you need to achieve your target grade.",
+      "subtitle": "Calculate your weighted grades and final exam scores online for free.",
+      "description": "Calculate your weighted grades and final exam scores online for free. See exactly what you need to achieve your target grade in any course.",
       "category": [
         "utilities",
         "education",
@@ -1302,8 +1478,8 @@
     {
       "id": "findutils-unit-converter",
       "name": "Unit Converter",
-      "subtitle": "Convert between different units of measurement including length, weight, temp...",
-      "description": "Convert between different units of measurement including length, weight, temperature, volume, time, and more.",
+      "subtitle": "Free online unit converter - convert length, weight, temperature, volume, spe...",
+      "description": "Free online unit converter - convert length, weight, temperature, volume, speed, area, time, and data units. Metric and imperial supported.",
       "category": [
         "utilities",
         "web"
@@ -1321,7 +1497,7 @@
       "id": "findutils-random-picker",
       "name": "Random Picker",
       "subtitle": "Generate random numbers, pick items from a list, or create random teams for g...",
-      "description": "Generate random numbers, pick items from a list, or create random teams for group activities.",
+      "description": "Generate random numbers, pick items from a list, or create random teams for groups. Free online random selector with customizable options and fair results.",
       "category": [
         "utilities",
         "web"
@@ -1332,14 +1508,14 @@
       "homepage": "https://findutils.com/en/tools/random-picker/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "We use cryptographically secure random number generation for fair results. Yes, uncheck 'Allow duplicates' to get unique numbers only. Members are distributed evenly using round-robin assignment after shuffling.",
+      "longDescription": "Yes. The tool uses the Web Crypto API, which provides cryptographically secure random values. This is the same standard used for generating encryption keys, so results are genuinely unpredictable. Absolutely. Uncheck the Allow Duplicates toggle and the tool guarantees every generated number is unique within your specified range. Members are shuffled randomly and then distributed using round-robin assignment. This ensures teams differ in size by at most one person when the total does not divid...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/random-picker.svg"
     },
     {
       "id": "findutils-stopwatch",
       "name": "Stopwatch",
-      "subtitle": "Free online stopwatch with lap times, millisecond precision, and easy controls.",
-      "description": "Free online stopwatch with lap times, millisecond precision, and easy controls.",
+      "subtitle": "Free online stopwatch with lap times, split tracking, and millisecond precision.",
+      "description": "Free online stopwatch with lap times, split tracking, and millisecond precision. Start, stop, and reset with easy keyboard shortcuts. No install needed.",
       "category": [
         "productivity",
         "web"
@@ -1356,8 +1532,8 @@
     {
       "id": "findutils-citation-generator",
       "name": "Citation Generator",
-      "subtitle": "Generate accurate citations in APA, MLA, Chicago, and Harvard formats for boo...",
-      "description": "Generate accurate citations in APA, MLA, Chicago, and Harvard formats for books, websites, and journals.",
+      "subtitle": "Generate accurate citations in APA, MLA, Chicago, and Harvard formats.",
+      "description": "Generate accurate citations in APA, MLA, Chicago, and Harvard formats. Cite books, websites, and journals for free - no signup needed.",
       "category": [
         "utilities",
         "web"
@@ -1486,8 +1662,8 @@
     {
       "id": "findutils-scientific-calculator",
       "name": "Scientific Calculator",
-      "subtitle": "Advanced calculator with trigonometry, logarithms, and scientific functions.",
-      "description": "Advanced calculator with trigonometry, logarithms, and scientific functions.",
+      "subtitle": "Free online scientific calculator with trigonometry, logarithms, exponents, a...",
+      "description": "Free online scientific calculator with trigonometry, logarithms, exponents, and advanced math functions. Solve complex equations instantly in your browser.",
       "category": [
         "utilities",
         "education",
@@ -1499,14 +1675,14 @@
       "homepage": "https://findutils.com/en/tools/scientific-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Our calculator includes trigonometric functions (sin, cos, tan), logarithms (log, ln), square root, power functions, factorial, percentage, and memory operations (MC, MR, M+, M-, MS). RAD (radians) and DEG (degrees) modes affect how trigonometric functions interpret angles. Use DEG for degree-based calculations (0-360\u00b0) and RAD for radian-based calculations (0-2\u03c0). MC clears memory, MR recalls stored value, M+ adds current display to memory, M- subtracts from memory, and MS stores the current...",
+      "longDescription": "Our calculator includes trigonometric functions (sin, cos, tan), logarithms (log, ln), square root, power functions, factorial, percentage, and memory operations (MC, MR, M+, M-, MS). RAD (radians) and DEG (degrees) modes affect how trigonometric functions interpret angles. Use DEG for degree-based calculations (0-360) and RAD for radian-based calculations (0-2pi). MC clears memory, MR recalls stored value, M+ adds current display to memory, M- subtracts from memory, and MS stores the current...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/scientific-calculator.svg"
     },
     {
       "id": "findutils-flashcard-maker",
       "name": "Flashcard Maker",
-      "subtitle": "Create digital flashcards for studying and memorization.",
-      "description": "Create digital flashcards for studying and memorization.",
+      "subtitle": "Create free digital flashcards for studying, memorization, and exam prep.",
+      "description": "Create free digital flashcards for studying, memorization, and exam prep. Build custom decks, flip cards, and track your learning progress online.",
       "category": [
         "productivity",
         "web"
@@ -1523,8 +1699,8 @@
     {
       "id": "findutils-worksheet-generator",
       "name": "Worksheet Generator",
-      "subtitle": "Generate printable math and educational worksheets.",
-      "description": "Generate printable math and educational worksheets.",
+      "subtitle": "Generate free printable math and educational worksheets for students and teac...",
+      "description": "Generate free printable math and educational worksheets for students and teachers. Customize difficulty, operations, and download as PDF instantly.",
       "category": [
         "productivity",
         "web"
@@ -1541,8 +1717,8 @@
     {
       "id": "findutils-seating-chart-maker",
       "name": "Seating Chart Maker",
-      "subtitle": "Create classroom or event seating arrangements visually.",
-      "description": "Create classroom or event seating arrangements visually.",
+      "subtitle": "Create classroom and event seating charts for free.",
+      "description": "Create classroom and event seating charts for free. Add names, drag-and-drop or shuffle seats randomly, then print or export. No signup required.",
       "category": [
         "productivity",
         "web"
@@ -1559,8 +1735,8 @@
     {
       "id": "findutils-quiz-maker",
       "name": "Quiz Maker",
-      "subtitle": "Create interactive quizzes with multiple question types.",
-      "description": "Create interactive quizzes with multiple question types.",
+      "subtitle": "Create free interactive quizzes with multiple choice, true/false, and open-en...",
+      "description": "Create free interactive quizzes with multiple choice, true/false, and open-ended questions. Build, share, and take quizzes online instantly.",
       "category": [
         "productivity",
         "web"
@@ -1577,8 +1753,8 @@
     {
       "id": "findutils-invoice-generator",
       "name": "Invoice Generator",
-      "subtitle": "Description.",
-      "description": "Description",
+      "subtitle": "Create professional invoices online for free.",
+      "description": "Create professional invoices online for free. Add your logo, line items, taxes, and discounts, then download as PDF. No signup required.",
       "category": [
         "finance",
         "web"
@@ -1589,7 +1765,7 @@
       "homepage": "https://findutils.com/en/tools/invoice-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Yes! Click 'Download PDF' to customize colors and branding, then save your invoice as a professional PDF. No, all data stays in your browser. Nothing is sent to our servers. Currently the generator uses text-based headers. For logos, save as PDF and edit in a PDF editor.",
+      "longDescription": "Yes! Click 'Download PDF' to customize colors and branding, then save your invoice as a professional PDF. No, all data stays in your browser. Nothing is sent to our servers. Your business and client information is never uploaded or stored externally. Currently the generator uses text-based headers. For logos, save as PDF and edit in a PDF editor.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/invoice-generator.svg"
     },
     {
@@ -1607,14 +1783,14 @@
       "homepage": "https://findutils.com/en/tools/vat-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "VAT (Value Added Tax) is a consumption tax added to products and services. Rates vary by country, typically ranging from 5% to 25%. Both start with a gross amount. 'Remove VAT' calculates the net price, while 'Extract VAT' shows the VAT portion. Results are mathematically the same. Use your country's standard rate. Common rates: UK 20%, EU 19-25%, Turkey 18%, etc. Some goods have reduced rates.",
+      "longDescription": "VAT (Value Added Tax) is a consumption tax added to products and services at each stage of the supply chain. The end consumer bears the full tax, while businesses along the chain reclaim input VAT. Rates vary by country, typically ranging from 5% to 27%. Both start with a gross amount. Removing VAT returns the net price, while extracting VAT returns just the tax portion. The underlying division is the same; the calculator simply highlights a different part of the result depending on which mod...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/vat-calculator.svg"
     },
     {
       "id": "findutils-date-difference-calculator",
       "name": "Date Difference Calculator",
-      "subtitle": "Calculate the difference between two dates in days, weeks, months.",
-      "description": "Calculate the difference between two dates in days, weeks, months.",
+      "subtitle": "Calculate the exact difference between two dates in days, weeks, months, and ...",
+      "description": "Calculate the exact difference between two dates in days, weeks, months, and years. Free online date duration calculator with business day support.",
       "category": [
         "utilities",
         "education",
@@ -1632,8 +1808,8 @@
     {
       "id": "findutils-signature-generator",
       "name": "Signature Generator",
-      "subtitle": "Create beautiful digital signatures by typing or drawing.",
-      "description": "Create beautiful digital signatures by typing or drawing.",
+      "subtitle": "Create free digital signatures online by typing, drawing, or uploading.",
+      "description": "Create free digital signatures online by typing, drawing, or uploading. Customize fonts and colors, then download your signature as a PNG image.",
       "category": [
         "utilities",
         "web"
@@ -1644,7 +1820,7 @@
       "homepage": "https://findutils.com/en/tools/signature-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Digital signatures created here can be used for informal documents. For legally binding documents, check your local laws regarding electronic signatures. Signatures are downloaded as PNG images with a transparent or white background, suitable for most document formats. Yes! The drawing canvas supports touch input, making it easy to draw signatures on tablets and smartphones.",
+      "longDescription": "Digital signatures created here can be used for informal documents. For legally binding documents, check your local laws regarding electronic signatures. In many jurisdictions, a typed or drawn signature image is acceptable for basic agreements, but high-stakes contracts may require a certified e-signature service with audit trails. Signatures are downloaded as PNG images with a transparent background by default, making them easy to overlay on any document. PNG is supported by virtually all w...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/signature-generator.svg"
     },
     {
@@ -1668,8 +1844,8 @@
     {
       "id": "findutils-meta-tag-generator",
       "name": "Page Title",
-      "subtitle": "Meta Description.",
-      "description": "Meta Description",
+      "subtitle": "Generate SEO-optimized meta tags, Open Graph, and Twitter Card tags instantly.",
+      "description": "Generate SEO-optimized meta tags, Open Graph, and Twitter Card tags instantly. Free online meta tag generator with live search preview. No signup required.",
       "category": [
         "developer-tools",
         "utilities",
@@ -1736,7 +1912,7 @@
       "homepage": "https://findutils.com/en/tools/macro-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "It's a formula used to calculate your Basal Metabolic Rate (BMR), which represents the calories your body burns at rest. It's considered one of the most accurate methods for estimating daily calorie needs. These provide a good starting point, but individual metabolism varies. Track your progress for 2-3 weeks and adjust if needed. Weight changes of 0.5-1 lb per week indicate appropriate calorie levels. For most people, consistent daily macros work well. However, some prefer carb cycling (more...",
+      "longDescription": "The Mifflin-St Jeor equation is a formula that estimates your Basal Metabolic Rate (BMR), the number of calories your body burns at rest to maintain basic functions like breathing, circulation, and cell repair. Published in 1990, it is considered the most accurate predictive equation for BMR by the Academy of Nutrition and Dietetics. The calculator applies an activity multiplier to your BMR to determine your Total Daily Energy Expenditure. The Mifflin-St Jeor equation is accurate to within 10...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/macro-calculator.svg"
     },
     {
@@ -1760,8 +1936,8 @@
     {
       "id": "findutils-jwt-decoder",
       "name": "JWT Decoder",
-      "subtitle": "Decode and inspect JSON Web Tokens to view header, payload, and claims.",
-      "description": "Decode and inspect JSON Web Tokens to view header, payload, and claims.",
+      "subtitle": "Decode and inspect JSON Web Tokens online for free.",
+      "description": "Decode and inspect JSON Web Tokens online for free. View JWT header, payload, claims, and expiration details instantly. No data sent to servers.",
       "category": [
         "developer-tools",
         "utilities",
@@ -1773,14 +1949,14 @@
       "homepage": "https://findutils.com/en/tools/jwt-decoder/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "A JSON Web Token (JWT) is a compact, URL-safe token format used for securely transmitting information between parties. It consists of three parts: header, payload, and signature. Yes! All decoding happens entirely in your browser. Your token is never sent to any server or stored anywhere. This tool decodes tokens but does not verify signatures, as that requires the secret key which should remain private.",
+      "longDescription": "A JSON Web Token (JWT) is a compact, URL-safe token format used for securely transmitting information between parties. It consists of three parts: header, payload, and signature, each separated by a dot and encoded in Base64URL format. Yes. All decoding happens entirely in your browser using JavaScript. Your token is never sent to any server, stored in a database, or logged in any way. You can verify this by disconnecting from the internet and using the tool offline. This tool decodes tokens ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/jwt-decoder.svg"
     },
     {
       "id": "findutils-cron-expression-generator",
       "name": "Cron Expression Generator",
-      "subtitle": "Build and validate cron expressions for scheduling tasks.",
-      "description": "Build and validate cron expressions for scheduling tasks.",
+      "subtitle": "Build, validate, and test cron expressions for scheduling tasks.",
+      "description": "Build, validate, and test cron expressions for scheduling tasks. Free online cron generator with human-readable descriptions and next run previews.",
       "category": [
         "developer-tools",
         "utilities",
@@ -1798,8 +1974,8 @@
     {
       "id": "findutils-regex-tester",
       "name": "Regex Tester",
-      "subtitle": "Test and debug regular expressions with real-time matching.",
-      "description": "Test and debug regular expressions with real-time matching.",
+      "subtitle": "Test and debug regular expressions in real-time with instant match highlighti...",
+      "description": "Test and debug regular expressions in real-time with instant match highlighting, capture groups, and flag support. Free, private, no signup required.",
       "category": [
         "developer-tools",
         "utilities",
@@ -1817,8 +1993,8 @@
     {
       "id": "findutils-markdown-previewer",
       "name": "Markdown Previewer",
-      "subtitle": "Write and preview Markdown with live rendering.",
-      "description": "Write and preview Markdown with live rendering.",
+      "subtitle": "Write and preview Markdown with real-time live rendering.",
+      "description": "Write and preview Markdown with real-time live rendering. Free online Markdown editor with syntax highlighting, GitHub-flavored support, and export.",
       "category": [
         "developer-tools",
         "utilities",
@@ -1836,8 +2012,8 @@
     {
       "id": "findutils-internet-speed-test",
       "name": "Internet Speed Test",
-      "subtitle": "Test your internet download and upload speeds.",
-      "description": "Test your internet download and upload speeds.",
+      "subtitle": "Test your internet download and upload speeds instantly in your browser.",
+      "description": "Test your internet download and upload speeds instantly in your browser. Free online speed test with ping, jitter, and bandwidth results.",
       "category": [
         "developer-tools",
         "utilities",
@@ -1849,14 +2025,14 @@
       "homepage": "https://findutils.com/en/tools/internet-speed-test/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "For general use, 25+ Mbps is good. For 4K streaming, 50+ Mbps is recommended. For gaming, low ping (under 50ms) is more important than raw speed. Many factors affect speed: WiFi vs ethernet, distance from router, network congestion, VPN usage, and your ISP's actual capacity. Ping measures the response time between your device and a server in milliseconds. Lower ping means faster response, crucial for gaming and video calls.",
+      "longDescription": "For general use, 25+ Mbps is good. For 4K streaming, 50+ Mbps is recommended. For gaming, low ping (under 50ms) is more important than raw speed. Many factors affect speed: WiFi vs ethernet, distance from router, network congestion, VPN usage, and your ISP's actual capacity. Testing at different times of day can help identify peak congestion periods when speeds drop below your plan's advertised rates. Ping measures the response time between your device and a server in milliseconds. Lower ping...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/internet-speed-test.svg"
     },
     {
       "id": "findutils-image-caption-maker",
       "name": "Image Caption Maker",
-      "subtitle": "Add captions and text overlays to your images.",
-      "description": "Add captions and text overlays to your images. Create captioned images for social media and presentations.",
+      "subtitle": "Add captions and text overlays to images online for free.",
+      "description": "Add captions and text overlays to images online for free. Customize fonts, colors, and positions. Download high-quality PNGs - no watermarks.",
       "category": [
         "utilities",
         "web"
@@ -1873,8 +2049,8 @@
     {
       "id": "findutils-dns-lookup",
       "name": "DNS Lookup",
-      "subtitle": "Perform comprehensive DNS lookups to find A, AAAA, MX, CNAME, NS, TXT, and SO...",
-      "description": "Perform comprehensive DNS lookups to find A, AAAA, MX, CNAME, NS, TXT, and SOA records for any domain.",
+      "subtitle": "Free DNS lookup tool - find A, AAAA, MX, CNAME, NS, TXT, and SOA records for ...",
+      "description": "Free DNS lookup tool - find A, AAAA, MX, CNAME, NS, TXT, and SOA records for any domain. Fast, private, no signup required.",
       "category": [
         "developer-tools",
         "utilities",
@@ -1886,13 +2062,14 @@
       "homepage": "https://findutils.com/en/tools/dns-lookup/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
+      "longDescription": "A DNS lookup queries the Domain Name System to find the records associated with a domain name. These records map domain names to IP addresses (A/AAAA), mail servers (MX), name servers (NS), and other configuration data (TXT, CNAME, SOA). This tool supports A, AAAA, MX, CNAME, NS, TXT, and SOA record types. A records map to IPv4 addresses, AAAA to IPv6, MX to mail servers, CNAME to domain aliases, NS to authoritative name servers, TXT for verification and policy data, and SOA for zone authorit...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/dns-lookup.svg"
     },
     {
       "id": "findutils-typing-speed-test",
       "name": "Typing Speed Test",
-      "subtitle": "Test your typing speed (WPM) and accuracy with our simple online typing test.",
-      "description": "Test your typing speed (WPM) and accuracy with our simple online typing test.",
+      "subtitle": "Test your typing speed and accuracy with this free online WPM typing test.",
+      "description": "Test your typing speed and accuracy with this free online WPM typing test. Track words per minute, errors, and improve your keyboard skills.",
       "category": [
         "productivity",
         "web"
@@ -1922,7 +2099,7 @@
       "homepage": "https://findutils.com/en/tools/bmi-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "BMI (Body Mass Index) is a simple calculation using your height and weight. The formula is: BMI = weight (kg) / height (m)\u00b2. For imperial measurements, it's: BMI = (weight (lbs) x 703) / height (inches)\u00b2. BMI provides a numerical value that categorizes you into underweight (<18.5), normal weight (18.5-24.9), overweight (25-29.9), or obese (30+). Each formula was developed at different times with different populations. Devine (1974) is most commonly used in medicine. Robinson (1983) gives more...",
+      "longDescription": "BMI (Body Mass Index) is a simple calculation using your height and weight. The formula is: BMI = weight (kg) / height (m)squared. For imperial measurements, it's: BMI = (weight (lbs) x 703) / height (inches)squared. BMI provides a numerical value that categorizes you into underweight (<18.5), normal weight (18.5-24.9), overweight (25-29.9), or obese (30+). Each formula was developed at different times with different populations. Devine (1974) is most commonly used in medicine. Robinson (1983...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/bmi-calculator.svg"
     },
     {
@@ -1982,8 +2159,8 @@
     {
       "id": "findutils-lorem-ipsum-generator",
       "name": "Lorem Ipsum Generator",
-      "subtitle": "Generate placeholder text for your designs and mockups.",
-      "description": "Generate placeholder text for your designs and mockups. Create paragraphs, sentences, or words of Lorem Ipsum instantly.",
+      "subtitle": "Generate lorem ipsum placeholder text instantly.",
+      "description": "Generate lorem ipsum placeholder text instantly. Create paragraphs, sentences, or words of dummy text for web mockups, design prototypes, and print layouts.",
       "category": [
         "utilities",
         "web"
@@ -2019,8 +2196,8 @@
     {
       "id": "findutils-sha256-hash-generator",
       "name": "SHA256 Hash Generator",
-      "subtitle": "Generate SHA-256, SHA-384, SHA-512, and SHA-1 hashes instantly.",
-      "description": "Generate SHA-256, SHA-384, SHA-512, and SHA-1 hashes instantly. Secure hash calculator for text with copy functionality.",
+      "subtitle": "Generate SHA-256, SHA-384, SHA-512, and SHA-1 hashes instantly in your browser.",
+      "description": "Generate SHA-256, SHA-384, SHA-512, and SHA-1 hashes instantly in your browser. Free, private SHA hash calculator with no signup required.",
       "category": [
         "utilities",
         "developer-tools",
@@ -2032,14 +2209,14 @@
       "homepage": "https://findutils.com/en/tools/sha256-hash-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function that produces a 256-bit (32-byte) hash value. It's part of the SHA-2 family designed by the NSA and is widely used in security applications. Yes, SHA-256 is considered cryptographically secure and is used in Bitcoin, SSL certificates, and many security protocols. It's resistant to collision attacks and pre-image attacks. SHA-512 produces a longer 512-bit hash, offering higher security but slightly slower performance. SHA...",
+      "longDescription": "SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function that produces a 256-bit (32-byte) hash value. It's part of the SHA-2 family designed by the NSA and is widely used in security applications. Yes, SHA-256 is considered cryptographically secure and is used in Bitcoin, SSL certificates, and many security protocols. It's resistant to collision attacks and pre-image attacks. SHA-512 produces a longer 512-bit hash, offering higher security but slightly slower performance on 3...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/sha256-hash-generator.svg"
     },
     {
       "id": "findutils-password-strength-checker",
       "name": "Password Strength Checker",
-      "subtitle": "Check how strong your password is.",
-      "description": "Check how strong your password is. Get detailed analysis, crack time estimates, and suggestions for improvement.",
+      "subtitle": "Check password strength for free.",
+      "description": "Check password strength for free. Get crack time estimates, entropy analysis, and improvement tips. 100% client-side - nothing leaves your device.",
       "category": [
         "utilities",
         "developer-tools",
@@ -2057,8 +2234,8 @@
     {
       "id": "findutils-text-encryption",
       "name": "Text Encryption Tool",
-      "subtitle": "Encrypt and decrypt text using AES-256-GCM encryption.",
-      "description": "Encrypt and decrypt text using AES-256-GCM encryption. Secure your sensitive data with military-grade encryption.",
+      "subtitle": "Encrypt and decrypt text with AES-256-GCM online for free.",
+      "description": "Encrypt and decrypt text with AES-256-GCM online for free. Military-grade encryption runs entirely in your browser - no data uploaded.",
       "category": [
         "utilities",
         "developer-tools",
@@ -2076,8 +2253,8 @@
     {
       "id": "findutils-hmac-generator",
       "name": "HMAC Generator",
-      "subtitle": "Generate HMAC (Hash-based Message Authentication Code) signatures using SHA-1...",
-      "description": "Generate HMAC (Hash-based Message Authentication Code) signatures using SHA-1, SHA-256, SHA-384, or SHA-512 algorithms.",
+      "subtitle": "Generate HMAC signatures using SHA-256, SHA-512, or SHA-1 online.",
+      "description": "Generate HMAC signatures using SHA-256, SHA-512, or SHA-1 online. Verify webhooks and sign API requests. Free, client-side, no data uploaded.",
       "category": [
         "utilities",
         "developer-tools",
@@ -2095,8 +2272,8 @@
     {
       "id": "findutils-random-key-generator",
       "name": "Random Key Generator",
-      "subtitle": "Generate cryptographically secure random keys for API keys, secrets, tokens, ...",
-      "description": "Generate cryptographically secure random keys for API keys, secrets, tokens, and encryption keys.",
+      "subtitle": "Generate cryptographically secure random keys for API keys, secrets, and tokens.",
+      "description": "Generate cryptographically secure random keys for API keys, secrets, and tokens. Free online key generator with custom length, charset, and encoding.",
       "category": [
         "utilities",
         "developer-tools",
@@ -2114,8 +2291,8 @@
     {
       "id": "findutils-file-hash-calculator",
       "name": "File Hash Calculator",
-      "subtitle": "Calculate MD5, SHA-1, SHA-256, and SHA-512 checksums for any file.",
-      "description": "Calculate MD5, SHA-1, SHA-256, and SHA-512 checksums for any file. Verify file integrity and detect tampering.",
+      "subtitle": "Calculate MD5, SHA-1, SHA-256, and SHA-512 file checksums online.",
+      "description": "Calculate MD5, SHA-1, SHA-256, and SHA-512 file checksums online. Verify download integrity and detect tampering. Free, private, no upload.",
       "category": [
         "utilities",
         "developer-tools",
@@ -2151,8 +2328,8 @@
     {
       "id": "findutils-aspect-ratio-calculator",
       "name": "Aspect Ratio Calculator",
-      "subtitle": "Calculate and convert aspect ratios for images and videos.",
-      "description": "Calculate and convert aspect ratios for images and videos. Resize dimensions while maintaining proportions.",
+      "subtitle": "Free online aspect ratio calculator for images and videos.",
+      "description": "Free online aspect ratio calculator for images and videos. Resize dimensions while maintaining proportions for any screen or platform.",
       "category": [
         "utilities",
         "education",
@@ -2170,8 +2347,8 @@
     {
       "id": "findutils-number-base-converter",
       "name": "Number Base Converter",
-      "subtitle": "Convert numbers between binary, octal, decimal, and hexadecimal.",
-      "description": "Convert numbers between binary, octal, decimal, and hexadecimal. Instant conversion with visual feedback.",
+      "subtitle": "Convert numbers between binary, octal, decimal, and hexadecimal instantly.",
+      "description": "Convert numbers between binary, octal, decimal, and hexadecimal instantly. Free online base converter with step-by-step breakdown and real-time validation.",
       "category": [
         "utilities",
         "web"
@@ -2182,14 +2359,14 @@
       "homepage": "https://findutils.com/en/tools/number-base-converter/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Binary is a base-2 number system using only 0 and 1. It's the fundamental language of computers as it represents on/off states. Hexadecimal provides a compact way to represent binary data. Each hex digit represents exactly 4 binary digits, making conversion simple. Octal (base-8) was historically used in computing. Today it's mainly seen in Unix file permissions (like 755 or 644).",
+      "longDescription": "Binary is a base-2 number system using only 0 and 1. It's the fundamental language of computers as it represents on/off states in transistors and logic gates. Hexadecimal provides a compact way to represent binary data. Each hex digit maps to exactly 4 binary digits, so a single byte (8 bits) is always two hex characters. This makes reading memory addresses, color codes, and encoded data much easier than raw binary. Octal (base-8) is mainly used today in Unix and Linux file permissions. Permi...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/number-base-converter.svg"
     },
     {
       "id": "findutils-character-counter",
       "name": "Character Counter",
-      "subtitle": "Count characters, words, sentences, and paragraphs instantly.",
-      "description": "Count characters, words, sentences, and paragraphs instantly. Check reading time and social media limits.",
+      "subtitle": "Free online character counter - count characters, words, sentences, and parag...",
+      "description": "Free online character counter - count characters, words, sentences, and paragraphs in real time. Check social media limits and reading time.",
       "category": [
         "utilities",
         "web"
@@ -2206,8 +2383,8 @@
     {
       "id": "findutils-reading-time-estimator",
       "name": "Reading Time Estimator",
-      "subtitle": "Calculate how long it takes to read or speak any text.",
-      "description": "Calculate how long it takes to read or speak any text. Analyze word count, sentences, and reading difficulty.",
+      "subtitle": "Estimate reading and speaking time for any text online.",
+      "description": "Estimate reading and speaking time for any text online. Analyze word count, sentence structure, and difficulty level. Free, no signup required.",
       "category": [
         "utilities",
         "web"
@@ -2224,8 +2401,8 @@
     {
       "id": "findutils-email-validator",
       "name": "Email Validator",
-      "subtitle": "Validate email addresses instantly.",
-      "description": "Validate email addresses instantly. Check format, domain, and RFC compliance. Supports bulk validation.",
+      "subtitle": "Validate email addresses instantly for free.",
+      "description": "Validate email addresses instantly for free. Check format, domain, and RFC 5322 compliance. Supports single and bulk validation online.",
       "category": [
         "developer-tools",
         "utilities",
@@ -2243,8 +2420,8 @@
     {
       "id": "findutils-screen-resolution-detector",
       "name": "Screen Resolution Detector",
-      "subtitle": "Detect your screen resolution, viewport size, device pixel ratio, and other d...",
-      "description": "Detect your screen resolution, viewport size, device pixel ratio, and other display information in real-time.",
+      "subtitle": "Instantly detect your screen resolution, viewport size, device pixel ratio, c...",
+      "description": "Instantly detect your screen resolution, viewport size, device pixel ratio, color depth, and orientation. Free browser-based tool with no downloads required.",
       "category": [
         "developer-tools",
         "utilities",
@@ -2262,8 +2439,8 @@
     {
       "id": "findutils-html-to-markdown",
       "name": "HTML to Markdown Converter",
-      "subtitle": "Convert HTML code to clean Markdown syntax.",
-      "description": "Convert HTML code to clean Markdown syntax. Supports headings, lists, links, images, tables, and more.",
+      "subtitle": "Convert HTML to clean Markdown (GFM) syntax online for free.",
+      "description": "Convert HTML to clean Markdown (GFM) syntax online for free. Supports headings, lists, links, images, tables, and code blocks. No upload.",
       "category": [
         "utilities",
         "web"
@@ -2280,8 +2457,8 @@
     {
       "id": "findutils-csv-to-json",
       "name": "CSV to JSON Converter",
-      "subtitle": "Convert CSV data to JSON format with support for custom delimiters, headers, ...",
-      "description": "Convert CSV data to JSON format with support for custom delimiters, headers, and data validation.",
+      "subtitle": "Convert CSV data to JSON format online for free.",
+      "description": "Convert CSV data to JSON format online for free. Supports custom delimiters, header mapping, nested objects, and data validation. No upload required.",
       "category": [
         "utilities",
         "web"
@@ -2298,8 +2475,8 @@
     {
       "id": "findutils-json-to-csv",
       "name": "JSON to CSV Converter",
-      "subtitle": "Convert JSON data to CSV format instantly.",
-      "description": "Convert JSON data to CSV format instantly. Supports nested objects and arrays.",
+      "subtitle": "Convert JSON to CSV online for free.",
+      "description": "Convert JSON to CSV online for free. Paste a JSON array, get a downloadable CSV file instantly. Handles nested objects, special characters, and large datasets. No upload, runs in your browser.",
       "category": [
         "utilities",
         "web"
@@ -2310,14 +2487,14 @@
       "homepage": "https://findutils.com/en/tools/json-to-csv/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "The converter works best with a JSON Array of Objects (e.g., [{\"id\":1}, {\"id\":2}]). It can also handle single objects. Nested objects are currently stringified in the CSV cell to preserve structure. Flattener support may be added in the future. Yes! All conversion happens entirely in your browser. Your data is never sent to any server.",
+      "longDescription": "The converter works best with a JSON array of objects, for example [{\"id\":1,\"name\":\"Alice\"},{\"id\":2,\"name\":\"Bob\"}]. Each object in the array becomes a row in the CSV, and all unique keys across the objects become column headers. Single objects are also supported and produce a one-row CSV. Nested objects and arrays are serialized as JSON strings within their CSV cell. For example, an address object like {\"city\":\"London\",\"zip\":\"E1\"} appears as a single quoted string in the cell. If you need fla...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-to-csv.svg"
     },
     {
       "id": "findutils-image-to-base64",
       "name": "Image to Base64 Converter",
-      "subtitle": "Convert images to Base64 encoded strings.",
-      "description": "Convert images to Base64 encoded strings. Get data URIs ready for CSS, HTML, or any application.",
+      "subtitle": "Convert images to Base64 encoded strings online for free.",
+      "description": "Convert images to Base64 encoded strings online for free. Generate data URIs ready for CSS, HTML, and JavaScript. Supports PNG, JPG, SVG, and more.",
       "category": [
         "utilities",
         "web"
@@ -2334,8 +2511,8 @@
     {
       "id": "findutils-barcode-generator",
       "name": "Barcode Generator",
-      "subtitle": "Generate Code 128 and Code 39 barcodes for free.",
-      "description": "Generate Code 128 and Code 39 barcodes for free. Customize bar width, height, and download as PNG.",
+      "subtitle": "Generate free Code 128, Code 39, EAN, and UPC barcodes online.",
+      "description": "Generate free Code 128, Code 39, EAN, and UPC barcodes online. Customize bar width, height, and colors, then download as PNG or SVG instantly.",
       "category": [
         "utilities",
         "web"
@@ -2352,8 +2529,8 @@
     {
       "id": "findutils-placeholder-image-generator",
       "name": "Placeholder Image Generator",
-      "subtitle": "Generate custom placeholder images with custom dimensions, colors, and text.",
-      "description": "Generate custom placeholder images with custom dimensions, colors, and text. Download as PNG, JPG, or WebP.",
+      "subtitle": "Generate custom placeholder images with any dimensions, colors, and text.",
+      "description": "Generate custom placeholder images with any dimensions, colors, and text. Download as PNG, JPG, or WebP. Free, instant, no external requests.",
       "category": [
         "utilities",
         "web"
@@ -2370,8 +2547,8 @@
     {
       "id": "findutils-timezone-converter",
       "name": "Time Zone Converter",
-      "subtitle": "Convert time between different time zones.",
-      "description": "Convert time between different time zones. Compare multiple cities and schedule meetings across the globe.",
+      "subtitle": "Convert time between time zones instantly.",
+      "description": "Convert time between time zones instantly. Compare multiple cities and schedule meetings across the globe. Free online - no signup required.",
       "category": [
         "productivity",
         "web"
@@ -2388,8 +2565,8 @@
     {
       "id": "findutils-random-name-picker",
       "name": "Random Name Picker",
-      "subtitle": "Randomly pick a name from a list.",
-      "description": "Randomly pick a name from a list. Perfect for raffles, giveaways, classroom activities, and fair decision making.",
+      "subtitle": "Pick random names from your list instantly.",
+      "description": "Pick random names from your list instantly. Free online name picker for raffles, giveaways, classrooms, and team selection. No signup required.",
       "category": [
         "utilities",
         "web"
@@ -2400,14 +2577,14 @@
       "homepage": "https://findutils.com/en/tools/random-name-picker/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Yes, we use JavaScript's Math.random() which provides fair, unpredictable results. Each name has an equal chance of being selected. Yes, enable 'Remove winner after each pick' to automatically remove each winner from the list, useful for raffles with multiple prizes. There's no hard limit. You can add hundreds of names, though performance is best with under 1000 entries.",
+      "longDescription": "Yes, the tool uses a random algorithm that gives every name in the list an equal probability of being selected. The result is unpredictable and unbiased on every draw. Yes, enable the 'Remove winner after each pick' toggle to automatically remove each winner from the list. This is ideal for raffles and giveaways where a person should only win once. There is no hard limit. You can add hundreds of names without any issue. Performance remains smooth with lists of up to 1,000 entries, and larger ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/random-name-picker.svg"
     },
     {
       "id": "findutils-rubric-generator",
       "name": "Rubric Generator",
-      "subtitle": "Create custom grading rubrics for assignments, projects, and assessments.",
-      "description": "Create custom grading rubrics for assignments, projects, and assessments. Download as CSV for use in any system.",
+      "subtitle": "Create custom grading rubrics with weighted criteria and performance levels.",
+      "description": "Create custom grading rubrics with weighted criteria and performance levels. Free online rubric maker for teachers. Download as CSV instantly.",
       "category": [
         "productivity",
         "web"
@@ -2424,8 +2601,8 @@
     {
       "id": "findutils-attendance-sheet-generator",
       "name": "Attendance Sheet Generator",
-      "subtitle": "Create printable attendance sheets for classes, meetings, or events.",
-      "description": "Create printable attendance sheets for classes, meetings, or events. Add students, set dates, and download as CSV.",
+      "subtitle": "Create free printable attendance sheets for classes, meetings, or events.",
+      "description": "Create free printable attendance sheets for classes, meetings, or events. Add names, set dates, and download as CSV. No signup required.",
       "category": [
         "productivity",
         "web"
@@ -2442,8 +2619,8 @@
     {
       "id": "findutils-report-card-generator",
       "name": "Report Card",
-      "subtitle": "Create professional report cards with GPA calculation.",
-      "description": "Create professional report cards with GPA calculation. Add subjects, grades, and comments. Print or download instantly.",
+      "subtitle": "Create professional report cards with automatic GPA calculation.",
+      "description": "Create professional report cards with automatic GPA calculation. Add subjects, grades, and teacher comments. Print or download free - no signup required.",
       "category": [
         "productivity",
         "web"
@@ -2454,14 +2631,14 @@
       "homepage": "https://findutils.com/en/tools/report-card-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "GPA is calculated using a 4.0 scale: A=4.0, B=3.0, C=2.0, D=1.0, F=0.0. Plus/minus grades are adjusted accordingly. The GPA is weighted by credit hours. The current version uses the standard US letter grade scale. You can manually convert grades from other systems before entering. No, all data stays in your browser. Nothing is saved to any server. Download or print your report card before closing the page.",
+      "longDescription": "GPA is calculated using a 4.0 scale: A=4.0, B=3.0, C=2.0, D=1.0, F=0.0. Plus/minus grades are adjusted accordingly. The GPA is weighted by credit hours. The current version uses the standard US letter grade scale. You can manually convert grades from other systems before entering them. For percentage-based grading, use the Grade Calculator to convert scores to letter grades first. No. All processing happens in your browser. Nothing is uploaded to any server. Download or print your report card...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/report-card-generator.svg"
     },
     {
       "id": "findutils-lesson-plan-template",
       "name": "Lesson Plan Template",
-      "subtitle": "Create structured lesson plans with objectives, materials, activities, and as...",
-      "description": "Create structured lesson plans with objectives, materials, activities, and assessments. Print or download instantly.",
+      "subtitle": "Create structured lesson plans with objectives, materials, timed activities, ...",
+      "description": "Create structured lesson plans with objectives, materials, timed activities, and assessments. Free online - print or download as HTML instantly.",
       "category": [
         "productivity",
         "web"
@@ -2496,8 +2673,8 @@
     {
       "id": "findutils-screenshot-tool",
       "name": "Screenshot Tool",
-      "subtitle": "Capture your screen, window, or browser tab instantly.",
-      "description": "Capture your screen, window, or browser tab instantly. Download or copy screenshots with one click.",
+      "subtitle": "Capture your screen, window, or browser tab instantly for free.",
+      "description": "Capture your screen, window, or browser tab instantly for free. Download or copy screenshots with one click. No extension or software installation needed.",
       "category": [
         "productivity",
         "web"
@@ -2616,7 +2793,7 @@
       "homepage": "https://findutils.com/en/tools/salary-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Annual salary is calculated by multiplying your hourly rate by hours worked per week, then by 52 weeks per year. For example, $25/hour \u00d7 40 hours \u00d7 52 weeks = $52,000 annually. Bi-weekly means every two weeks (26 paychecks per year), while semi-monthly means twice per month (24 paychecks per year). Bi-weekly results in slightly higher annual pay for the same per-check amount. Divide your annual salary by 2,080 (52 weeks \u00d7 40 hours). For example, $52,000 \u00f7 2,080 = $25 per hour. Adjust the hour...",
+      "longDescription": "Annual salary is calculated by multiplying your hourly rate by hours worked per week, then by 52 weeks per year. For example, $25/hour x 40 hours x 52 weeks = $52,000 annually. Bi-weekly means every two weeks, resulting in 26 paychecks per year. Semi-monthly means twice per month on fixed dates, resulting in 24 paychecks per year. For the same per-check amount, bi-weekly pay produces a slightly higher annual total. Divide your annual salary by 2,080 (52 weeks multiplied by 40 hours). For exam...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/salary-calculator.svg"
     },
     {
@@ -2694,8 +2871,8 @@
     {
       "id": "findutils-excel-to-csv",
       "name": "Excel to CSV Converter",
-      "subtitle": "Convert Excel files (XLSX, XLS) to CSV format online.",
-      "description": "Convert Excel files (XLSX, XLS) to CSV format online. Supports multiple sheets, custom delimiters, and batch download.",
+      "subtitle": "Convert Excel files (XLSX, XLS) to CSV online for free.",
+      "description": "Convert Excel files (XLSX, XLS) to CSV online for free. Supports multiple sheets, custom delimiters, and batch download. No upload to server.",
       "category": [
         "utilities",
         "web"
@@ -2712,8 +2889,8 @@
     {
       "id": "findutils-csv-to-excel",
       "name": "CSV to Excel Converter",
-      "subtitle": "Convert CSV files to Excel format (XLSX) online.",
-      "description": "Convert CSV files to Excel format (XLSX) online. Preview data, choose delimiter, and download instantly.",
+      "subtitle": "Convert CSV files to Excel (XLSX) format free online.",
+      "description": "Convert CSV files to Excel (XLSX) format free online. Preview data, choose delimiters, and download instantly. No upload - runs in your browser.",
       "category": [
         "utilities",
         "web"
@@ -2730,8 +2907,8 @@
     {
       "id": "findutils-csv-viewer",
       "name": "CSV Viewer",
-      "subtitle": "View, search, sort, and filter CSV files online.",
-      "description": "View, search, sort, and filter CSV files online. No upload required - all processing happens in your browser.",
+      "subtitle": "View, search, sort, and filter CSV files online for free.",
+      "description": "View, search, sort, and filter CSV files online for free. No upload required - all data stays in your browser. Supports CSV, TSV, and TXT.",
       "category": [
         "utilities",
         "web"
@@ -2784,8 +2961,8 @@
     {
       "id": "findutils-video-trimmer",
       "name": "Video Trimmer",
-      "subtitle": "Cut and trim video clips to specific timestamps.",
-      "description": "Cut and trim video clips to specific timestamps. All processing happens in your browser - no upload required.",
+      "subtitle": "Cut and trim videos to specific timestamps online for free.",
+      "description": "Cut and trim videos to specific timestamps online for free. No upload, no watermark - all processing happens locally in your browser.",
       "category": [
         "utilities",
         "web"
@@ -2802,8 +2979,8 @@
     {
       "id": "findutils-video-to-gif",
       "name": "Video to GIF Converter",
-      "subtitle": "Convert video clips to animated GIFs directly in your browser.",
-      "description": "Convert video clips to animated GIFs directly in your browser. No upload required.",
+      "subtitle": "Convert video clips to animated GIFs directly in your browser for free.",
+      "description": "Convert video clips to animated GIFs directly in your browser for free. Trim, resize, and adjust frame rate. No upload needed, fully private.",
       "category": [
         "utilities",
         "web"
@@ -2820,8 +2997,8 @@
     {
       "id": "findutils-video-compressor",
       "name": "Video Compressor",
-      "subtitle": "Reduce video file size while maintaining quality.",
-      "description": "Reduce video file size while maintaining quality. All processing happens in your browser - no upload required.",
+      "subtitle": "Compress video files online for free without uploading.",
+      "description": "Compress video files online for free without uploading. Reduce MP4, WebM, and MKV size by up to 70% in your browser. No signup, no watermarks.",
       "category": [
         "utilities",
         "web"
@@ -2832,14 +3009,14 @@
       "homepage": "https://findutils.com/en/tools/video-compressor/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Compression results vary based on the original video and selected quality preset. You can typically achieve 30-70% size reduction while maintaining acceptable quality. Some quality loss is inevitable when compressing video. Our tool uses smart compression to minimize visible quality loss while maximizing file size reduction. No, all processing happens entirely in your browser. Your videos never leave your device.",
+      "longDescription": "Compression results depend on the source video's codec, resolution, and content complexity. Most videos achieve 30-70% size reduction. Screen recordings and presentations compress more efficiently than high-motion footage like sports or action scenes. Some quality loss is inherent in video compression. The High quality preset minimizes visible degradation and is suitable for most purposes. The Medium preset provides a good balance, while Low prioritizes the smallest file size with more notice...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-compressor.svg"
     },
     {
       "id": "findutils-video-format-converter",
       "name": "Video Format Converter",
-      "subtitle": "Convert videos between different formats.",
-      "description": "Convert videos between different formats. All processing happens in your browser - no upload required.",
+      "subtitle": "Convert videos between MP4, WebM, MKV, and MOV formats free online.",
+      "description": "Convert videos between MP4, WebM, MKV, and MOV formats free online. No upload, no signup. Browser-based conversion with quality preservation.",
       "category": [
         "utilities",
         "web"
@@ -2850,14 +3027,14 @@
       "homepage": "https://findutils.com/en/tools/video-format-converter/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You can convert from MP4, WebM, MKV, and MOV to either MP4 or WebM format. Our tool uses transmuxing when possible, which preserves original quality. Re-encoding may be required for some format combinations. No, all processing happens entirely in your browser. Your videos never leave your device.",
+      "longDescription": "You can convert from MP4, WebM, MKV, and MOV to either MP4 or WebM format. The tool automatically selects transmuxing or re-encoding based on codec compatibility. When the source and target formats share compatible codecs, the tool transmuxes the stream with zero quality loss. Re-encoding is only applied when necessary and uses high-quality settings. No. All processing runs inside your browser via WebAssembly. Your video files never leave your device, ensuring complete privacy.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-format-converter.svg"
     },
     {
       "id": "findutils-video-resizer",
       "name": "Video Resizer",
-      "subtitle": "Resize videos to any resolution with preset options for social media and cust...",
-      "description": "Resize videos to any resolution with preset options for social media and custom dimensions.",
+      "subtitle": "Resize videos to any resolution instantly in your browser.",
+      "description": "Resize videos to any resolution instantly in your browser. Presets for YouTube, Instagram, TikTok, and custom dimensions. Free, private, no upload.",
       "category": [
         "utilities",
         "web"
@@ -2868,14 +3045,14 @@
       "homepage": "https://findutils.com/en/tools/video-resizer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You can choose from presets including 4K, 1080p, 720p, 480p, 360p, Square (1080\u00d71080), and Instagram Story format, or enter custom dimensions. Downscaling typically maintains good quality. Upscaling may result in some quality loss as the video is being enlarged beyond its original resolution. Yes, you can disable the aspect ratio lock to resize to any dimensions. However, this may cause stretching or squishing of the video.",
+      "longDescription": "You can choose from presets including 4K (3840x2160), 1080p (1920x1080), 720p (1280x720), 480p (854x480), 360p (640x360), Square (1080x1080), and Instagram Story (1080x1920), or enter any custom width and height. Downscaling typically maintains good visual quality because you are reducing pixel count. Upscaling may introduce softness or artifacts because the browser interpolates new pixels that did not exist in the original footage. Yes, disable the aspect ratio lock to resize to any dimensio...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-resizer.svg"
     },
     {
       "id": "findutils-video-rotator",
       "name": "Video Rotator",
-      "subtitle": "Rotate and flip videos by 90\u00b0, 180\u00b0, or 270\u00b0.",
-      "description": "Rotate and flip videos by 90\u00b0, 180\u00b0, or 270\u00b0. Fix sideways videos or create mirror effects.",
+      "subtitle": "Rotate and flip videos by 90, 180, or 270 degrees directly in your browser.",
+      "description": "Rotate and flip videos by 90, 180, or 270 degrees directly in your browser. Fix sideways phone videos, create mirror effects, and export instantly. No upload required.",
       "category": [
         "utilities",
         "web"
@@ -2886,14 +3063,14 @@
       "homepage": "https://findutils.com/en/tools/video-rotator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You can rotate videos by 90\u00b0, 180\u00b0, or 270\u00b0 (same as -90\u00b0). Click the rotate buttons multiple times to reach your desired angle. Yes, you can apply rotation and horizontal/vertical flipping together for any combination of transformations. The video is re-encoded during rotation, but we use high-quality settings to minimize any quality loss.",
+      "longDescription": "You can rotate videos by 90, 180, or 270 degrees. Click the rotate left or rotate right button once for 90 degrees and continue clicking to reach your desired angle. Yes, you can apply rotation and horizontal or vertical flipping together. For example, rotate 90 degrees clockwise and then flip horizontally for a rotated mirror effect. The video is re-encoded during rotation, but the tool uses high-quality encoding settings to minimize any visible quality loss. The output closely matches the o...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-rotator.svg"
     },
     {
       "id": "findutils-video-metadata-extractor",
       "name": "Video Metadata Extractor",
-      "subtitle": "Extract detailed technical information from video files including codec, reso...",
-      "description": "Extract detailed technical information from video files including codec, resolution, bitrate, and more.",
+      "subtitle": "Extract video metadata online - view codec, resolution, frame rate, bitrate, ...",
+      "description": "Extract video metadata online - view codec, resolution, frame rate, bitrate, and audio details. Free, private, no upload to any server.",
       "category": [
         "developer-tools",
         "utilities",
@@ -2905,14 +3082,14 @@
       "homepage": "https://findutils.com/en/tools/video-metadata-extractor/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You can view file name, size, duration, video resolution, aspect ratio, codec, frame rate, bitrate, and audio details including codec, sample rate, channels, and bitrate. Metadata helps verify video specifications before uploading, troubleshoot playback issues, ensure compatibility, and understand video quality settings. No, all analysis happens entirely in your browser. Your videos never leave your device.",
+      "longDescription": "You can view file name, size, duration, video resolution, aspect ratio, codec, frame rate, bitrate, and audio details including codec, sample rate, channels, and bitrate. Metadata helps verify video specifications before uploading, troubleshoot playback issues, ensure compatibility, and understand video quality settings. No, all analysis happens entirely in your browser. Your videos never leave your device, making this tool safe for confidential or sensitive footage.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/video-metadata-extractor.svg"
     },
     {
       "id": "findutils-video-to-audio",
       "name": "Extract Audio from Video",
-      "subtitle": "Extract audio track from any video file.",
-      "description": "Extract audio track from any video file. Perfect for creating podcasts, music, or voice recordings from videos.",
+      "subtitle": "Extract audio from any video file online for free.",
+      "description": "Extract audio from any video file online for free. Create podcasts, music clips, or voice recordings. No upload - processed in your browser.",
       "category": [
         "utilities",
         "web"
@@ -2929,8 +3106,8 @@
     {
       "id": "findutils-audio-trimmer",
       "name": "Audio Trimmer",
-      "subtitle": "Cut and trim audio clips to specific timestamps.",
-      "description": "Cut and trim audio clips to specific timestamps. All processing happens in your browser - no upload required.",
+      "subtitle": "Cut and trim audio files online for free.",
+      "description": "Cut and trim audio files online for free. Set precise start and end points with waveform preview. No upload - runs in your browser.",
       "category": [
         "utilities",
         "web"
@@ -2947,8 +3124,8 @@
     {
       "id": "findutils-audio-format-converter",
       "name": "Audio Format Converter",
-      "subtitle": "Convert audio files between different formats.",
-      "description": "Convert audio files between different formats. All processing happens in your browser - no upload required.",
+      "subtitle": "Convert audio files between MP3, WAV, OGG, and FLAC formats free online.",
+      "description": "Convert audio files between MP3, WAV, OGG, and FLAC formats free online. No upload required - all processing happens in your browser.",
       "category": [
         "utilities",
         "web"
@@ -2965,8 +3142,8 @@
     {
       "id": "findutils-audio-resampler",
       "name": "Audio Resampler",
-      "subtitle": "Change the sample rate of audio files.",
-      "description": "Change the sample rate of audio files. Perfect for matching audio specifications or optimizing file size.",
+      "subtitle": "Change audio sample rate online for free.",
+      "description": "Change audio sample rate online for free. Convert 44.1kHz to 48kHz and more. Browser-based - no upload, no signup, no quality loss.",
       "category": [
         "utilities",
         "web"
@@ -2983,8 +3160,8 @@
     {
       "id": "findutils-audio-metadata-extractor",
       "name": "Audio Metadata Extractor",
-      "subtitle": "Extract detailed technical information from audio files including sample rate...",
-      "description": "Extract detailed technical information from audio files including sample rate, channels, bitrate, and more.",
+      "subtitle": "Extract audio metadata online - view sample rate, channels, bitrate, codec, a...",
+      "description": "Extract audio metadata online - view sample rate, channels, bitrate, codec, and duration. Free, private, no upload to any server.",
       "category": [
         "developer-tools",
         "utilities",
@@ -3002,8 +3179,8 @@
     {
       "id": "findutils-voice-recorder",
       "name": "Voice Recorder",
-      "subtitle": "Record audio directly from your microphone.",
-      "description": "Record audio directly from your microphone. Perfect for voice memos, notes, and quick recordings.",
+      "subtitle": "Record audio from your microphone directly in your browser for free.",
+      "description": "Record audio from your microphone directly in your browser for free. Save voice memos, notes, and recordings as MP3 or WAV. No software to install.",
       "category": [
         "productivity",
         "web"
@@ -3020,8 +3197,8 @@
     {
       "id": "findutils-video-thumbnail-generator",
       "name": "Video Thumbnail Generator",
-      "subtitle": "Extract high-quality thumbnail images from your videos.",
-      "description": "Extract high-quality thumbnail images from your videos. Auto-generate multiple thumbnails or capture specific frames.",
+      "subtitle": "Extract high-quality thumbnails from video files online.",
+      "description": "Extract high-quality thumbnails from video files online. Auto-generate multiple frames or capture specific timestamps. Free, no upload required.",
       "category": [
         "utilities",
         "web"
@@ -3038,8 +3215,8 @@
     {
       "id": "findutils-subtitle-extractor",
       "name": "Subtitle Extractor",
-      "subtitle": "Extract embedded subtitles from video files and export them as SRT format.",
-      "description": "Extract embedded subtitles from video files and export them as SRT format. Works with MP4, MKV, and WebM videos.",
+      "subtitle": "Extract embedded subtitles from MP4, MKV, and WebM videos.",
+      "description": "Extract embedded subtitles from MP4, MKV, and WebM videos. Export as SRT format instantly in your browser with no upload required.",
       "category": [
         "utilities",
         "web"
@@ -3075,8 +3252,8 @@
     {
       "id": "findutils-dev-request-prioritizer",
       "name": "Dev Request Prioritizer",
-      "subtitle": "Prioritize development requests using weighted scoring.",
-      "description": "Prioritize development requests using weighted scoring. Track analysis, estimate effort, and see what to build next.",
+      "subtitle": "Prioritize dev requests using RICE, ICE, or WSJF scoring frameworks.",
+      "description": "Prioritize dev requests using RICE, ICE, or WSJF scoring frameworks. Track effort, plan sprints, and decide what to build next. Free online.",
       "category": [
         "productivity",
         "web"
@@ -3105,7 +3282,7 @@
       "homepage": "https://findutils.com/en/tools/sprint-capacity-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "We start with raw hours (team members \u00d7 hours/day \u00d7 working days), then subtract meeting overhead percentage, holidays, and individual PTO. This gives you the true available hours for development work. Industry averages range from 4-8 hours per story point. Start with 6 hours/point and adjust based on your team's historical velocity. Track actual completion to refine your estimate. Include recurring meetings like standups, sprint planning, reviews, and retrospectives. For a typical 2-week spr...",
+      "longDescription": "We start with raw hours (team members multiplied by hours per day multiplied by working days), then subtract meeting overhead percentage, holidays, and individual PTO. This gives you the true available hours for development work. Industry averages range from 4-8 hours per story point. Start with 6 hours per point and adjust based on your team's historical velocity. Track actual completion to refine your estimate over successive sprints. Include recurring meetings like standups, sprint plannin...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/sprint-capacity-calculator.svg"
     },
     {
@@ -3184,7 +3361,7 @@
       "id": "findutils-retro-meeting",
       "name": "Retro Meeting",
       "subtitle": "Run engaging sprint retrospectives with your team.",
-      "description": "Run engaging sprint retrospectives with your team. Add items anonymously, reveal them one by one, and collaborate on action items in real-time.",
+      "description": "Run engaging sprint retrospectives with your team. Add items anonymously, vote on priorities, and export action items. Free, real-time, no signup required.",
       "category": [
         "productivity",
         "web"
@@ -3341,14 +3518,14 @@
       "homepage": "https://findutils.com/en/tools/self-employment-tax-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "You pay both employer and employee portions: 12.4% Social Security + 2.9% Medicare = 15.3%. Ba\u011f-Kur (4B) is Turkey's social security system for self-employed individuals, covering pension, health insurance, and short-term insurance at 34.5% total. Yes, KKTC provides a personal allowance of 480,000 TL annually before income tax applies.",
+      "longDescription": "You pay both employer and employee portions: 12.4% Social Security + 2.9% Medicare = 15.3%. Bag-Kur (4B) is Turkey's social security system for self-employed individuals, covering pension, health insurance, and short-term insurance at 34.5% total. Yes, KKTC provides a personal allowance of 480,000 TL annually before income tax applies.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/self-employment-tax-calculator.svg"
     },
     {
       "id": "findutils-purchase-order-generator",
       "name": "Purchase Order Generator",
-      "subtitle": "Description.",
-      "description": "Description",
+      "subtitle": "Create professional purchase orders instantly.",
+      "description": "Create professional purchase orders instantly. Add vendor details, line items, tax, and shipping. Download as PDF. Free, no signup, runs in your browser.",
       "category": [
         "finance",
         "web"
@@ -3359,14 +3536,14 @@
       "homepage": "https://findutils.com/en/tools/purchase-order-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "A PO is a commercial document issued by a buyer to a seller, indicating types, quantities, and agreed prices for products or services. No, all data stays in your browser. Nothing is sent to our servers. Yes, click 'Add Item' to add as many line items as needed.",
+      "longDescription": "A purchase order (PO) is a commercial document issued by a buyer to a seller that specifies the types, quantities, and agreed prices for products or services. It serves as a legally binding offer once the seller accepts it. No. All data stays in your browser. Nothing is uploaded to any server. You can safely enter vendor details, pricing, and delivery information knowing it remains on your device. Yes. Click the Add Item button to add as many line items as you need. Each item includes fields ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/purchase-order-generator.svg"
     },
     {
       "id": "findutils-json-yaml-converter",
       "name": "JSON YAML Converter",
-      "subtitle": "Convert between JSON and YAML formats instantly.",
-      "description": "Convert between JSON and YAML formats instantly. Bidirectional conversion with syntax validation, formatting options, and file upload support. Free, no signup required.",
+      "subtitle": "Convert JSON to YAML and YAML to JSON instantly in your browser.",
+      "description": "Convert JSON to YAML and YAML to JSON instantly in your browser. Free online converter with syntax validation, formatting options, and no data uploaded to servers.",
       "category": [
         "developer-tools",
         "utilities",
@@ -3378,7 +3555,7 @@
       "homepage": "https://findutils.com/en/tools/json-yaml-converter/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "JSON uses braces and brackets with strict syntax, while YAML uses indentation and is more human-readable. YAML supports comments, JSON doesn't. Yes, both formats can represent the same data structures. The conversion preserves all data integrity. No, all conversion happens locally in your browser. Your data never leaves your device.",
+      "longDescription": "JSON uses braces, brackets, and quoted keys with strict syntax rules. YAML uses indentation-based structure and is more human-readable. YAML supports comments and multi-line strings, while JSON does not. Both can represent the same data structures -- objects, arrays, strings, numbers, booleans, and null values. Yes, converting JSON to YAML preserves all data perfectly since both formats support the same core data types. However, converting YAML to JSON may lose YAML-specific features like com...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-yaml-converter.svg"
     },
     {
@@ -3477,8 +3654,8 @@
     {
       "id": "findutils-image-color-extractor",
       "name": "Image Color Extractor",
-      "subtitle": "Extract dominant colors from any image and create beautiful color palettes.",
-      "description": "Extract dominant colors from any image and create beautiful color palettes. Export as HEX, RGB, CSS variables, Tailwind config, or SCSS. Perfect for designers and developers.",
+      "subtitle": "Extract a color palette from any image instantly.",
+      "description": "Extract a color palette from any image instantly. Get dominant colors as HEX, RGB, CSS variables, or Tailwind config. Free, browser-based, no upload required.",
       "category": [
         "graphics-design",
         "web"
@@ -3489,7 +3666,7 @@
       "homepage": "https://findutils.com/en/tools/image-color-extractor/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "The tool analyzes all pixels in your image, groups similar colors together, and identifies the most dominant ones. It filters out near-duplicate colors to give you a diverse, usable palette. All common image formats are supported including JPEG, PNG, GIF, WebP, and BMP. Simply drag and drop or click to upload your image. No, all processing happens entirely in your browser. Your images are never uploaded to any server, ensuring complete privacy.",
+      "longDescription": "The tool analyzes all pixels in your image, groups similar colors together using a color quantization algorithm, and identifies the most dominant ones. It filters out near-duplicate colors to give you a diverse, usable palette. All common image formats are supported including JPEG, PNG, GIF, WebP, and BMP. Simply drag and drop or click to upload your image. No, all processing happens entirely in your browser using the HTML5 Canvas API. Your images are never uploaded to any server, ensuring co...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/image-color-extractor.svg"
     },
     {
@@ -3526,7 +3703,7 @@
       "homepage": "https://findutils.com/en/tools/xml-formatter/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "XML formatting adds proper indentation and line breaks to make the document structure clear and readable. Minification removes unnecessary whitespace, reducing file size for faster transmission and loading. Yes, the tool checks for well-formed XML and reports any syntax errors.",
+      "longDescription": "XML formatting adds proper indentation and line breaks to make the document structure clear and readable. It transforms a single-line or poorly indented XML string into a neatly organized hierarchy where each element's nesting level is visually obvious. Minification removes unnecessary whitespace, comments, and line breaks from XML documents, reducing file size by 30-60%. This is particularly useful for sitemaps, RSS feeds, and API payloads where smaller files mean faster transmission and low...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/xml-formatter.svg"
     },
     {
@@ -3545,7 +3722,7 @@
       "homepage": "https://findutils.com/en/tools/robots-txt-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "It's a text file placed in your website's root directory that instructs web crawlers (like Googlebot) which pages they can or cannot access. It prevents crawling, but pages might still appear in search results if linked from other sites. Use noindex meta tags for complete blocking. Crawl-delay tells bots to wait a specified number of seconds between requests, reducing server load. Note: Google ignores crawl-delay.",
+      "longDescription": "It's a text file placed in your website's root directory that instructs web crawlers (like Googlebot) which pages they can or cannot access. It prevents crawling, but pages might still appear in search results if linked from other sites. Use noindex meta tags for complete blocking. Crawl-delay tells bots to wait a specified number of seconds between requests, reducing server load. Note: Google ignores crawl-delay but Bing and Yandex respect it.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/robots-txt-generator.svg"
     },
     {
@@ -3564,7 +3741,7 @@
       "homepage": "https://findutils.com/en/tools/water-intake-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "The general rule is about 30-35ml per kg of body weight, but this varies based on activity, climate, and individual factors. While caffeinated drinks contain water, caffeine has mild diuretic effects. We recommend adding extra water for each caffeinated drink. Yes, overhydration (water intoxication) is possible but rare. Listen to your body and don't force excessive intake.",
+      "longDescription": "The general guideline is 30-35 ml per kilogram of body weight, which works out to roughly 2 to 3.5 liters for most adults. However, exercise, hot weather, and caffeine intake can increase your needs by 500 ml to over 1 liter. Coffee and tea do contain water and contribute to hydration, but caffeine has mild diuretic effects that increase urine output. This calculator adds a small amount of extra water for each caffeinated drink to offset that loss. Yes. Overhydration, or hyponatremia, occurs ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/water-intake-calculator.svg"
     },
     {
@@ -3655,7 +3832,7 @@
       "homepage": "https://findutils.com/en/tools/stock-average-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Dollar cost averaging (DCA) means investing fixed amounts at regular intervals regardless of price. This reduces the impact of volatility and eliminates the stress of trying to time the market perfectly. Averaging down can be a valid strategy if you still believe in the investment thesis. However, never throw good money after bad. Evaluate why the stock declined before adding more. Consider position sizing limits. Average cost = Total Amount Invested / Total Shares Owned. For example, buying ...",
+      "longDescription": "Dollar cost averaging (DCA) means investing fixed amounts at regular intervals regardless of price. This reduces the impact of volatility and eliminates the stress of trying to time the market perfectly. Averaging down can be a valid strategy if you still believe in the investment thesis. However, never throw good money after bad. Evaluate why the stock declined before adding more. Consider position sizing limits. Average cost equals Total Amount Invested divided by Total Shares Owned. For ex...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/stock-average-calculator.svg"
     },
     {
@@ -3709,7 +3886,7 @@
       "homepage": "https://findutils.com/en/tools/research-title-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "A good research title is specific, concise, and accurately reflects the study's content. It should include key variables, the study population, and hint at the methodology when relevant. Descriptive titles describe what the study is about. Declarative titles state the main finding. Interrogative titles pose a question. Compound titles use a colon to combine a creative element with a descriptive subtitle. Most journals recommend titles between 10-15 words. Titles that are too short may lack sp...",
+      "longDescription": "A good research title is specific, concise, and accurately reflects the study's content. It should include key variables, the study population, and hint at the methodology when relevant. Aim for 10 to 15 words that clearly communicate the scope of your work. Descriptive titles describe what the study is about. Declarative titles state the main finding. Interrogative titles pose a question. Compound titles use a colon to combine a creative element with a descriptive subtitle. Most journals rec...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/research-title-generator.svg"
     },
     {
@@ -3727,7 +3904,7 @@
       "homepage": "https://findutils.com/en/tools/text-summarizer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "This tool uses extractive summarization - it analyzes sentences based on word frequency, position in the text, and presence of key indicator words, then selects the most important sentences while preserving their original order. Extractive summarization selects and combines existing sentences from the text. Abstractive summarization (used by AI models) generates new sentences that paraphrase the content. This tool uses extractive summarization. Well-structured texts with clear sentences work ...",
+      "longDescription": "This tool uses extractive summarization. It analyzes sentences based on word frequency, position in the text, and presence of key indicator words, then selects the most important sentences while preserving their original order. Extractive summarization selects and combines existing sentences from the text. Abstractive summarization (used by AI models like GPT) generates new sentences that paraphrase the content. This tool uses extractive summarization, which guarantees that every sentence in ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/text-summarizer.svg"
     },
     {
@@ -3822,7 +3999,7 @@
       "homepage": "https://findutils.com/en/tools/imessage-chat-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Blue bubbles indicate iMessage (Apple-to-Apple messaging), while green bubbles indicate SMS/MMS messages (to non-Apple devices). No, the watermark is always present to indicate the image is a mockup and not a real conversation. Yes, you can add iOS tapback reactions like heart, thumbs up, thumbs down, ha ha, exclamation marks, and question marks.",
+      "longDescription": "Blue bubbles indicate iMessage, which is Apple's encrypted messaging protocol used between Apple devices. Green bubbles indicate SMS or MMS messages sent to non-Apple devices or when iMessage is unavailable. No. The FindUtils.com watermark is always included to clearly identify the image as a generated mockup rather than a real conversation. This prevents misuse and deception. Yes. You can add any of the six standard iOS tapback reactions: heart, thumbs up, thumbs down, ha ha, exclamation mar...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/imessage-chat-generator.svg"
     },
     {
@@ -3953,7 +4130,7 @@
       "homepage": "https://findutils.com/en/tools/url-safety-checker/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "We analyze multiple factors including domain age, URL patterns, SSL status, known blacklists, and suspicious characteristics commonly used in phishing attacks. Suspicious indicators include misspelled domains, excessive subdomains, unusual characters, URL shorteners hiding the destination, and newly registered domains. While we check many indicators, no tool is 100% accurate. Always use caution with unfamiliar links and verify the sender's identity.",
+      "longDescription": "The tool analyzes multiple structural and heuristic indicators in the URL including HTTPS usage, domain patterns, top-level domain reputation, presence of homoglyph characters, URL shortener detection, IP-based addressing, and excessive subdomain depth. These checks run entirely in your browser without contacting external servers. Suspicious indicators include misspelled or lookalike domain names (homoglyphs), excessive subdomains designed to hide the real domain, URL shorteners that mask the...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/url-safety-checker.svg"
     },
     {
@@ -4048,7 +4225,7 @@
       "homepage": "https://findutils.com/en/tools/pgp-encryption-tool/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "PGP uses asymmetric cryptography with a public key for encryption and a private key for decryption, ensuring only intended recipients can read messages. Never share your private key. It's the only way to decrypt messages sent to you. Share only your public key with people who want to send you encrypted messages. Yes, all encryption and decryption happens in your browser. Keys and messages are never sent to any server.",
+      "longDescription": "PGP uses asymmetric cryptography with a public key for encryption and a private key for decryption, ensuring only intended recipients can read messages. Never share your private key. It's the only way to decrypt messages sent to you. Share only your public key with people who want to send you encrypted messages. Yes, all encryption and decryption happens in your browser using the OpenPGP.js library. Keys and messages are never sent to any server. You can verify this by using the tool with you...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/pgp-encryption-tool.svg"
     },
     {
@@ -4067,7 +4244,7 @@
       "homepage": "https://findutils.com/en/tools/two-fa-code-tester/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Time-based One-Time Password (TOTP) generates temporary codes that change every 30 seconds, based on a shared secret and current time. Common issues include incorrect time on your device, wrong secret key, or the account being set up with a different algorithm. Ensure your device time is synced. All processing happens locally in your browser. Your secret key is never sent to any server. However, for active accounts, be cautious about where you enter secrets.",
+      "longDescription": "Time-based One-Time Password (TOTP) generates temporary codes that change every 30 seconds, based on a shared secret and current time. It is defined in RFC 6238 and is the standard behind most authenticator apps including Google Authenticator, Authy, and Microsoft Authenticator. Common issues include incorrect time on your device, wrong secret key, or the account being set up with a different algorithm. Ensure your device time is synced to network time. Even a 30-second offset can cause every...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/two-fa-code-tester.svg"
     },
     {
@@ -4181,7 +4358,7 @@
       "homepage": "https://findutils.com/en/tools/privacy-policy-checker/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Clear information about data collected, how it's used, who it's shared with, user rights, security measures, and how to contact the company. The General Data Protection Regulation is an EU law requiring companies to protect user data and provide rights like data access and deletion. The California Consumer Privacy Act gives California residents rights over their personal information and requires businesses to disclose data practices.",
+      "longDescription": "A comprehensive privacy policy should clearly state what personal data is collected, the legal basis for processing, how data is used and shared, retention periods, user rights (access, deletion, correction, portability), security measures, cookie practices, and contact information for the data protection officer or privacy team. The General Data Protection Regulation is an EU law that applies to any organization processing personal data of EU residents, regardless of where the organization i...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/privacy-policy-checker.svg"
     },
     {
@@ -4206,8 +4383,8 @@
     {
       "id": "findutils-json-to-go-struct",
       "name": "JSON to Go Struct Generator",
-      "subtitle": "Convert JSON data to Go struct definitions with JSON tags.",
-      "description": "Convert JSON data to Go struct definitions with JSON tags. Generate idiomatic Go code with proper field names and types.",
+      "subtitle": "Convert JSON to Go struct definitions instantly.",
+      "description": "Convert JSON to Go struct definitions instantly. Generate idiomatic Go code with json tags, omitempty, and proper PascalCase field names. Free, no signup.",
       "category": [
         "developer-tools",
         "utilities",
@@ -4219,7 +4396,7 @@
       "homepage": "https://findutils.com/en/tools/json-to-go-struct/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "JSON struct tags in Go tell the encoding/json package how to map struct fields to JSON keys. They're essential for proper serialization when field names differ between Go (PascalCase) and JSON (camelCase or snake_case). Use omitempty when you want to exclude zero-value fields from JSON output. This is useful for optional fields that shouldn't appear in the JSON when not set. Inline structs are useful for simple, one-off nested objects. For reusable types or complex structures, separate struct...",
+      "longDescription": "JSON struct tags in Go tell the encoding/json package how to map struct fields to JSON keys. They're essential for proper serialization when field names differ between Go (PascalCase) and JSON (camelCase or snake_case). Use omitempty when you want to exclude zero-value fields from JSON output. This is useful for optional fields that shouldn't appear in the JSON when not set, such as nullable API response fields or optional request parameters. Inline structs are useful for simple, one-off nest...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-to-go-struct.svg"
     },
     {
@@ -4263,8 +4440,8 @@
     {
       "id": "findutils-json-schema-validator",
       "name": "JSON Schema Validator",
-      "subtitle": "Validate JSON data against JSON Schema (Draft-07).",
-      "description": "Validate JSON data against JSON Schema (Draft-07). Check type constraints, required properties, formats, and patterns.",
+      "subtitle": "Validate JSON data against JSON Schema (Draft-07) instantly.",
+      "description": "Validate JSON data against JSON Schema (Draft-07) instantly. Check types, required fields, formats, patterns, and constraints. Free, client-side, no signup.",
       "category": [
         "developer-tools",
         "utilities",
@@ -4276,14 +4453,14 @@
       "homepage": "https://findutils.com/en/tools/json-schema-validator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "JSON Schema is a vocabulary that allows you to annotate and validate JSON documents. It describes the expected format of JSON data, including types, required properties, constraints, and patterns. This tool supports type checking, required properties, string constraints (minLength, maxLength, pattern, format), number constraints (minimum, maximum), array constraints (minItems, maxItems), and enum values. Supported formats include email, uri/url, uuid, and date-time. These automatically valida...",
+      "longDescription": "JSON Schema is a vocabulary that allows you to annotate and validate JSON documents. It describes the expected format of JSON data, including types, required properties, constraints, and patterns. JSON Schema is widely used in API specifications like OpenAPI and for validating configuration files. This tool supports type checking, required properties, string constraints (minLength, maxLength, pattern, format), number constraints (minimum, maximum, multipleOf), array constraints (minItems, max...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-schema-validator.svg"
     },
     {
       "id": "findutils-json-schema-generator",
       "name": "JSON Schema Generator",
-      "subtitle": "Generate JSON Schema from sample JSON data.",
-      "description": "Generate JSON Schema from sample JSON data. Automatically detect types, formats, and create validation rules for your API.",
+      "subtitle": "Generate JSON Schema from sample JSON data instantly.",
+      "description": "Generate JSON Schema from sample JSON data instantly. Auto-detect types, formats, and nested structures to create Draft-07 validation rules for your API.",
       "category": [
         "developer-tools",
         "utilities",
@@ -4490,8 +4667,8 @@
     {
       "id": "findutils-json-to-xml",
       "name": "JSON to XML Converter",
-      "subtitle": "Convert JSON data to XML format instantly.",
-      "description": "Convert JSON data to XML format instantly. Support for attributes, nested objects, arrays, and custom root elements.",
+      "subtitle": "Convert JSON to XML format online for free.",
+      "description": "Convert JSON to XML format online for free. Supports attributes, nested objects, arrays, and custom root elements. No signup, runs in browser.",
       "category": [
         "utilities",
         "web"
@@ -4507,7 +4684,7 @@
     },
     {
       "id": "findutils-openapi-validator",
-      "name": "Title",
+      "name": "OpenAPI Validator",
       "subtitle": "Validate OpenAPI 3.",
       "description": "Validate OpenAPI 3.x and Swagger 2.0 specifications. Check for errors, missing fields, and get detailed validation reports.",
       "category": [
@@ -4521,7 +4698,7 @@
       "homepage": "https://findutils.com/en/tools/openapi-validator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "The validator supports OpenAPI 3.0.x, 3.1.x, and Swagger 2.0 specifications. OpenAPI 3.x is recommended for new projects. Yes, both JSON and YAML formats are supported. You can paste YAML directly or upload a .yaml/.yml file. The validator checks for required fields (info, title, version, paths), valid path formats, response definitions, and schema structures.",
+      "longDescription": "The validator supports OpenAPI 3.0.x, 3.1.x, and Swagger 2.0 specifications. OpenAPI 3.1 aligns with JSON Schema draft 2020-12, while 3.0.x uses a modified subset. Swagger 2.0 is validated against its original specification. OpenAPI 3.x is recommended for all new projects. Yes. Both JSON and YAML formats are fully supported. You can paste YAML directly into the editor or upload a .yaml or .yml file. The parser handles standard YAML syntax including anchors, aliases, and multi-line strings. Th...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/openapi-validator.svg"
     },
     {
@@ -4566,7 +4743,7 @@
       "id": "findutils-schema-org-generator",
       "name": "Schema.org Generator",
       "subtitle": "Generate Schema.",
-      "description": "Generate Schema.org structured data markup for better search engine visibility. Create JSON-LD for organizations, products, events, recipes, and more.",
+      "description": "Generate Schema.org structured data in JSON-LD format for rich snippets. Create markup for organizations, products, events, recipes, and more. Free, no signup.",
       "category": [
         "developer-tools",
         "utilities",
@@ -4837,7 +5014,7 @@
       "homepage": "https://findutils.com/en/tools/social-media-calendar-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Add your posts to the calendar and assign them to specific platforms like Instagram, Facebook, Twitter, or LinkedIn. The calendar shows all your planned content at a glance. Yes, you can export your calendar as CSV for offline access or sharing with your team. No, this is a planning tool. It helps you organize when and what to post, but you will need to manually post or use a separate scheduling tool for automatic posting.",
+      "longDescription": "Add your posts to the calendar and assign them to specific platforms like Instagram, Facebook, Twitter, or LinkedIn. The calendar shows all your planned content at a glance, color-coded by platform for easy scanning. Yes, you can export your calendar as a CSV file for offline access, sharing with your team, or importing into scheduling tools like Buffer or Hootsuite. No, this is a planning tool. It helps you organize when and what to post, but you will need to manually post or use a separate ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/social-media-calendar-generator.svg"
     },
     {
@@ -4873,7 +5050,7 @@
       "homepage": "https://findutils.com/en/tools/slide-deck-builder/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Yes! Our slide deck builder is completely free to use. There are no hidden fees, no watermarks on your exports, and no account required. You can export your presentations as PDF documents, PNG images (bundled in a ZIP file), or animated GIF files with transitions. Yes! You can generate a shareable link that allows anyone to view your presentation. For larger presentations with many images, we recommend exporting to PDF for sharing.",
+      "longDescription": "Yes! Our slide deck builder is completely free to use. There are no hidden fees, no watermarks on your exports, and no account required. You get unlimited slides, full export options, and presentation mode at zero cost. You can export your presentations as PDF documents, PNG images (bundled in a ZIP file), animated GIF files, self-contained HTML files, WebM video, PowerPoint (.pptx), or raw JSON for backup and version control. Yes! You can generate a shareable link that allows anyone to view ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/slide-deck-builder.svg"
     },
     {
@@ -5128,7 +5305,7 @@
       "homepage": "https://findutils.com/en/tools/markdown-to-word/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "All standard Markdown syntax is supported including headings, bold, italic, strikethrough, links, images, code blocks, blockquotes, ordered/unordered lists, horizontal rules, and tables. Yes. You can set background color, text color, header content, header images, font family, font size, page margins, and more. All settings are applied when generating the Word document. No. All conversion happens directly in your browser using JavaScript. Your Markdown content never leaves your device.",
+      "longDescription": "All standard Markdown syntax is supported including headings (H1 through H6), bold, italic, strikethrough, links, images, code blocks with syntax highlighting, blockquotes, ordered and unordered lists, horizontal rules, and tables. The converter maps each element to its proper Word equivalent. Yes. You can set background color, text color, header content, header images with adjustable height and fit mode, font family, font size, and page margins for all four sides. All settings are applied wh...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/markdown-to-word.svg"
     },
     {
@@ -5537,7 +5714,7 @@
       "homepage": "https://findutils.com/en/tools/state-machine-designer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Drag from one state's output handle to another state's input handle. You can label the transition with the event name. Yes, click on a state to change its type to Initial (green), Final (red), or Normal (blue). Yes, export as JSON for use in XState or similar state machine libraries, or as a code snippet.",
+      "longDescription": "Drag from one state's output handle to another state's input handle. You can label the transition with the event name that triggers it. Yes, click on a state to change its type to Initial (green), Final (red), or Normal (blue). Every state machine should have exactly one initial state. Yes, export as JSON for use in XState, Robot, or similar state machine libraries. You can also export a code snippet ready to paste into JavaScript or TypeScript projects.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/state-machine-designer.svg"
     },
     {
