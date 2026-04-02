@@ -76,7 +76,21 @@ Machine-readable site overview for AI crawlers: [findutils.com/llms.txt](https:/
 
 This repo hosts `apps.json` for the [WVW distributed app store](https://wvw.dev). The file is auto-generated and synced from [findutils.com/apps.json](https://findutils.com/apps.json).
 
-## Categories
+## Content
+
+### [Guides](guides/) (85)
+
+In-depth tutorials covering developer tools, security, design, PDF manipulation, financial calculators, and more. Each guide links back to the full interactive version on FindUtils.
+
+### [Blog](blog/) (30)
+
+Articles on developer productivity, free tool roundups, security best practices, financial planning, and technical deep-dives.
+
+### [Cheatsheets](cheatsheets/) (25)
+
+Quick-reference cards for Linux, Git, Docker, Kubernetes, JavaScript, Python, SQL, React, CSS, and more. Each cheatsheet links to the interactive, searchable version on FindUtils.
+
+## Tool Categories
 
 - **Calculators** -- BMI, percentage, date, GPA, scientific, and more
 - **Converters** -- Image, video, audio, CSV, JSON, PDF format converters
@@ -91,5 +105,8 @@ This repo hosts `apps.json` for the [WVW distributed app store](https://wvw.dev)
 ## Links
 
 - Website: [findutils.com](https://findutils.com)
+- Guides: [findutils.com/en/guides](https://findutils.com/en/guides/)
+- Blog: [findutils.com/en/blog](https://findutils.com/en/blog/)
+- Cheatsheets: [findutils.com/en/cheatsheets](https://findutils.com/en/cheatsheets/)
 - MCP Server: [findutils.com/en/mcp](https://findutils.com/en/mcp/)
 - API Docs: [findutils.com/en/api](https://findutils.com/en/api/)
