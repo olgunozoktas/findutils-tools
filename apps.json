@@ -81,7 +81,7 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "x402 is an open-source payment protocol by Coinbase that activates the HTTP 402 Payment Required status code for programmatic, on-chain payments. It supports stablecoins like USDC across multiple blockchains including Base, Polygon, Solana, Aptos, and Stellar. x402 has official SDKs for TypeScript (Express, Hono, Next.js, Fastify), Go (Gin, net/http), and Python (FastAPI, Flask). Client SDKs are available for fetch, axios, Go net/http, and Python httpx/requests. A facilitator is a service tha...",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/x402-config-generator.svg",
       "iconEmoji": "🛠️",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/x402-config-generator.svg"
@@ -104,7 +104,7 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "Flowcharts, sequence diagrams, ER diagrams, class diagrams, architecture diagrams, network topologies, org charts, mind maps, state machines, file trees, CI/CD pipelines, truth tables, and more. The AI auto-detects the best type from your description. Yes. Click anywhere on the canvas to place your cursor and type or edit characters directly. Use Cmd+Z to undo edits. You can also ask the AI to make specific modifications via the chat. Copy to clipboard, download as .txt, .svg (vector), .png (...",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/ascii-diagram-generator.svg",
       "iconEmoji": "🛠️",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/ascii-diagram-generator.svg"
@@ -126,7 +126,7 @@
       "homepage": "https://findutils.com/en/tools/ai-model-picker/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/ai-model-picker.svg",
       "iconEmoji": "🛠️",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/ai-model-picker.svg"
@@ -149,7 +149,7 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "No. dnpm wraps npm inside a secure Docker container. Every npm command you know still works - dnpm just adds isolation and security layers around it. Yes. Scripts defined in package.json (dev, build, test, etc.) work normally. Lifecycle scripts like postinstall are disabled by default but run in the offline rebuild phase when you use dnpm setup or dnpm ci. The generated setup is npm-focused, but you can modify the Dockerfile and compose file to use yarn or pnpm instead. The security model (re...",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/dnpm-configurator.svg",
       "iconEmoji": "🛠️",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/dnpm-configurator.svg"
@@ -172,7 +172,7 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "Yolobox is an open-source CLI tool that runs AI coding agents inside isolated containers. It gives the AI full sudo access and auto-approval mode while protecting your home directory and system files from accidental damage. Yolobox supports Claude Code (with --dangerously-skip-permissions), OpenAI Codex, Google Gemini CLI, GitHub Copilot, and OpenCode. You can also run any custom command inside the container. Yolobox provides container-level isolation that protects against accidental filesyst...",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/yolobox-configurator.svg",
       "iconEmoji": "🛠️",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/yolobox-configurator.svg"
@@ -194,7 +194,7 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "Photos are stored locally in your browser using IndexedDB. They never leave your device and are not uploaded to any server. Click or tap on any date in the calendar to open the file picker. On mobile, you can also take a photo with your camera. You can drag and drop photos onto dates from your desktop. Yes! Use the Download PDF button to get a print-ready A4 PDF of your calendar. The Download PNG button creates a high-resolution image.",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/photo-calendar.svg",
       "iconEmoji": "🎨",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/photo-calendar.svg"
@@ -216,7 +216,7 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "You can upload JPEG, PNG, WebP, GIF, and SVG images. The tool works best with square or nearly-square images. Yes! Download your sticker as a transparent PNG and import it into WhatsApp or Telegram sticker packs using their respective sticker maker apps. The stamp border creates a perforated edge effect like a postage stamp. It adds small semicircular cutouts along the border of your sticker.",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/sticker-maker.svg",
       "iconEmoji": "🎨",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/sticker-maker.svg"
@@ -238,7 +238,7 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "Drag puzzle pieces from the tray to the grid. Pieces snap into place when dropped near their correct position. In Hard mode, double-tap pieces to rotate them. Yes! Your puzzle is automatically saved. If you close the browser and come back, you can resume where you left off. Easy shows grid outlines and piece numbers. Medium shows only grid outlines. Hard has no outlines and pieces are randomly rotated.",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/image-to-puzzle.svg",
       "iconEmoji": "🎨",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/image-to-puzzle.svg"
@@ -260,7 +260,7 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "A Lottie animation is a JSON-based animation format created by Airbnb. Designers create animations in Adobe After Effects and export them using the Bodymovin plugin. The resulting JSON file can be rendered on web, iOS, and Android with small file sizes and perfect scalability. Skia is Google's 2D graphics library used in Chrome, Android, and Flutter. The CanvasKit WASM module includes Skottie, Google's native Lottie renderer. This gives you the same rendering quality as native mobile apps, wi...",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/lottie-editor.svg",
       "iconEmoji": "🎨",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/lottie-editor.svg"
@@ -6760,7 +6760,7 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "PlantUML supports sequence, class, use case, activity, component, state, object, deployment, timing, and ER diagrams. Mermaid supports flowcharts, sequence, class, state, ER, Gantt, and pie charts. No. PlantUML diagrams are rendered via the PlantUML server. Mermaid diagrams render entirely in your browser. No downloads, plugins, or Java installation required. Yes. You can export diagrams as SVG (vector, scalable) or PNG (raster). You can also copy the diagram as a Markdown image link for use ...",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/uml-diagram-editor.svg",
       "iconEmoji": "🛠️",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/uml-diagram-editor.svg"
@@ -6782,7 +6782,7 @@
       "homepage": "https://findutils.com/en/tools/wvw-store-checker/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/wvw-store-checker.svg",
       "iconEmoji": "🛠️",
       "screenshots": [
         "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/wvw-store-checker.svg"
