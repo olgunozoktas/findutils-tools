@@ -2866,7 +2866,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "While 20% is traditional and avoids PMI, you can buy a home with as little as 3-5% down. FHA loans require 3.5% minimum. The trade-off is higher monthly payments and PMI costs with lower down payments. Private Mortgage Insurance (PMI) protects lenders when you put less than 20% down. It typically costs 0.5-1.5% of your loan annually, added to your monthly payment. PMI can be removed once you reach 20% equity. Closing costs include loan fees, appraisal, title insurance, attorney fees, and prep...",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/down-payment-calculator.svg"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/down-payment-calculator.svg",
+      "screenshots": ["https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/down-payment-calculator.svg"]
     },
     {
       "id": "findutils-excel-to-csv",
@@ -3447,7 +3448,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "Food costs vary widely by destination. As a general rule, budget $30-50 USD per day in Western Europe or North America, $15-25 in Eastern Europe or Southeast Asia, and $50-80 in expensive cities like London, Paris, or Tokyo. Eating at local restaurants and markets can significantly reduce costs. Yes, travel insurance is highly recommended and typically costs 4-10% of your total trip cost. It covers medical emergencies, trip cancellations, lost luggage, and other unexpected situations. The pea...",
-      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/travel-budget-calculator.svg"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/travel-budget-calculator.svg",
+      "screenshots": ["https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-banners/travel-budget-calculator.svg"]
     },
     {
       "id": "findutils-profit-margin-calculator",
