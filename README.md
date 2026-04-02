@@ -4,9 +4,73 @@
 
 ## For AI / LLM Integration
 
-- **MCP Server:** Connect 22 tools to Claude, ChatGPT, and any MCP client. See [findutils-mcp](https://github.com/olgunozoktas/findutils-mcp)
-- **REST API:** 20 tools as HTTP endpoints. [API docs](https://findutils.com/en/api/)
-- **llms.txt:** Machine-readable site overview at [findutils.com/llms.txt](https://findutils.com/llms.txt)
+### MCP Server
+
+Connect 22 tools directly to Claude, Cursor, Windsurf, ChatGPT, and any MCP-compatible client.
+
+**Claude Desktop / Claude Code:**
+
+Add to your MCP config (`~/.claude/claude_desktop_config.json` or `~/.claude.json`):
+
+```json
+{
+  "mcpServers": {
+    "findutils": {
+      "url": "https://findutils-mcp.codewitholgun.workers.dev/"
+    }
+  }
+}
+```
+
+**Any MCP Client (Streamable HTTP):**
+
+```
+MCP Server URL: https://findutils-mcp.codewitholgun.workers.dev/
+```
+
+**Available MCP Tools:** Base64, URL Encode/Decode, UUID Generator, Hash Generator, HMAC Generator, JSON Formatter, JSON Validator, Percentage Calculator, Unit Converter, Color Converter, Unix Timestamp, Number Base Converter, Case Converter, Word Counter, Lorem Ipsum Generator, JWT Decoder, Regex Tester, Date Difference, CSV to JSON, JSON to CSV.
+
+### REST API
+
+20 tools available as HTTP endpoints. No authentication required.
+
+**Base URL:** `https://findutils-tool-api.codewitholgun.workers.dev`
+
+**Example:**
+
+```bash
+# Encode text to Base64
+curl -X POST https://findutils-tool-api.codewitholgun.workers.dev/api/tools/base64/execute \
+  -H "Content-Type: application/json" \
+  -d '{"text": "Hello, World!", "action": "encode"}'
+
+# Generate a UUID
+curl -X POST https://findutils-tool-api.codewitholgun.workers.dev/api/tools/uuid/execute \
+  -H "Content-Type: application/json" -d '{}'
+
+# SHA-256 hash
+curl -X POST https://findutils-tool-api.codewitholgun.workers.dev/api/tools/hash/execute \
+  -H "Content-Type: application/json" \
+  -d '{"text": "hello world", "algorithm": "sha-256"}'
+```
+
+**Response format:**
+
+```json
+{
+  "success": true,
+  "result": { "result": "SGVsbG8sIFdvcmxkIQ==" },
+  "meta": { "tool": "base64", "executionMs": 0 }
+}
+```
+
+**Endpoint pattern:** `POST /api/tools/{tool-id}/execute`
+
+Full API documentation: [findutils.com/en/api](https://findutils.com/en/api/)
+
+### llms.txt
+
+Machine-readable site overview for AI crawlers: [findutils.com/llms.txt](https://findutils.com/llms.txt)
 
 ## WVW (World Vibe Web)
 
@@ -27,5 +91,5 @@ This repo hosts `apps.json` for the [WVW distributed app store](https://wvw.dev)
 ## Links
 
 - Website: [findutils.com](https://findutils.com)
-- MCP Server: [github.com/olgunozoktas/findutils-mcp](https://github.com/olgunozoktas/findutils-mcp)
+- MCP Server: [findutils.com/en/mcp](https://findutils.com/en/mcp/)
 - API Docs: [findutils.com/en/api](https://findutils.com/en/api/)
