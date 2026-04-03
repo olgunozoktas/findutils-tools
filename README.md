@@ -1,6 +1,6 @@
 # FindUtils Tools
 
-316+ free online tools at [findutils.com](https://findutils.com) -- calculators, converters, generators, developer utilities, and more. All tools run in your browser with no data uploaded to any server.
+315+ free online tools at [findutils.com](https://findutils.com) -- calculators, converters, generators, developer utilities, and more. All tools run in your browser with no data uploaded to any server.
 
 ## For AI / LLM Integration
 
@@ -79,7 +79,7 @@ This repo includes a Claude Code skill at `.claude/skills/findutils-api/SKILL.md
 ### llms.txt
 
 Machine-readable content for AI systems:
-- Site overview (316+ tools): [findutils.com/llms.txt](https://findutils.com/llms.txt)
+- Site overview (315+ tools): [findutils.com/llms.txt](https://findutils.com/llms.txt)
 - API reference (50 tools): [findutils.com/api/llms.txt](https://findutils.com/api/llms.txt)
 - OpenAPI 3.1 spec: [findutils.com/api/openapi.json](https://findutils.com/api/openapi.json)
 
