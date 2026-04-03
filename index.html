@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FindUtils - 315+ Free Online Tools | Calculators, Converters, Developer Utilities</title>
+    <meta name="description" content="315+ free online tools at findutils.com. Calculators, converters, generators, developer utilities, design tools, and more. All tools run in your browser with zero data uploads.">
+    <meta name="keywords" content="free online tools, calculator, converter, developer tools, JSON formatter, regex tester, UUID generator, base64 encoder, password generator, QR code generator, color picker, unit converter, PDF tools, image tools, findutils">
+    <link rel="canonical" href="https://findutils.com">
+    <meta property="og:title" content="FindUtils - 315+ Free Online Tools">
+    <meta property="og:description" content="Calculators, converters, generators, developer utilities, and more. All tools run in your browser.">
+    <meta property="og:url" content="https://findutils.com">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://findutils.com/images/og/default.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="FindUtils - 315+ Free Online Tools">
+    <meta name="twitter:description" content="Calculators, converters, generators, developer utilities. Free, private, browser-based.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #0a0a0a;
+            color: #e5e5e5;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        a { color: #a78bfa; text-decoration: none; transition: color 0.2s; }
+        a:hover { color: #c4b5fd; }
+        .container { max-width: 960px; margin: 0 auto; padding: 0 24px; width: 100%; }
+
+        /* Hero */
+        .hero {
+            padding: 80px 0 48px;
+            text-align: center;
+            border-bottom: 1px solid #1e1e1e;
+        }
+        .hero-badge {
+            display: inline-block;
+            background: #1e1b4b;
+            color: #a78bfa;
+            font-size: 13px;
+            font-weight: 600;
+            padding: 6px 16px;
+            border-radius: 100px;
+            margin-bottom: 24px;
+            letter-spacing: 0.02em;
+        }
+        .hero h1 {
+            font-size: 48px;
+            font-weight: 800;
+            color: #fff;
+            letter-spacing: -0.03em;
+            line-height: 1.1;
+            margin-bottom: 16px;
+        }
+        .hero h1 span { color: #a78bfa; }
+        .hero p {
+            font-size: 18px;
+            color: #a3a3a3;
+            max-width: 560px;
+            margin: 0 auto 32px;
+            line-height: 1.6;
+        }
+        .hero-cta {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: #7c3aed;
+            color: #fff;
+            font-size: 16px;
+            font-weight: 600;
+            padding: 14px 32px;
+            border-radius: 12px;
+            transition: background 0.2s;
+        }
+        .hero-cta:hover { background: #6d28d9; color: #fff; }
+        .hero-cta svg { width: 18px; height: 18px; }
+
+        /* Stats */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1px;
+            background: #1e1e1e;
+            border-bottom: 1px solid #1e1e1e;
+        }
+        .stat {
+            background: #0a0a0a;
+            padding: 32px 16px;
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 32px;
+            font-weight: 800;
+            color: #fff;
+            letter-spacing: -0.02em;
+        }
+        .stat-label {
+            font-size: 13px;
+            color: #737373;
+            margin-top: 4px;
+            font-weight: 500;
+        }
+
+        /* Sections */
+        .section {
+            padding: 64px 0;
+            border-bottom: 1px solid #1e1e1e;
+        }
+        .section-title {
+            font-size: 28px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 8px;
+            letter-spacing: -0.02em;
+        }
+        .section-desc {
+            color: #a3a3a3;
+            font-size: 15px;
+            margin-bottom: 32px;
+            line-height: 1.6;
+        }
+
+        /* Cards grid */
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+        }
+        .card {
+            background: #141414;
+            border: 1px solid #262626;
+            border-radius: 12px;
+            padding: 24px;
+            transition: border-color 0.2s, background 0.2s;
+        }
+        .card:hover { border-color: #404040; background: #1a1a1a; }
+        .card-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 16px;
+            font-size: 20px;
+        }
+        .card h3 {
+            font-size: 16px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+        .card p {
+            font-size: 13px;
+            color: #737373;
+            line-height: 1.5;
+        }
+
+        /* Categories */
+        .categories {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+        }
+        .category {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            background: #141414;
+            border: 1px solid #262626;
+            border-radius: 10px;
+            padding: 16px 20px;
+            transition: border-color 0.2s;
+        }
+        .category:hover { border-color: #404040; }
+        .category-icon { font-size: 22px; flex-shrink: 0; }
+        .category-name { font-size: 14px; font-weight: 600; color: #e5e5e5; }
+        .category-count { font-size: 12px; color: #737373; }
+
+        /* Integration cards */
+        .integrations { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+        .integration {
+            background: #141414;
+            border: 1px solid #262626;
+            border-radius: 12px;
+            padding: 28px;
+        }
+        .integration:hover { border-color: #404040; }
+        .integration h3 {
+            font-size: 18px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+        .integration p {
+            font-size: 14px;
+            color: #a3a3a3;
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+        .integration code {
+            display: block;
+            background: #0a0a0a;
+            border: 1px solid #262626;
+            border-radius: 8px;
+            padding: 12px 16px;
+            font-family: 'SF Mono', 'Fira Code', monospace;
+            font-size: 13px;
+            color: #a78bfa;
+            overflow-x: auto;
+        }
+
+        /* Footer */
+        .footer {
+            padding: 48px 0;
+            text-align: center;
+            margin-top: auto;
+        }
+        .footer-links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 24px;
+            margin-bottom: 24px;
+        }
+        .footer-links a { font-size: 14px; color: #a3a3a3; }
+        .footer-links a:hover { color: #fff; }
+        .footer-copy { font-size: 13px; color: #525252; }
+
+        @media (max-width: 768px) {
+            .hero { padding: 48px 0 32px; }
+            .hero h1 { font-size: 32px; }
+            .hero p { font-size: 16px; }
+            .stats { grid-template-columns: repeat(2, 1fr); }
+            .cards, .categories { grid-template-columns: 1fr; }
+            .integrations { grid-template-columns: 1fr; }
+            .section { padding: 40px 0; }
+        }
+    </style>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "FindUtils",
+        "url": "https://findutils.com",
+        "description": "315+ free online tools. Calculators, converters, generators, developer utilities, design tools, and more.",
+        "applicationCategory": "UtilityApplication",
+        "operatingSystem": "Any",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Olgun Ozoktas",
+            "url": "https://github.com/olgunozoktas"
+        },
+        "sameAs": [
+            "https://github.com/olgunozoktas/findutils-tools",
+            "https://emoji.findutils.com",
+            "https://api.findutils.com",
+            "https://mcp.findutils.com"
+        ]
+    }
+    </script>
+</head>
+<body>
+
+<section class="hero">
+    <div class="container">
+        <div class="hero-badge">Open Source &middot; Free Forever</div>
+        <h1>FindUtils <span>Tools</span></h1>
+        <p>315+ free online tools that run entirely in your browser. No signups, no uploads, no tracking. Just tools that work.</p>
+        <a href="https://findutils.com" class="hero-cta">
+            Browse All Tools
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3"/></svg>
+        </a>
+    </div>
+</section>
+
+<section class="stats">
+    <div class="stat">
+        <div class="stat-value">315+</div>
+        <div class="stat-label">Free Tools</div>
+    </div>
+    <div class="stat">
+        <div class="stat-value">52</div>
+        <div class="stat-label">MCP Tools</div>
+    </div>
+    <div class="stat">
+        <div class="stat-value">50</div>
+        <div class="stat-label">API Endpoints</div>
+    </div>
+    <div class="stat">
+        <div class="stat-value">0</div>
+        <div class="stat-label">Data Uploaded</div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">Tool Categories</h2>
+        <p class="section-desc">Everything from quick calculations to full developer workflows. All free, all private.</p>
+        <div class="categories">
+            <a href="https://findutils.com/en/tools" class="category">
+                <span class="category-icon">🧮</span>
+                <div>
+                    <div class="category-name">Calculators</div>
+                    <div class="category-count">BMI, percentage, date, GPA, scientific</div>
+                </div>
+            </a>
+            <a href="https://findutils.com/en/tools" class="category">
+                <span class="category-icon">🔄</span>
+                <div>
+                    <div class="category-name">Converters</div>
+                    <div class="category-count">Image, video, CSV, JSON, PDF</div>
+                </div>
+            </a>
+            <a href="https://findutils.com/en/tools" class="category">
+                <span class="category-icon">🎨</span>
+                <div>
+                    <div class="category-name">Design Tools</div>
+                    <div class="category-count">Color palettes, gradients, CSS generators</div>
+                </div>
+            </a>
+            <a href="https://findutils.com/en/tools" class="category">
+                <span class="category-icon">💻</span>
+                <div>
+                    <div class="category-name">Developer Tools</div>
+                    <div class="category-count">JSON, regex, JWT, API testing</div>
+                </div>
+            </a>
+            <a href="https://findutils.com/en/tools" class="category">
+                <span class="category-icon">💰</span>
+                <div>
+                    <div class="category-name">Financial Tools</div>
+                    <div class="category-count">Loan, mortgage, investment, tax</div>
+                </div>
+            </a>
+            <a href="https://findutils.com/en/tools" class="category">
+                <span class="category-icon">⚡</span>
+                <div>
+                    <div class="category-name">Generators</div>
+                    <div class="category-count">QR codes, UUIDs, barcodes, passwords</div>
+                </div>
+            </a>
+            <a href="https://findutils.com/en/tools" class="category">
+                <span class="category-icon">📝</span>
+                <div>
+                    <div class="category-name">Productivity</div>
+                    <div class="category-count">PDF editor, timers, mind maps</div>
+                </div>
+            </a>
+            <a href="https://findutils.com/en/tools" class="category">
+                <span class="category-icon">🔒</span>
+                <div>
+                    <div class="category-name">Security</div>
+                    <div class="category-count">Password gen, hash, encryption, SSL</div>
+                </div>
+            </a>
+            <a href="https://findutils.com/en/tools" class="category">
+                <span class="category-icon">📄</span>
+                <div>
+                    <div class="category-name">Text Tools</div>
+                    <div class="category-count">Word counter, case converter, diff</div>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">AI &amp; Developer Integrations</h2>
+        <p class="section-desc">Use FindUtils tools programmatically via MCP, REST API, or machine-readable specs.</p>
+        <div class="integrations">
+            <div class="integration">
+                <h3>MCP Server</h3>
+                <p>Connect 52 tools directly to Claude, Cursor, Windsurf, ChatGPT, and any MCP-compatible AI client.</p>
+                <code>https://mcp.findutils.com/</code>
+            </div>
+            <div class="integration">
+                <h3>REST API</h3>
+                <p>50 tools as HTTP endpoints. No auth required. JSON in, JSON out.</p>
+                <code>https://api.findutils.com/api/tools/{id}/execute</code>
+            </div>
+            <div class="integration">
+                <h3>Emoji Search</h3>
+                <p>Fast emoji search engine. Search, browse, and copy emojis with instant results.</p>
+                <code>https://emoji.findutils.com</code>
+            </div>
+            <div class="integration">
+                <h3>llms.txt</h3>
+                <p>Machine-readable content for AI systems. Site overview, API reference, and OpenAPI 3.1 spec.</p>
+                <code>https://findutils.com/llms.txt</code>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">Resources</h2>
+        <p class="section-desc">Guides, blog posts, and cheatsheets to help you get more done.</p>
+        <div class="cards">
+            <a href="https://findutils.com/en/guides/" class="card">
+                <div class="card-icon" style="background:#1e1b4b;">📚</div>
+                <h3>85+ Guides</h3>
+                <p>In-depth tutorials covering developer tools, security, design, PDF manipulation, and more.</p>
+            </a>
+            <a href="https://findutils.com/en/blog/" class="card">
+                <div class="card-icon" style="background:#1a2e05;">✍️</div>
+                <h3>30+ Blog Posts</h3>
+                <p>Articles on developer productivity, free tool roundups, security best practices.</p>
+            </a>
+            <a href="https://findutils.com/en/cheatsheets/" class="card">
+                <div class="card-icon" style="background:#2a1215;">📋</div>
+                <h3>25+ Cheatsheets</h3>
+                <p>Quick-reference cards for Linux, Git, Docker, Kubernetes, JavaScript, Python, SQL, React.</p>
+            </a>
+        </div>
+    </div>
+</section>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer-links">
+            <a href="https://findutils.com">FindUtils</a>
+            <a href="https://findutils.com/en/tools">All Tools</a>
+            <a href="https://findutils.com/en/api/">API Docs</a>
+            <a href="https://findutils.com/en/mcp/">MCP Server</a>
+            <a href="https://emoji.findutils.com">Emoji Search</a>
+            <a href="https://findutils.com/en/guides/">Guides</a>
+            <a href="https://findutils.com/en/blog/">Blog</a>
+            <a href="https://findutils.com/en/cheatsheets/">Cheatsheets</a>
+            <a href="https://github.com/olgunozoktas/findutils-tools">GitHub</a>
+        </div>
+        <p class="footer-copy">FindUtils &middot; 315+ free online tools &middot; No signups, no uploads, no tracking</p>
+    </div>
+</footer>
+
+</body>
+</html>
