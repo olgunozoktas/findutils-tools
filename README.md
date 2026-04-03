@@ -103,15 +103,16 @@ Quick-reference cards for Linux, Git, Docker, Kubernetes, JavaScript, Python, SQ
 
 ## Tool Categories
 
-- **Calculators** -- BMI, percentage, date, GPA, scientific, and more
-- **Converters** -- Image, video, audio, CSV, JSON, PDF format converters
-- **Design Tools** -- Color palettes, gradients, CSS generators, photo editors
-- **Developer Tools** -- JSON formatter, regex tester, JWT decoder, API tools
-- **Financial Tools** -- Loan, mortgage, investment, tax calculators
-- **Generators** -- QR codes, UUIDs, barcodes, lorem ipsum, signatures
-- **Productivity** -- PDF editor, timers, mind maps, spreadsheets
-- **Security** -- Password generator, hash tools, encryption, SSL checker
-- **Text Tools** -- Word counter, case converter, diff checker
+- **[Productivity](https://findutils.com/en?categories=productivity&persona=everyone)** -- PDF editor, timers, mind maps, spreadsheets
+- **[Developer](https://findutils.com/en?categories=developer&persona=everyone)** -- JSON formatter, regex tester, JWT decoder, API tools
+- **[Financial](https://findutils.com/en?categories=financial&persona=everyone)** -- Loan, mortgage, investment, tax calculators
+- **[Converters](https://findutils.com/en?categories=converters&persona=everyone)** -- Image, video, audio, CSV, JSON, PDF format converters
+- **[Security](https://findutils.com/en?categories=security&persona=everyone)** -- Password generator, hash tools, encryption, SSL checker
+- **[Generators](https://findutils.com/en?categories=generators&persona=everyone)** -- QR codes, UUIDs, barcodes, lorem ipsum, signatures
+- **[Text Tools](https://findutils.com/en?categories=text&persona=everyone)** -- Word counter, case converter, diff checker
+- **[Design](https://findutils.com/en?categories=design&persona=everyone)** -- Color palettes, gradients, CSS generators, photo editors
+- **[Calculators](https://findutils.com/en?categories=calculators&persona=everyone)** -- BMI, percentage, date, GPA, scientific, and more
+- **[Mockups](https://findutils.com/en?categories=mockups&persona=everyone)** -- Device frames, browser mockups, screenshots
 
 ## Emoji Search
 
