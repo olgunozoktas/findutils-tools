@@ -113,9 +113,14 @@ Quick-reference cards for Linux, Git, Docker, Kubernetes, JavaScript, Python, SQ
 - **Security** -- Password generator, hash tools, encryption, SSL checker
 - **Text Tools** -- Word counter, case converter, diff checker
 
+## Emoji Search
+
+Fast emoji search engine at [emoji.findutils.com](https://emoji.findutils.com) -- search, browse, and copy emojis with instant results.
+
 ## Links
 
 - Website: [findutils.com](https://findutils.com)
+- Emoji Search: [emoji.findutils.com](https://emoji.findutils.com)
 - Guides: [findutils.com/en/guides](https://findutils.com/en/guides/)
 - Blog: [findutils.com/en/blog](https://findutils.com/en/blog/)
 - Cheatsheets: [findutils.com/en/cheatsheets](https://findutils.com/en/cheatsheets/)
