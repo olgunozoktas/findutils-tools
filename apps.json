@@ -2,7 +2,7 @@
   "$schema": "https://wvw.dev/apps.schema.json",
   "store": {
     "name": "FindUtils",
-    "developer": "Olgun \u00d6zokta\u015f",
+    "developer": "Olgun Özoktaş",
     "tagline": "Free online tools for everyday tasks - calculators, converters, generators, and developer utilities.",
     "url": "https://x.com/codewitholgun",
     "github": "https://github.com/olgunozoktas"
@@ -81,8 +81,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "x402 is an open-source payment protocol by Coinbase that activates the HTTP 402 Payment Required status code for programmatic, on-chain payments. It supports stablecoins like USDC across multiple blockchains including Base, Polygon, Solana, Aptos, and Stellar. x402 has official SDKs for TypeScript (Express, Hono, Next.js, Fastify), Go (Gin, net/http), and Python (FastAPI, Flask). Client SDKs are available for fetch, axios, Go net/http, and Python httpx/requests. A facilitator is a service tha...",
-      "icon": null,
-      "iconEmoji": "\ud83d\udee0\ufe0f"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/x402-config-generator.svg",
+      "iconEmoji": "🛠️"
     },
     {
       "id": "findutils-ascii-diagram-generator",
@@ -101,8 +101,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "Flowcharts, sequence diagrams, ER diagrams, class diagrams, architecture diagrams, network topologies, org charts, mind maps, state machines, file trees, CI/CD pipelines, truth tables, and more. The AI auto-detects the best type from your description. Yes. Click anywhere on the canvas to place your cursor and type or edit characters directly. Use Cmd+Z to undo edits. You can also ask the AI to make specific modifications via the chat. Copy to clipboard, download as .txt, .svg (vector), .png (...",
-      "icon": null,
-      "iconEmoji": "\ud83d\udee0\ufe0f"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/ascii-diagram-generator.svg",
+      "iconEmoji": "🛠️"
     },
     {
       "id": "findutils-ai-model-picker",
@@ -120,8 +120,8 @@
       "homepage": "https://findutils.com/en/tools/ai-model-picker/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "icon": null,
-      "iconEmoji": "\ud83d\udee0\ufe0f"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/ai-model-picker.svg",
+      "iconEmoji": "🛠️"
     },
     {
       "id": "findutils-dnpm-configurator",
@@ -140,8 +140,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "No. dnpm wraps npm inside a secure Docker container. Every npm command you know still works - dnpm just adds isolation and security layers around it. Yes. Scripts defined in package.json (dev, build, test, etc.) work normally. Lifecycle scripts like postinstall are disabled by default but run in the offline rebuild phase when you use dnpm setup or dnpm ci. The generated setup is npm-focused, but you can modify the Dockerfile and compose file to use yarn or pnpm instead. The security model (re...",
-      "icon": null,
-      "iconEmoji": "\ud83d\udee0\ufe0f"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/dnpm-configurator.svg",
+      "iconEmoji": "🛠️"
     },
     {
       "id": "findutils-yolobox-configurator",
@@ -160,8 +160,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "Yolobox is an open-source CLI tool that runs AI coding agents inside isolated containers. It gives the AI full sudo access and auto-approval mode while protecting your home directory and system files from accidental damage. Yolobox supports Claude Code (with --dangerously-skip-permissions), OpenAI Codex, Google Gemini CLI, GitHub Copilot, and OpenCode. You can also run any custom command inside the container. Yolobox provides container-level isolation that protects against accidental filesyst...",
-      "icon": null,
-      "iconEmoji": "\ud83d\udee0\ufe0f"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/yolobox-configurator.svg",
+      "iconEmoji": "🛠️"
     },
     {
       "id": "findutils-photo-calendar",
@@ -179,8 +179,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "Photos are stored locally in your browser using IndexedDB. They never leave your device and are not uploaded to any server. Click or tap on any date in the calendar to open the file picker. On mobile, you can also take a photo with your camera. You can drag and drop photos onto dates from your desktop. Yes! Use the Download PDF button to get a print-ready A4 PDF of your calendar. The Download PNG button creates a high-resolution image.",
-      "icon": null,
-      "iconEmoji": "\ud83c\udfa8"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/photo-calendar.svg",
+      "iconEmoji": "🎨"
     },
     {
       "id": "findutils-sticker-maker",
@@ -198,8 +198,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "You can upload JPEG, PNG, WebP, GIF, and SVG images. The tool works best with square or nearly-square images. Yes! Download your sticker as a transparent PNG and import it into WhatsApp or Telegram sticker packs using their respective sticker maker apps. The stamp border creates a perforated edge effect like a postage stamp. It adds small semicircular cutouts along the border of your sticker.",
-      "icon": null,
-      "iconEmoji": "\ud83c\udfa8"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/sticker-maker.svg",
+      "iconEmoji": "🎨"
     },
     {
       "id": "findutils-image-to-puzzle",
@@ -217,8 +217,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "Drag puzzle pieces from the tray to the grid. Pieces snap into place when dropped near their correct position. In Hard mode, double-tap pieces to rotate them. Yes! Your puzzle is automatically saved. If you close the browser and come back, you can resume where you left off. Easy shows grid outlines and piece numbers. Medium shows only grid outlines. Hard has no outlines and pieces are randomly rotated.",
-      "icon": null,
-      "iconEmoji": "\ud83c\udfa8"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/image-to-puzzle.svg",
+      "iconEmoji": "🎨"
     },
     {
       "id": "findutils-lottie-editor",
@@ -236,8 +236,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "A Lottie animation is a JSON-based animation format created by Airbnb. Designers create animations in Adobe After Effects and export them using the Bodymovin plugin. The resulting JSON file can be rendered on web, iOS, and Android with small file sizes and perfect scalability. Skia is Google's 2D graphics library used in Chrome, Android, and Flutter. The CanvasKit WASM module includes Skottie, Google's native Lottie renderer. This gives you the same rendering quality as native mobile apps, wi...",
-      "icon": null,
-      "iconEmoji": "\ud83c\udfa8"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/lottie-editor.svg",
+      "iconEmoji": "🎨"
     },
     {
       "id": "findutils-css-animation-generator",
@@ -255,8 +255,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "You can animate transform properties (translate, rotate, scale, skew), opacity, border-radius, background-color, text color, and CSS filters (blur, brightness, contrast, saturate, hue-rotate). Add multiple properties to any keyframe. Click on the timeline to add keyframes, then select a keyframe and add properties using the property panel. Drag keyframes to reposition them on the timeline. Use the settings panel to adjust duration, easing, direction, and repeat count. Yes. Switch to the Tailw...",
-      "icon": null,
-      "iconEmoji": "\ud83c\udfa8"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/css-animation-generator.svg",
+      "iconEmoji": "🎨"
     },
     {
       "id": "findutils-svg-animation-generator",
@@ -274,8 +274,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "You can animate position (translate X/Y), rotation, scale, opacity, fill color, stroke color, stroke width, and element-specific attributes like radius, width, and height. Each element can have multiple animations running simultaneously. The tool includes easing presets based on Disney's animation principles: squash-stretch (overshoot), anticipation (pull back before action), follow-through (settle after motion), slow-in-slow-out (natural deceleration), and bounce. Yes. The shape library incl...",
-      "icon": null,
-      "iconEmoji": "\ud83c\udfa8"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/svg-animation-generator.svg",
+      "iconEmoji": "🎨"
     },
     {
       "id": "findutils-photo-editor",
@@ -669,7 +669,7 @@
       "homepage": "https://findutils.com/en/tools/json-to-pricing-table/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Each plan supports: name, price (number or string like 'Custom'), period, description, features array, cta (button text), highlighted (boolean), and badge (like 'Most Popular'). Add 'highlighted': true to the plan object. This will apply special styling to make it stand out. You can also add a 'badge' property for labels like 'Best Value'. Yes! Add a 'currency' property at the root level of your JSON. It defaults to '$' but you can use any currency symbol like '\u20ac', '\u00a3', or '\u00a5'.",
+      "longDescription": "Each plan supports: name, price (number or string like 'Custom'), period, description, features array, cta (button text), highlighted (boolean), and badge (like 'Most Popular'). Add 'highlighted': true to the plan object. This will apply special styling to make it stand out. You can also add a 'badge' property for labels like 'Best Value'. Yes! Add a 'currency' property at the root level of your JSON. It defaults to '$' but you can use any currency symbol like '€', '£', or '¥'.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/json-to-pricing-table.svg"
     },
     {
@@ -1141,8 +1141,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "No. The AI model runs entirely in your browser using WebGPU or WebAssembly. Your images never leave your device. We use MI-GAN (Mobile Image GAN), a lightweight neural network designed for fast image inpainting. The model is only 28 MB and runs in real-time on modern browsers. The AI model (~28 MB) needs to be downloaded once to your browser. It is cached in your browser's storage, so subsequent visits load instantly.",
-      "icon": null,
-      "iconEmoji": "\ud83c\udfa8"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/image-eraser.svg",
+      "iconEmoji": "🎨"
     },
     {
       "id": "findutils-image-converter",
@@ -1473,7 +1473,7 @@
       "homepage": "https://findutils.com/en/tools/percentage-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "To find X% of a number, multiply the number by X and divide by 100. For example, 20% of 150 is: 150 \u00d7 20 / 100 = 30. Our calculator does this automatically. Percentage increase = ((New Value - Original Value) / Original Value) x 100. For example, if price went from $50 to $60: ((60-50) / 50) x 100 = 20% increase. Percentage decrease = ((Original Value - New Value) / Original Value) x 100. For example, if price dropped from $100 to $75: ((100-75) / 100) x 100 = 25% decrease.",
+      "longDescription": "To find X% of a number, multiply the number by X and divide by 100. For example, 20% of 150 is: 150 × 20 / 100 = 30. Our calculator does this automatically. Percentage increase = ((New Value - Original Value) / Original Value) x 100. For example, if price went from $50 to $60: ((60-50) / 50) x 100 = 20% increase. Percentage decrease = ((Original Value - New Value) / Original Value) x 100. For example, if price dropped from $100 to $75: ((100-75) / 100) x 100 = 25% decrease.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/percentage-calculator.svg"
     },
     {
@@ -1529,7 +1529,7 @@
       "homepage": "https://findutils.com/en/tools/grade-calculator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Weighted grades are calculated by multiplying each category's percentage score by its weight, then summing all weighted scores. For example, if homework is worth 20% and you scored 85% on homework, it contributes 17 points (85% \u00d7 20%) to your final grade. This process is repeated for all categories, and the weighted scores are added together to determine your overall grade. The calculator will display a warning message if your category weights don't total 100%. For accurate grade calculations...",
+      "longDescription": "Weighted grades are calculated by multiplying each category's percentage score by its weight, then summing all weighted scores. For example, if homework is worth 20% and you scored 85% on homework, it contributes 17 points (85% × 20%) to your final grade. This process is repeated for all categories, and the weighted scores are added together to determine your overall grade. The calculator will display a warning message if your category weights don't total 100%. For accurate grade calculations...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/grade-calculator.svg"
     },
     {
@@ -2670,7 +2670,7 @@
       "homepage": "https://findutils.com/en/tools/attendance-sheet-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Yes, you can add as many students as needed. There's no limit on the number of entries. Print the sheet and mark each student's status daily using the symbols in the legend (\u2713 for present, \u2717 for absent, L for late, E for excused). Download the CSV and open it in Excel or Google Sheets. You can then fill in the cells and use formulas to calculate attendance rates.",
+      "longDescription": "Yes, you can add as many students as needed. There's no limit on the number of entries. Print the sheet and mark each student's status daily using the symbols in the legend (✓ for present, ✗ for absent, L for late, E for excused). Download the CSV and open it in Excel or Google Sheets. You can then fill in the cells and use formulas to calculate attendance rates.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/attendance-sheet-generator.svg"
     },
     {
@@ -3321,7 +3321,7 @@
       "homepage": "https://findutils.com/en/tools/dev-request-prioritizer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Priority Score = (Weighted Average of all dimension scores \u00d7 10) / \u221aEffort. This formula rewards high-value, low-effort items while still considering important high-effort projects. Yes! Go to the Settings tab to add, edit, or remove dimensions. You can also choose from pre-built frameworks like RICE, ICE, or WSJF. Quick Wins (top-left): High value, low effort - prioritize these. Big Bets (top-right): High value, high effort - plan carefully. Fill-ins (bottom-left): Low value, low effort - do...",
+      "longDescription": "Priority Score = (Weighted Average of all dimension scores × 10) / √Effort. This formula rewards high-value, low-effort items while still considering important high-effort projects. Yes! Go to the Settings tab to add, edit, or remove dimensions. You can also choose from pre-built frameworks like RICE, ICE, or WSJF. Quick Wins (top-left): High value, low effort - prioritize these. Big Bets (top-right): High value, high effort - plan carefully. Fill-ins (bottom-left): Low value, low effort - do...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/dev-request-prioritizer.svg"
     },
     {
@@ -4606,8 +4606,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "The Code Diff Checker supports 20+ languages including JavaScript, TypeScript, Python, Java, C#, C++, Go, Rust, Ruby, PHP, Swift, Kotlin, HTML, CSS, SQL, Shell/Bash, YAML, JSON, XML, and Markdown. Language selection helps with display but the diff algorithm works with any text-based code. No. All comparison happens locally in your browser. Your code never leaves your device, making this tool safe for proprietary and sensitive source code. Side-by-side view shows the original and modified code...",
-      "icon": null,
-      "iconEmoji": "\ud83d\udee0\ufe0f"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/code-diff-checker.svg",
+      "iconEmoji": "🛠️"
     },
     {
       "id": "findutils-json-comparer",
@@ -5567,7 +5567,7 @@
       "homepage": "https://findutils.com/en/tools/3d-vector-visualizer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "The cross product A \u00d7 B is a vector operation that produces a new vector perpendicular to both input vectors. Its magnitude equals |A| \u00d7 |B| \u00d7 sin(\u03b8), where \u03b8 is the angle between them. The direction follows the right-hand rule: point your fingers from A toward B, and your thumb points in the direction of A \u00d7 B. The dot product produces a scalar (single number) that measures alignment between vectors, while the cross product produces a new vector perpendicular to both inputs. The dot product ...",
+      "longDescription": "The cross product A × B is a vector operation that produces a new vector perpendicular to both input vectors. Its magnitude equals |A| × |B| × sin(θ), where θ is the angle between them. The direction follows the right-hand rule: point your fingers from A toward B, and your thumb points in the direction of A × B. The dot product produces a scalar (single number) that measures alignment between vectors, while the cross product produces a new vector perpendicular to both inputs. The dot product ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/3d-vector-visualizer.svg"
     },
     {
@@ -5904,8 +5904,8 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "PlantUML supports sequence, class, use case, activity, component, state, object, deployment, timing, and ER diagrams. Mermaid supports flowcharts, sequence, class, state, ER, Gantt, and pie charts. No. PlantUML diagrams are rendered via the PlantUML server. Mermaid diagrams render entirely in your browser. No downloads, plugins, or Java installation required. Yes. You can export diagrams as SVG (vector, scalable) or PNG (raster). You can also copy the diagram as a Markdown image link for use ...",
-      "icon": null,
-      "iconEmoji": "\ud83d\udee0\ufe0f"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/uml-diagram-editor.svg",
+      "iconEmoji": "🛠️"
     },
     {
       "id": "findutils-wvw-store-checker",
@@ -5923,8 +5923,8 @@
       "homepage": "https://findutils.com/en/tools/wvw-store-checker/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "icon": null,
-      "iconEmoji": "\ud83d\udee0\ufe0f"
+      "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/wvw-store-checker.svg",
+      "iconEmoji": "🛠️"
     }
   ]
 }
