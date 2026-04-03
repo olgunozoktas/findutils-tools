@@ -240,6 +240,44 @@
       "iconEmoji": "\ud83c\udfa8"
     },
     {
+      "id": "findutils-css-animation-generator",
+      "name": "CSS Animation Generator",
+      "subtitle": "Create custom CSS animations with a visual keyframe timeline editor.",
+      "description": "Create custom CSS animations with a visual keyframe timeline editor. Design animations with drag-and-drop keyframes, multi-property support, easing curves, live preview, and export as CSS, Tailwind...",
+      "category": [
+        "graphics-design",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/css-animation-generator/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "You can animate transform properties (translate, rotate, scale, skew), opacity, border-radius, background-color, text color, and CSS filters (blur, brightness, contrast, saturate, hue-rotate). Add multiple properties to any keyframe. Click on the timeline to add keyframes, then select a keyframe and add properties using the property panel. Drag keyframes to reposition them on the timeline. Use the settings panel to adjust duration, easing, direction, and repeat count. Yes. Switch to the Tailw...",
+      "icon": null,
+      "iconEmoji": "\ud83c\udfa8"
+    },
+    {
+      "id": "findutils-svg-animation-generator",
+      "name": "SVG Animation Generator",
+      "subtitle": "Create animated SVGs with a visual editor.",
+      "description": "Create animated SVGs with a visual editor. Build scenes with shapes, characters, and icons, then animate them with transforms, color shifts, and Disney-inspired easing curves. Export as animated SV...",
+      "category": [
+        "graphics-design",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/en/tools/svg-animation-generator/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "You can animate position (translate X/Y), rotation, scale, opacity, fill color, stroke color, stroke width, and element-specific attributes like radius, width, and height. Each element can have multiple animations running simultaneously. The tool includes easing presets based on Disney's animation principles: squash-stretch (overshoot), anticipation (pull back before action), follow-through (settle after motion), slow-in-slow-out (natural deceleration), and bounce. Yes. The shape library incl...",
+      "icon": null,
+      "iconEmoji": "\ud83c\udfa8"
+    },
+    {
       "id": "findutils-photo-editor",
       "name": "Photo Editor",
       "subtitle": "Create stunning images, memes, and social media graphics with our free online...",
