@@ -103,16 +103,16 @@ Quick-reference cards for Linux, Git, Docker, Kubernetes, JavaScript, Python, SQ
 
 ## Tool Categories
 
-- **[Productivity](https://findutils.com/en?categories=productivity&persona=everyone)** -- PDF editor, timers, mind maps, spreadsheets
-- **[Developer](https://findutils.com/en?categories=developer&persona=everyone)** -- JSON formatter, regex tester, JWT decoder, API tools
-- **[Financial](https://findutils.com/en?categories=financial&persona=everyone)** -- Loan, mortgage, investment, tax calculators
-- **[Converters](https://findutils.com/en?categories=converters&persona=everyone)** -- Image, video, audio, CSV, JSON, PDF format converters
-- **[Security](https://findutils.com/en?categories=security&persona=everyone)** -- Password generator, hash tools, encryption, SSL checker
-- **[Generators](https://findutils.com/en?categories=generators&persona=everyone)** -- QR codes, UUIDs, barcodes, lorem ipsum, signatures
-- **[Text Tools](https://findutils.com/en?categories=text&persona=everyone)** -- Word counter, case converter, diff checker
-- **[Design](https://findutils.com/en?categories=design&persona=everyone)** -- Color palettes, gradients, CSS generators, photo editors
-- **[Calculators](https://findutils.com/en?categories=calculators&persona=everyone)** -- BMI, percentage, date, GPA, scientific, and more
-- **[Mockups](https://findutils.com/en?categories=mockups&persona=everyone)** -- Device frames, browser mockups, screenshots
+- **[Productivity](https://findutils.com/en/categories/productivity/)** -- PDF editor, timers, mind maps, spreadsheets
+- **[Developer](https://findutils.com/en/categories/developer/)** -- JSON formatter, regex tester, JWT decoder, API tools
+- **[Financial](https://findutils.com/en/categories/financial/)** -- Loan, mortgage, investment, tax calculators
+- **[Converters](https://findutils.com/en/categories/converters/)** -- Image, video, audio, CSV, JSON, PDF format converters
+- **[Security](https://findutils.com/en/categories/security/)** -- Password generator, hash tools, encryption, SSL checker
+- **[Generators](https://findutils.com/en/categories/generators/)** -- QR codes, UUIDs, barcodes, lorem ipsum, signatures
+- **[Text Tools](https://findutils.com/en/categories/text_tools/)** -- Word counter, case converter, diff checker
+- **[Design](https://findutils.com/en/categories/design/)** -- Color palettes, gradients, CSS generators, photo editors
+- **[Calculators](https://findutils.com/en/categories/calculators/)** -- BMI, percentage, date, GPA, scientific, and more
+- **[Mockups](https://findutils.com/en/categories/mockups/)** -- Device frames, browser mockups, screenshots
 
 ## Emoji Search
 
