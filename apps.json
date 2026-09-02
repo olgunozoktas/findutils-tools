@@ -219,7 +219,7 @@
     {
       "id": "findutils-x402-config-generator",
       "name": "x402 Config Generator",
-      "subtitle": "Generate ready-to-use x402 payment middleware code for Express, Hono, Next.",
+      "subtitle": "Generate ready-to-use x402 payment middleware code for Express, Hono, Next.js...",
       "description": "Generate ready-to-use x402 payment middleware code for Express, Hono, Next.js, Fastify, Gin, FastAPI, and Flask. Configure routes, pricing, networks, and get copy-paste code for servers and clients.",
       "category": [
         "utilities",
@@ -371,7 +371,7 @@
     {
       "id": "findutils-yolobox-configurator",
       "name": "Yolobox Configurator",
-      "subtitle": "Generate.",
+      "subtitle": "Generate.yolobox.toml configuration files and CLI commands for yolobox, the c...",
       "description": "Generate.yolobox.toml configuration files and CLI commands for yolobox, the container sandbox that lets AI coding agents run with full permissions while keeping your home directory safe.",
       "category": [
         "utilities",
@@ -1030,7 +1030,7 @@
     {
       "id": "findutils-json-to-readme",
       "name": "JSON to README",
-      "subtitle": "Generate professional README.",
+      "subtitle": "Generate professional README.md files from JSON data.",
       "description": "Generate professional README.md files from JSON data. Perfect for GitHub projects, npm packages, and open source documentation. Download as Markdown file.",
       "category": [
         "utilities",
@@ -1337,7 +1337,7 @@
     {
       "id": "findutils-heic-to-jpg",
       "name": "HEIC to JPG",
-      "subtitle": "Convert .",
+      "subtitle": "Convert .heic iPhone photos to JPG, PNG, or WebP in your browser.",
       "description": "Convert .heic iPhone photos to JPG, PNG, or WebP in your browser. The photos are decoded on your device and never uploaded. Drop a batch, download a zip.",
       "category": [
         "utilities",
@@ -2714,7 +2714,7 @@
     {
       "id": "findutils-sql-to-csv",
       "name": "SQL to CSV",
-      "subtitle": "Paste INSERT statements or drop a .",
+      "subtitle": "Paste INSERT statements or drop a .sql dump and get a CSV per table.",
       "description": "Paste INSERT statements or drop a .sql dump and get a CSV per table. Reads mysqldump, pg_dump and SQLite exports as text in your browser. No database to restore, no upload.",
       "category": [
         "utilities",
@@ -2828,7 +2828,7 @@
     {
       "id": "findutils-srt-to-vtt",
       "name": "SRT to VTT",
-      "subtitle": "Convert .",
+      "subtitle": "Convert .srt captions to .vtt for HTML5 video, and back again.",
       "description": "Convert .srt captions to .vtt for HTML5 video, and back again. Direction is detected from the file, timestamps are normalized, and nothing is uploaded.",
       "category": [
         "utilities",
@@ -2847,7 +2847,7 @@
     {
       "id": "findutils-ass-to-srt",
       "name": "ASS to SRT",
-      "subtitle": "Drop an .",
+      "subtitle": "Drop an .ass or .ssa subtitle script and download a plain .srt that players a...",
       "description": "Drop an .ass or .ssa subtitle script and download a plain .srt that players and upload forms accept. Override tags are stripped, timing is kept, and nothing is uploaded.",
       "category": [
         "utilities",
@@ -2885,7 +2885,7 @@
     {
       "id": "findutils-docx-to-markdown",
       "name": "DOCX to Markdown",
-      "subtitle": "Drop a Word .",
+      "subtitle": "Drop a Word .docx and get clean Markdown for a README, a wiki page or a site.",
       "description": "Drop a Word .docx and get clean Markdown for a README, a wiki page or a site. Headings, lists, links, tables and emphasis are kept; fonts and layout are not. Nothing is uploaded.",
       "category": [
         "utilities",
@@ -4046,7 +4046,7 @@
     {
       "id": "findutils-self-employment-tax-calculator",
       "name": "Self-Employment Tax Calculator",
-      "subtitle": "Calculate self-employment tax (15.",
+      "subtitle": "Calculate self-employment tax (15.3% SE tax), Social Security, Medicare, and ...",
       "description": "Calculate self-employment tax (15.3% SE tax), Social Security, Medicare, and quarterly estimated payments. Essential for freelancers, independent contractors, gig workers, and sole proprietors.",
       "category": [
         "utilities",
@@ -4245,7 +4245,7 @@
     {
       "id": "findutils-robots-txt-generator",
       "name": "Robots.txt Generator",
-      "subtitle": "Generate a valid robots.",
+      "subtitle": "Generate a valid robots.txt file for your website.",
       "description": "Generate a valid robots.txt file for your website. Configure crawler access, add sitemaps, and optimize for search engines. Includes presets for WordPress, e-commerce, and more.",
       "category": [
         "utilities",
@@ -4281,7 +4281,7 @@
     {
       "id": "findutils-body-fat-calculator",
       "name": "Body Fat Calculator",
-      "subtitle": "Calculate your body fat percentage using the U.",
+      "subtitle": "Calculate your body fat percentage using the U.S.",
       "description": "Calculate your body fat percentage using the U.S. Navy method or BMI estimation. Get accurate results with fat mass, lean mass, and body composition analysis.",
       "category": [
         "utilities",
@@ -5092,7 +5092,7 @@
     {
       "id": "findutils-curl-to-code",
       "name": "cURL to Code Converter",
-      "subtitle": "Convert cURL commands to code in JavaScript, Python, PHP, Go, Ruby, and Node.",
+      "subtitle": "Convert cURL commands to code in JavaScript, Python, PHP, Go, Ruby, and Node.js.",
       "description": "Convert cURL commands to code in JavaScript, Python, PHP, Go, Ruby, and Node.js. Easily transform API requests to your preferred programming language.",
       "category": [
         "utilities",
@@ -5164,7 +5164,7 @@
     {
       "id": "findutils-json-ld-generator",
       "name": "JSON-LD Schema Generator",
-      "subtitle": "Generate schema.",
+      "subtitle": "Generate schema.org structured data as JSON-LD for 14 types: Article, Product...",
       "description": "Generate schema.org structured data as JSON-LD for 14 types: Article, Product, Organization, LocalBusiness, Person, Event, FAQPage, HowTo, Recipe, WebSite, BreadcrumbList, JobPosting, Course, and B...",
       "category": [
         "utilities",
@@ -5200,7 +5200,7 @@
     {
       "id": "findutils-openapi-validator",
       "name": "OpenAPI structure check",
-      "subtitle": "Check required OAS 3.",
+      "subtitle": "Check required OAS 3.0 object shape: openapi, info, and paths.",
       "description": "Check required OAS 3.0 object shape: openapi, info, and paths. This is not Spectral, Redocly, $ref resolution, or OAS 3.1 security-scheme rules.",
       "category": [
         "utilities",
@@ -5254,7 +5254,7 @@
     {
       "id": "findutils-swagger-to-openapi",
       "name": "Swagger to OpenAPI Converter",
-      "subtitle": "Convert Swagger 2.",
+      "subtitle": "Convert Swagger 2.0 specifications to OpenAPI 3.0.",
       "description": "Convert Swagger 2.0 specifications to OpenAPI 3.0. Upgrade your legacy API documentation to the latest standard with automatic schema migration.",
       "category": [
         "utilities",
@@ -5542,7 +5542,7 @@
     {
       "id": "findutils-pptx-to-pdf-converter",
       "name": "PPTX to PDF Converter",
-      "subtitle": "Convert PowerPoint presentations (.",
+      "subtitle": "Convert PowerPoint presentations (.pptx) to PDF documents or images (PNG, JPG...",
       "description": "Convert PowerPoint presentations (.pptx) to PDF documents or images (PNG, JPG, WEBP) directly in your browser. No upload required - your files stay private on your device.",
       "category": [
         "utilities",
@@ -5560,7 +5560,7 @@
     {
       "id": "findutils-pptx-viewer",
       "name": "PPTX Viewer",
-      "subtitle": "View PowerPoint presentations (.",
+      "subtitle": "View PowerPoint presentations (.pptx) directly in your browser without instal...",
       "description": "View PowerPoint presentations (.pptx) directly in your browser without installing any software. No upload required - your files stay private on your device.",
       "category": [
         "productivity",
@@ -5578,7 +5578,7 @@
     {
       "id": "findutils-word-to-pdf",
       "name": "Word to PDF Converter",
-      "subtitle": "Convert Word documents (.",
+      "subtitle": "Convert Word documents (.docx) to PDF instantly.",
       "description": "Convert Word documents (.docx) to PDF instantly. Upload multiple files, convert them all to PDF, and download as a ZIP archive. Fast, and completely private.",
       "category": [
         "utilities",
@@ -5650,7 +5650,7 @@
     {
       "id": "findutils-e164-validator",
       "name": "E.164 Phone Number Validator",
-      "subtitle": "Validate and convert phone numbers to E.",
+      "subtitle": "Validate and convert phone numbers to E.164 international format.",
       "description": "Validate and convert phone numbers to E.164 international format. Check compliance with ITU-T E.164 standard, view country codes, national numbers, and export in multiple formats. Supports batch va...",
       "category": [
         "utilities",
@@ -5796,7 +5796,7 @@
     {
       "id": "findutils-markdown-to-word",
       "name": "Markdown to Word",
-      "subtitle": "Convert Markdown to Word (.",
+      "subtitle": "Convert Markdown to Word (.docx) documents with custom styling.",
       "description": "Convert Markdown to Word (.docx) documents with custom styling. Set background colors, headers, header images, fonts, and margins. Download professional documents instantly - all processing in your...",
       "category": [
         "utilities",
@@ -6282,7 +6282,7 @@
     {
       "id": "findutils-windows-update-settings-generator",
       "name": "Windows Update Settings Generator",
-      "subtitle": "Generate.",
+      "subtitle": "Generate.reg files, PowerShell scripts, and batch files to control Windows Up...",
       "description": "Generate.reg files, PowerShell scripts, and batch files to control Windows Update behavior. Disable auto-updates, block restarts, manage driver updates. 100% client-side, no data collected.",
       "category": [
         "utilities",
@@ -6301,7 +6301,7 @@
     {
       "id": "findutils-uml-diagram-editor",
       "name": "UML Diagram Editor",
-      "subtitle": "Create UML diagrams with a live editor supporting both PlantUML and Mermaid.",
+      "subtitle": "Create UML diagrams with a live editor supporting both PlantUML and Mermaid.j...",
       "description": "Create UML diagrams with a live editor supporting both PlantUML and Mermaid.js syntax. Instantly preview sequence, class, activity, state, ER, and flowchart diagrams. Export as SVG or PNG.",
       "category": [
         "utilities",
@@ -6320,7 +6320,7 @@
     {
       "id": "findutils-wvw-store-checker",
       "name": "WVW Store Checker",
-      "subtitle": "Check if your apps.",
+      "subtitle": "Check if your apps.json is synced with the World Vibe Web (WVW) aggregated ap...",
       "description": "Check if your apps.json is synced with the World Vibe Web (WVW) aggregated app store. Compare listings, detect missing apps, and see the next build countdown.",
       "category": [
         "utilities",
@@ -6605,7 +6605,7 @@
     {
       "id": "findutils-structured-data-tester",
       "name": "Structured Data Tester",
-      "subtitle": "Validate JSON-LD structured data and Schema.",
+      "subtitle": "Validate JSON-LD structured data and Schema.org markup.",
       "description": "Validate JSON-LD structured data and Schema.org markup. Check required and recommended properties, rich result eligibility, and syntax errors. alternative to Google Rich Results Test.",
       "category": [
         "utilities",
@@ -6662,7 +6662,7 @@
     {
       "id": "findutils-env-linter",
       "name": "Env Linter",
-      "subtitle": "Lint .",
+      "subtitle": "Lint .env text for duplicate keys, invalid names, unquoted spaces, export pre...",
       "description": "Lint .env text for duplicate keys, invalid names, unquoted spaces, export prefixes, masked secret candidates, and drift against .env.example in your browser.",
       "category": [
         "utilities",
