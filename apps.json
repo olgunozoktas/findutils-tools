@@ -2902,6 +2902,44 @@
       "iconEmoji": "\ud83d\udce6"
     },
     {
+      "id": "findutils-ics-to-csv",
+      "name": "ICS to CSV",
+      "subtitle": "Turn a Google Calendar, Apple Calendar or Outlook .ics export into a CSV with...",
+      "description": "Turn a Google Calendar, Apple Calendar or Outlook .ics export into a CSV with one row per event. Times stay exactly as the file states them, recurrence rules are kept as text, and nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/ics-to-csv/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Google Calendar: open Settings, choose Import & export, and click Export; you get a zip with one .ics per calendar. Apple Calendar: select the calendar and choose File > Export > Export. Outlook desktop: File > Save Calendar, and choose the date range and detail level in the More Options dialog. Outlook on the web: Settings > Calendar > Shared calendars > Publish a calendar gives an ICS link you can download. No. Each time is written exactly as the file states it, and the timezone column name...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
+    },
+    {
+      "id": "findutils-csv-to-ics",
+      "name": "CSV to ICS",
+      "subtitle": "Turn a spreadsheet of events into an .ics file that Google Calendar, Apple Ca...",
+      "description": "Turn a spreadsheet of events into an .ics file that Google Calendar, Apple Calendar and Outlook import. Columns are matched by name, each row needs a title and a start, and nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/csv-to-ics/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Title: Subject, Title, Summary, Event or Name. Start: Start Date, Start, Date or Begin. Start time: Start Time or Time. End: End Date, End, Until or To. End time: End Time. All day: All Day Event or All Day. Description: Description, Notes, Details or Body. Location: Location, Place, Where or Venue. Also Private, UID, URL, Categories and Time Zone. Matching ignores case, spaces and punctuation. If the header uses other names, the column map lets you pick each column. No. A timed row with no e...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
+    },
+    {
       "id": "findutils-json-to-csv",
       "name": "JSON CSV Converter",
       "subtitle": "Convert JSON to CSV and CSV to JSON online, both directions on one page.",
