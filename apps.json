@@ -2940,6 +2940,63 @@
       "iconEmoji": "\ud83d\udce6"
     },
     {
+      "id": "findutils-bookmarks-html-to-csv",
+      "name": "Bookmarks HTML to CSV",
+      "subtitle": "Turn a Chrome, Firefox, Edge or Safari bookmarks.html export into a CSV with ...",
+      "description": "Turn a Chrome, Firefox, Edge or Safari bookmarks.html export into a CSV with one row per link, carrying the folder path, the title and the date it was saved. Nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/bookmarks-html-to-csv/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Chrome and Edge: open the bookmark manager with Ctrl+Shift+O or Cmd+Option+B, click the three-dot menu at the top right, and choose Export bookmarks. Firefox: press Ctrl+Shift+O, open the Import and Backup menu, and choose Export Bookmarks to HTML. Safari: File, then Export, then Bookmarks. Brave, Vivaldi and Opera all follow Chrome's menu. Each writes the same Netscape format this page reads. All of them, because they all export the same format. The differences are cosmetic: Firefox adds a d...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
+    },
+    {
+      "id": "findutils-csv-to-bookmarks-html",
+      "name": "CSV to Bookmarks HTML",
+      "subtitle": "Turn a spreadsheet of links into a bookmarks.html file that Chrome, Firefox, ...",
+      "description": "Turn a spreadsheet of links into a bookmarks.html file that Chrome, Firefox, Edge and Safari import. Folder paths become real folders. Nothing is uploaded.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/csv-to-bookmarks-html/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "One: the address. Name it url, href, link or address and it is found automatically. A title column named title, name or label and a folder column named folder, folder_path or path are optional but usually worth having. An add_date column is read when it holds an ISO date or a unix timestamp. Matching ignores case, spaces and punctuation, so folder_path and Folder Path are the same name. Chrome and Edge: open the bookmark manager with Ctrl+Shift+O or Cmd+Option+B, then the three-dot menu, then...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
+    },
+    {
+      "id": "findutils-vcf-to-csv",
+      "name": "VCF to CSV",
+      "subtitle": "Turn an iPhone, Android, Gmail or Outlook .vcf contacts export into a CSV wit...",
+      "description": "Turn an iPhone, Android, Gmail or Outlook .vcf contacts export into a CSV with one row per contact. Names, phones, emails and addresses in their own columns. Photos are left out and nothing is uplo...",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/convert/vcf-to-csv/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "iPhone: the simplest whole-book route is iCloud.com, Contacts, select all, then the gear menu and Export vCard. Android: Contacts app, Settings, then Export to .vcf file. Gmail: Google Contacts, Export, and choose the vCard option. Outlook desktop: select the contacts in the People view, then File and Save As, or use Import/Export for the whole folder. All of them produce the multi-card file this page reads. Yes. A .vcf export is one file holding one card after another, and every card in it i...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
+    },
+    {
       "id": "findutils-json-to-csv",
       "name": "JSON CSV Converter",
       "subtitle": "Convert JSON to CSV and CSV to JSON online, both directions on one page.",
