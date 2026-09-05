@@ -4213,8 +4213,8 @@
     {
       "id": "findutils-markdown-table-generator",
       "name": "Markdown Table Generator",
-      "subtitle": "Create beautiful markdown tables visually with our drag-and-drop editor.",
-      "description": "Create beautiful markdown tables visually with our drag-and-drop editor. Import from CSV, JSON, or Excel and export GitHub-flavored markdown instantly. Perfect for README files and documentation.",
+      "subtitle": "Build GitHub-flavored Markdown tables in a visual editor.",
+      "description": "Build GitHub-flavored Markdown tables in a visual editor. Paste or upload CSV, TSV, or JSON, set the column alignment, and copy the result for README files and documentation.",
       "category": [
         "utilities",
         "web"
@@ -5851,6 +5851,25 @@
       "requirements": "Any modern browser",
       "longDescription": "When case sensitivity is off, 'Hello' and 'hello' are treated as duplicates. The first (or last) occurrence is kept with its original casing. It removes leading and trailing spaces from each line before comparing. Lines like ' hello ' and 'hello' would be treated as duplicates. Yes, toggle 'Show Duplicates Only' to see all the lines that were removed as duplicates.",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/duplicate-line-remover.svg"
+    },
+    {
+      "id": "findutils-whitespace-cleaner",
+      "name": "Whitespace Cleaner",
+      "subtitle": "Clean up whitespace in pasted text.",
+      "description": "Clean up whitespace in pasted text. Trim the ends, collapse runs of spaces and tabs, remove blank lines, and normalize Windows line endings. Runs in your browser, no signup.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/text/whitespace-cleaner/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "It applies up to four fixes, and each one is a toggle. Trim removes whitespace before the first character and after the last one. Collapse spaces turns every run of spaces and tabs inside a line into one space. Remove blank lines drops lines that hold only whitespace. Normalize line endings converts CRLF and CR to LF. It does not change letters, punctuation, or the order of your lines. Yes, when Collapse spaces is on. That option turns leading tabs and spaces on each line into one space, whic...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
     },
     {
       "id": "findutils-emoji-finder",
