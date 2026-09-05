@@ -2131,8 +2131,8 @@
     {
       "id": "findutils-tone-analyzer",
       "name": "Tone Analyzer",
-      "subtitle": "Analyze the tone and sentiment of your text.",
-      "description": "Analyze the tone and sentiment of your text. Detect emotions like joy, sadness, anger, and confidence. Perfect for improving your writing's emotional impact.",
+      "subtitle": "Score the tone and sentiment of your text with an English keyword lexicon.",
+      "description": "Score the tone and sentiment of your text with an English keyword lexicon. Flags signals of joy, sadness, anger, fear, confidence, and formality. No AI model, runs in your browser.",
       "category": [
         "utilities",
         "web"
@@ -2622,8 +2622,8 @@
     {
       "id": "findutils-reading-time-estimator",
       "name": "Reading Time Estimator",
-      "subtitle": "Estimate reading and speaking time for any text online.",
-      "description": "Estimate reading and speaking time for any text online. Analyze word count, sentence structure, and difficulty level. no signup required.",
+      "subtitle": "Estimate reading and speaking time for any text at slow, average, or fast wor...",
+      "description": "Estimate reading and speaking time for any text at slow, average, or fast words per minute. See word count, sentence length, and difficulty. No signup required.",
       "category": [
         "utilities",
         "web"
@@ -4231,8 +4231,8 @@
     {
       "id": "findutils-text-line-sorter",
       "name": "Text Line Sorter & Duplicate Remover",
-      "subtitle": "Sort text lines alphabetically, by length, or numerically.",
-      "description": "Sort text lines alphabetically, by length, or numerically. Remove duplicate lines, trim whitespace, and clean up your text data instantly.",
+      "subtitle": "Sort text lines alphabetically, by length, numerically, reversed, or shuffled.",
+      "description": "Sort text lines alphabetically, by length, numerically, reversed, or shuffled. Optional trim and dedupe while you sort. Runs in your browser, no signup.",
       "category": [
         "utilities",
         "web"
@@ -5868,6 +5868,44 @@
       "language": "TypeScript",
       "requirements": "Any modern browser",
       "longDescription": "It applies up to four fixes, and each one is a toggle. Trim removes whitespace before the first character and after the last one. Collapse spaces turns every run of spaces and tabs inside a line into one space. Remove blank lines drops lines that hold only whitespace. Normalize line endings converts CRLF and CR to LF. It does not change letters, punctuation, or the order of your lines. Yes, when Collapse spaces is on. That option turns leading tabs and spaces on each line into one space, whic...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
+    },
+    {
+      "id": "findutils-html-stripper",
+      "name": "HTML Tag Stripper",
+      "subtitle": "Remove every HTML tag from pasted markup and keep the text.",
+      "description": "Remove every HTML tag from pasted markup and keep the text. Block tags become line breaks, and common entities are decoded. Runs in your browser, no signup.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/text/html-stripper/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "It keeps the text. It removes every tag, including script and style tags, and the attributes inside them. A paragraph, heading, list item, table row, block quote, div, or line break tag becomes a new line, so a list stays one item per line. Inline tags such as bold, italic, span, and link are dropped and their text stays where it was. The six common ones: &amp;amp;, &amp;lt;, &amp;gt;, &amp;quot;, &amp;#39;, and &amp;nbsp;. Numeric entities for other characters, such as accented letters or sy...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
+    },
+    {
+      "id": "findutils-line-prefix-suffix",
+      "name": "Line Prefix & Suffix",
+      "subtitle": "Add a prefix, a suffix, or line numbers to every line of a text.",
+      "description": "Add a prefix, a suffix, or line numbers to every line of a text. Start at any number, step by any amount, pad with zeros, and skip blank lines. Runs in your browser, no signup.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/text/line-prefix-suffix/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "The line number comes first, then the prefix, then the original line, then the suffix. With a prefix of \"- \" and numbering on, a line reads \"1. - item\". Turn numbering off when you want only the bullet. Edit the Number format field. The placeholder {n} is replaced by the number, and the rest is kept as typed. \"{n}. \" gives \"1. \", \"{n}) \" gives \"1) \", \"[{n}] \" gives \"[1] \", and \"{n}\\t\" puts a tab after the number. Yes. Start at accepts any whole number, including zero and negative values. Step...",
       "icon": null,
       "iconEmoji": "\ud83d\udce6"
     },
