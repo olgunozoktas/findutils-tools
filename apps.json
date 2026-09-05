@@ -1771,8 +1771,8 @@
     {
       "id": "findutils-random-picker",
       "name": "Random Picker",
-      "subtitle": "Generate random numbers, pick items from a list, or create random teams for g...",
-      "description": "Generate random numbers, pick items from a list, or create random teams for groups. online random selector with customizable options and fair results.",
+      "subtitle": "Generate random numbers in a range, pick items from a list, or split a group ...",
+      "description": "Generate random numbers in a range, pick items from a list, or split a group into balanced teams. Crypto-random and fair, with duplicates and ranges under your control. For raffle winners with a hi...",
       "category": [
         "utilities",
         "web"
@@ -2075,6 +2075,25 @@
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/date-difference-calculator.svg"
     },
     {
+      "id": "findutils-vcard-generator",
+      "name": "vCard Generator",
+      "subtitle": "Create a vCard (.vcf) contact file from a name, organisation, emails, phones,...",
+      "description": "Create a vCard (.vcf) contact file from a name, organisation, emails, phones, address, website, note, and birthday. vCard 3.0 for iPhone, Android, Gmail, and Outlook, or 4.0. Runs in your browser, ...",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/generate/vcard-generator/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Choose 3.0 unless a tool asks for 4.0. iOS Contacts, Android, Google Contacts, and Outlook all import vCard 3.0. Version 4.0 is the newer RFC 6350 format and some importers still handle it less well. Download the .vcf and open it on the phone: send it to yourself by email or AirDrop, or open it from the Files app. The phone shows a contact preview with an Add button. On Android, Google Contacts also imports .vcf files from its Import menu. Yes. Separate them with commas in the Emails and Phon...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
+    },
+    {
       "id": "findutils-signature-generator",
       "name": "Signature Generator",
       "subtitle": "Create a digital signature online by typing your name in a handwriting font o...",
@@ -2149,8 +2168,8 @@
     {
       "id": "findutils-hashtag-generator",
       "name": "Hashtag Generator",
-      "subtitle": "Generate relevant and trending hashtags for Instagram, Twitter, TikTok, and o...",
-      "description": "Generate relevant and trending hashtags for Instagram, Twitter, TikTok, and other social media platforms. Boost your reach and engagement with optimized hashtags.",
+      "subtitle": "Generate relevant hashtags for Instagram, X, TikTok, and other platforms from...",
+      "description": "Generate relevant hashtags for Instagram, X, TikTok, and other platforms from a built-in keyword database. Rule-based, no live trend data and no AI, so the list is instant and runs in your browser.",
       "category": [
         "utilities",
         "web"
@@ -3053,8 +3072,8 @@
     {
       "id": "findutils-placeholder-image-generator",
       "name": "Placeholder Image Generator",
-      "subtitle": "Generate custom placeholder images with any dimensions, colors, and text.",
-      "description": "Generate custom placeholder images with any dimensions, colors, and text. Download as PNG, JPG, or WebP. instant, no external requests.",
+      "subtitle": "Generate placeholder images at any size with your colors and text.",
+      "description": "Generate placeholder images at any size with your colors and text. Download as PNG, JPG, or WebP. Rendered in your browser with no external requests, so there is no rate limit and no downtime.",
       "category": [
         "utilities",
         "web"
@@ -3089,8 +3108,8 @@
     {
       "id": "findutils-random-name-picker",
       "name": "Random Name Picker",
-      "subtitle": "Pick random names from your list instantly.",
-      "description": "Pick random names from your list instantly. online name picker for raffles, giveaways, classrooms, and team selection. No signup required.",
+      "subtitle": "Pick a winner from a pasted list of names for a raffle, a giveaway, or a clas...",
+      "description": "Pick a winner from a pasted list of names for a raffle, a giveaway, or a classroom draw, with a winner history. Crypto-random and fair. Runs in your browser, no signup required.",
       "category": [
         "utilities",
         "web"
@@ -5529,8 +5548,8 @@
     {
       "id": "findutils-social-media-bio-generator",
       "name": "Social Media Bio Generator",
-      "subtitle": "Create compelling bios for Instagram, Twitter, TikTok, LinkedIn, and YouTube.",
-      "description": "Create compelling bios for Instagram, Twitter, TikTok, LinkedIn, and YouTube. Craft the perfect profile description that represents your brand.",
+      "subtitle": "Build a profile bio for Instagram, X, TikTok, LinkedIn, or YouTube from templ...",
+      "description": "Build a profile bio for Instagram, X, TikTok, LinkedIn, or YouTube from templates, within each platform's character limit. No AI model: you supply the facts and pick the style, and the text is asse...",
       "category": [
         "utilities",
         "web"
@@ -5547,8 +5566,8 @@
     {
       "id": "findutils-caption-generator",
       "name": "Caption Generator",
-      "subtitle": "Generate engaging captions for Instagram, TikTok, Facebook, and Twitter.",
-      "description": "Generate engaging captions for Instagram, TikTok, Facebook, and Twitter. Create viral-worthy content with hashtags and calls-to-action.",
+      "subtitle": "Build captions for Instagram, TikTok, Facebook, and X from templates in five ...",
+      "description": "Build captions for Instagram, TikTok, Facebook, and X from templates in five tones, with hashtags and a call to action. No AI model: you pick the tone and the keywords, and the text is assembled in...",
       "category": [
         "utilities",
         "web"
