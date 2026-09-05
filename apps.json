@@ -1464,8 +1464,8 @@
     {
       "id": "findutils-uuid-generator",
       "name": "UUID Generator",
-      "subtitle": "Generate UUIDs instantly in your browser.",
-      "description": "Generate UUIDs instantly in your browser. Create v1, v4, or nil UUIDs in bulk for databases, APIs, and distributed systems. no signup required.",
+      "subtitle": "Generate UUIDs in your browser.",
+      "description": "Generate UUIDs in your browser. Create random v4, time-ordered v7, time-based v1, or nil UUIDs in batches of up to 100 for databases, APIs, and distributed systems. No signup required.",
       "category": [
         "utilities",
         "web"
@@ -2077,8 +2077,8 @@
     {
       "id": "findutils-signature-generator",
       "name": "Signature Generator",
-      "subtitle": "Create digital signatures online by typing, drawing, or uploading.",
-      "description": "Create digital signatures online by typing, drawing, or uploading. Customize fonts and colors, then download your signature as a PNG image.",
+      "subtitle": "Create a digital signature online by typing your name in a handwriting font o...",
+      "description": "Create a digital signature online by typing your name in a handwriting font or drawing it with a mouse or finger. Pick the color, then download a PNG with a transparent background.",
       "category": [
         "utilities",
         "web"
@@ -2089,7 +2089,7 @@
       "homepage": "https://findutils.com/generate/signature-generator/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Digital signatures created here can be used for informal documents. For legally binding documents, check your local laws regarding electronic signatures. In many jurisdictions, a typed or drawn signature image is acceptable for basic agreements, but high-stakes contracts may require a certified e-signature service with audit trails. Signatures are downloaded as PNG images with a transparent background by default, making them easy to overlay on any document. PNG is supported by virtually all w...",
+      "longDescription": "Digital signatures created here can be used for informal documents. For legally binding documents, check your local laws regarding electronic signatures. In many jurisdictions, a typed or drawn signature image is acceptable for basic agreements, but high-stakes contracts may require a certified e-signature service with audit trails. Signatures are downloaded as PNG images with a transparent background by default, so they sit cleanly on any document. Uncheck Transparent background before you d...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/signature-generator.svg"
     },
     {
@@ -3035,8 +3035,8 @@
     {
       "id": "findutils-barcode-generator",
       "name": "Barcode Generator",
-      "subtitle": "Generate Code 128, Code 39, EAN, and UPC barcodes online.",
-      "description": "Generate Code 128, Code 39, EAN, and UPC barcodes online. Customize bar width, height, and colors, then download as PNG or SVG instantly.",
+      "subtitle": "Generate Code 128, Code 39, EAN-13, EAN-8, and UPC-A barcodes in your browser.",
+      "description": "Generate Code 128, Code 39, EAN-13, EAN-8, and UPC-A barcodes in your browser. The retail formats compute the check digit for you. Set bar width, height, and colors, then download as PNG or SVG.",
       "category": [
         "utilities",
         "web"
