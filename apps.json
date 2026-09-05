@@ -4,7 +4,7 @@
     "name": "FindUtils",
     "developer": "Olgun \u00d6zokta\u015f",
     "tagline": "Free online tools for everyday tasks - calculators, converters, generators, and developer utilities.",
-    "url": "https://x.com/codewitholgun",
+    "url": "https://x.com/olgunozoktas",
     "github": "https://github.com/olgunozoktas"
   },
   "featured": [
@@ -258,7 +258,7 @@
       "id": "findutils-markdown-table-to-image",
       "name": "Markdown Table to Image",
       "subtitle": "Paste a markdown table, render a styled HTML table, download as PNG.",
-      "description": "Paste a markdown table, render a styled HTML table, download as PNG. no signup. Runs entirely in your browser.",
+      "description": "Paste a markdown table, render a styled HTML table, download as PNG. No signup. Runs entirely in your browser.",
       "category": [
         "utilities",
         "web"
@@ -277,7 +277,7 @@
       "id": "findutils-github-dev-card",
       "name": "GitHub Dev Card",
       "subtitle": "Type a GitHub username, rip open a card pack, and get a FIFA-style dev card r...",
-      "description": "Type a GitHub username, rip open a card pack, and get a FIFA-style dev card rated out of 99 - plus a roast, archetype, commit clock, and five more shareable readings. no login.",
+      "description": "Type a GitHub username, rip open a card pack, and get a FIFA-style dev card rated out of 99 - plus a roast, archetype, commit clock, and five more shareable readings. No login.",
       "category": [
         "utilities",
         "web"
@@ -743,7 +743,7 @@
       "id": "findutils-json-to-tailwind-form",
       "name": "JSON to Tailwind Form",
       "subtitle": "Paste a JSON schema, get production-ready Tailwind CSS form code in seconds.",
-      "description": "Paste a JSON schema, get production-ready Tailwind CSS form code in seconds. no signup, runs in your browser - copy clean React JSX instantly.",
+      "description": "Paste a JSON schema, get production-ready Tailwind CSS form code in seconds. No signup, runs in your browser. Copy clean React JSX instantly.",
       "category": [
         "utilities",
         "web"
@@ -1375,7 +1375,7 @@
       "id": "findutils-unix-timestamp",
       "name": "Unix Timestamp Converter",
       "subtitle": "Convert Unix timestamps to human-readable dates and vice versa.",
-      "description": "Convert Unix timestamps to human-readable dates and vice versa. Supports seconds and milliseconds. online epoch converter for developers.",
+      "description": "Convert Unix timestamps to human-readable dates and vice versa. Supports seconds and milliseconds. An epoch converter for developers, in your browser.",
       "category": [
         "utilities",
         "web"
@@ -1520,7 +1520,7 @@
       "id": "findutils-css-minifier",
       "name": "CSS Minifier & Beautifier",
       "subtitle": "Minify CSS for production or beautify compressed code for readability.",
-      "description": "Minify CSS for production or beautify compressed code for readability. Reduce file size by 20-50% and improve page load times. online.",
+      "description": "Minify CSS for production or beautify compressed code for readability. Reduce file size by 20-50% and improve page load times. Runs in your browser.",
       "category": [
         "utilities",
         "web"
@@ -1537,8 +1537,8 @@
     {
       "id": "findutils-sql-formatter",
       "name": "SQL Formatter & Beautifier",
-      "subtitle": "Format and beautify SQL queries online.",
-      "description": "Format and beautify SQL queries online. Supports MySQL, PostgreSQL, SQLite, and T-SQL. Minify or indent with one click - no signup.",
+      "subtitle": "Format and beautify SQL queries in your browser.",
+      "description": "Format and beautify SQL queries in your browser. Standard SQL, MySQL, PostgreSQL, and SQLite keyword sets. Minify or indent with one click, no signup.",
       "category": [
         "utilities",
         "web"
@@ -1549,7 +1549,7 @@
       "homepage": "https://findutils.com/developers/sql-formatter/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Our formatter supports standard SQL, MySQL, PostgreSQL, SQL Server (T-SQL), Oracle PL/SQL, and SQLite. Select your database type for optimal formatting. No, formatting only affects whitespace, line breaks, and indentation. Your query logic and results remain exactly the same. Most style guides recommend UPPERCASE for SQL keywords (SELECT, FROM, WHERE) and lowercase for table/column names. Our tool lets you choose your preferred style.",
+      "longDescription": "Four: standard SQL, MySQL, PostgreSQL, and SQLite. The dialect adds that database's keywords to the uppercase list and, for PostgreSQL, breaks RETURNING and LATERAL onto their own lines. There is no T-SQL or PL/SQL mode, so SQL Server and Oracle queries format with the standard keyword set. No, formatting only affects whitespace, line breaks, and indentation. Your query logic and results remain exactly the same. Most style guides recommend UPPERCASE for SQL keywords (SELECT, FROM, WHERE) and ...",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/sql-formatter.svg"
     },
     {
@@ -2220,6 +2220,44 @@
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/debt-payoff-calculator.svg"
     },
     {
+      "id": "findutils-id-generator",
+      "name": "ULID & NanoID Generator",
+      "subtitle": "Generate ULIDs, 26-character time-sortable ids, or NanoIDs, short URL-safe id...",
+      "description": "Generate ULIDs, 26-character time-sortable ids, or NanoIDs, short URL-safe ids with a custom alphabet and length. Batches of up to 100, crypto-random, in your browser. No signup.",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/developers/id-generator/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "A Universally Unique Lexicographically Sortable Identifier: 128 bits, written as 26 characters of Crockford base32 (no I, L, O or U, so it reads well aloud). The first 48 bits are a millisecond Unix timestamp, the remaining 80 are random. Two ULIDs made a millisecond apart sort in creation order as plain strings. A short random id in the style of the npm nanoid package: each character is drawn from an alphabet with cryptographically secure random bytes. The default is 21 characters from a 64-...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
+    },
+    {
+      "id": "findutils-url-parser",
+      "name": "URL Parser",
+      "subtitle": "Paste a URL and see its protocol, credentials, host, port, path, query string...",
+      "description": "Paste a URL and see its protocol, credentials, host, port, path, query string as a table, and hash, plus a JSON form to copy. Validate it, and require HTTPS on request. Runs in your browser, no sig...",
+      "category": [
+        "utilities",
+        "web"
+      ],
+      "platform": "Web",
+      "price": "Free",
+      "github": "https://github.com/olgunozoktas/findutils-tools",
+      "homepage": "https://findutils.com/developers/url-parser/",
+      "language": "TypeScript",
+      "requirements": "Any modern browser",
+      "longDescription": "Protocol, username and password if present, host, port, origin, path, the raw query string, and the hash. The query string is also broken into a key and value table, and the whole result is shown as JSON. Percent-encoded characters in keys and values are decoded in the table. A key that appears more than once, such as size=42&size=43, becomes one row per value in the table and an array in the JSON. That matches how most servers read repeated parameters. The parser follows the browser's URL ru...",
+      "icon": null,
+      "iconEmoji": "\ud83d\udce6"
+    },
+    {
       "id": "findutils-jwt-decoder",
       "name": "JWT Decoder - Decode, Verify, and Generate",
       "subtitle": "Decode, verify, and generate JSON Web Tokens in your browser.",
@@ -2276,8 +2314,8 @@
     {
       "id": "findutils-markdown-previewer",
       "name": "Markdown Previewer",
-      "subtitle": "Write and preview Markdown with real-time live rendering.",
-      "description": "Write and preview Markdown with real-time live rendering. online Markdown editor with syntax highlighting, GitHub-flavored support, and export.",
+      "subtitle": "Write and preview Markdown with live rendering.",
+      "description": "Write and preview Markdown with live rendering. A browser Markdown editor with syntax highlighting and GitHub-flavored support; copy the Markdown when you are done.",
       "category": [
         "utilities",
         "web"
@@ -4197,7 +4235,7 @@
       "id": "findutils-json-yaml-converter",
       "name": "JSON YAML Converter",
       "subtitle": "Convert JSON to YAML and YAML to JSON instantly in your browser.",
-      "description": "Convert JSON to YAML and YAML to JSON instantly in your browser. online converter with syntax validation, formatting options, and no data uploaded to servers.",
+      "description": "Convert JSON to YAML and YAML to JSON instantly in your browser. Syntax validation, formatting options, and no data uploaded to servers.",
       "category": [
         "utilities",
         "web"
@@ -4342,7 +4380,7 @@
       "id": "findutils-xml-formatter",
       "name": "XML Formatter",
       "subtitle": "Format, beautify, and minify XML documents online.",
-      "description": "Format, beautify, and minify XML documents online. Validate XML syntax, customize indentation, and export formatted results. tool, no registration needed.",
+      "description": "Format, beautify, and minify XML documents online. Validate XML syntax, customize indentation, and export formatted results. No registration needed.",
       "category": [
         "utilities",
         "web"
@@ -5025,7 +5063,7 @@
       "id": "findutils-json-to-go-struct",
       "name": "JSON to Go Struct Generator",
       "subtitle": "Convert JSON to Go struct definitions instantly.",
-      "description": "Convert JSON to Go struct definitions instantly. Generate idiomatic Go code with json tags, omitempty, and proper PascalCase field names. no signup.",
+      "description": "Convert JSON to Go struct definitions instantly. Generate idiomatic Go code with json tags, omitempty, and proper PascalCase field names. No signup.",
       "category": [
         "utilities",
         "web"
@@ -5079,7 +5117,7 @@
       "id": "findutils-json-schema-validator",
       "name": "JSON Schema Validator",
       "subtitle": "Validate JSON data against JSON Schema (Draft-07) instantly.",
-      "description": "Validate JSON data against JSON Schema (Draft-07) instantly. Check types, required fields, formats, patterns, and constraints. client-side, no signup.",
+      "description": "Validate JSON data against JSON Schema (Draft-07) instantly. Check types, required fields, formats, patterns, and constraints. Client-side, no signup.",
       "category": [
         "utilities",
         "web"
@@ -6375,7 +6413,7 @@
       "homepage": "https://findutils.com/developers/state-machine-designer/",
       "language": "TypeScript",
       "requirements": "Any modern browser",
-      "longDescription": "Drag from one state's output handle to another state's input handle. You can label the transition with the event name that triggers it. Yes, click on a state to change its type to Initial (green), Final (red), or Normal (blue). Every state machine should have exactly one initial state. Yes, export as JSON for use in XState, Robot, or similar state machine libraries. You can also export a code snippet ready to paste into JavaScript or TypeScript projects.",
+      "longDescription": "Drag from one state's output handle to another state's input handle. You can label the transition with the event name that triggers it. Yes, click on a state to change its type to Initial (green), Final (red), or Normal (blue). Every state machine should have exactly one initial state. Yes. Export the design as JSON in the designer's own shape (states, transitions, events, guards), which you can adapt to XState, Robot, or a hand-written machine, or export a JavaScript/TypeScript code snippet....",
       "icon": "https://raw.githubusercontent.com/olgunozoktas/findutils-tools/main/images/wvw-icons/state-machine-designer.svg"
     },
     {
